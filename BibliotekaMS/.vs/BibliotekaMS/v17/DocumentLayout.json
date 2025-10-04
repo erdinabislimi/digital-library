@@ -1,0 +1,459 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\win-ks.com\\OneDrive\\Desktop\\Projekti-Testimi i Softuerit dhe Sigurimi i Cil\u00EBsis\u00EB\\Testimi\\Testimi\\BibliotekaMS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DA6E43B6-2566-4AC1-AB69-E44B9A65DF1F}|BibliotekaMS.csproj|c:\\users\\win-ks.com\\onedrive\\desktop\\projekti-testimi i softuerit dhe sigurimi i cil\u00EBsis\u00EB\\testimi\\testimi\\bibliotekams\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DA6E43B6-2566-4AC1-AB69-E44B9A65DF1F}|BibliotekaMS.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA6E43B6-2566-4AC1-AB69-E44B9A65DF1F}|BibliotekaMS.csproj|c:\\users\\win-ks.com\\onedrive\\desktop\\projekti-testimi i softuerit dhe sigurimi i cil\u00EBsis\u00EB\\testimi\\testimi\\bibliotekams\\helper\\mappingprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA6E43B6-2566-4AC1-AB69-E44B9A65DF1F}|BibliotekaMS.csproj|solutionrelative:helper\\mappingprofiles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA6E43B6-2566-4AC1-AB69-E44B9A65DF1F}|BibliotekaMS.csproj|c:\\users\\win-ks.com\\onedrive\\desktop\\projekti-testimi i softuerit dhe sigurimi i cil\u00EBsis\u00EB\\testimi\\testimi\\bibliotekams\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA6E43B6-2566-4AC1-AB69-E44B9A65DF1F}|BibliotekaMS.csproj|solutionrelative:data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA6E43B6-2566-4AC1-AB69-E44B9A65DF1F}|BibliotekaMS.csproj|c:\\users\\win-ks.com\\onedrive\\desktop\\projekti-testimi i softuerit dhe sigurimi i cil\u00EBsis\u00EB\\testimi\\testimi\\bibliotekams\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA6E43B6-2566-4AC1-AB69-E44B9A65DF1F}|BibliotekaMS.csproj|solutionrelative:models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA6E43B6-2566-4AC1-AB69-E44B9A65DF1F}|BibliotekaMS.csproj|c:\\users\\win-ks.com\\onedrive\\desktop\\projekti-testimi i softuerit dhe sigurimi i cil\u00EBsis\u00EB\\testimi\\testimi\\bibliotekams\\dto\\libridto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA6E43B6-2566-4AC1-AB69-E44B9A65DF1F}|BibliotekaMS.csproj|solutionrelative:dto\\libridto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA6E43B6-2566-4AC1-AB69-E44B9A65DF1F}|BibliotekaMS.csproj|c:\\users\\win-ks.com\\onedrive\\desktop\\projekti-testimi i softuerit dhe sigurimi i cil\u00EBsis\u00EB\\testimi\\testimi\\bibliotekams\\models\\libri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA6E43B6-2566-4AC1-AB69-E44B9A65DF1F}|BibliotekaMS.csproj|solutionrelative:models\\libri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA6E43B6-2566-4AC1-AB69-E44B9A65DF1F}|BibliotekaMS.csproj|c:\\users\\win-ks.com\\onedrive\\desktop\\projekti-testimi i softuerit dhe sigurimi i cil\u00EBsis\u00EB\\testimi\\testimi\\bibliotekams\\controllers\\libricontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA6E43B6-2566-4AC1-AB69-E44B9A65DF1F}|BibliotekaMS.csproj|solutionrelative:controllers\\libricontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA6E43B6-2566-4AC1-AB69-E44B9A65DF1F}|BibliotekaMS.csproj|c:\\users\\win-ks.com\\onedrive\\desktop\\projekti-testimi i softuerit dhe sigurimi i cil\u00EBsis\u00EB\\testimi\\testimi\\bibliotekams\\controllers\\reviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA6E43B6-2566-4AC1-AB69-E44B9A65DF1F}|BibliotekaMS.csproj|solutionrelative:controllers\\reviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA6E43B6-2566-4AC1-AB69-E44B9A65DF1F}|BibliotekaMS.csproj|c:\\users\\win-ks.com\\onedrive\\desktop\\projekti-testimi i softuerit dhe sigurimi i cil\u00EBsis\u00EB\\testimi\\testimi\\bibliotekams\\controllers\\rezervimicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA6E43B6-2566-4AC1-AB69-E44B9A65DF1F}|BibliotekaMS.csproj|solutionrelative:controllers\\rezervimicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA6E43B6-2566-4AC1-AB69-E44B9A65DF1F}|BibliotekaMS.csproj|c:\\users\\win-ks.com\\onedrive\\desktop\\projekti-testimi i softuerit dhe sigurimi i cil\u00EBsis\u00EB\\testimi\\testimi\\bibliotekams\\controllers\\huazimicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA6E43B6-2566-4AC1-AB69-E44B9A65DF1F}|BibliotekaMS.csproj|solutionrelative:controllers\\huazimicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA6E43B6-2566-4AC1-AB69-E44B9A65DF1F}|BibliotekaMS.csproj|c:\\users\\win-ks.com\\onedrive\\desktop\\projekti-testimi i softuerit dhe sigurimi i cil\u00EBsis\u00EB\\testimi\\testimi\\bibliotekams\\models\\huazimi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA6E43B6-2566-4AC1-AB69-E44B9A65DF1F}|BibliotekaMS.csproj|solutionrelative:models\\huazimi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA6E43B6-2566-4AC1-AB69-E44B9A65DF1F}|BibliotekaMS.csproj|c:\\users\\win-ks.com\\onedrive\\desktop\\projekti-testimi i softuerit dhe sigurimi i cil\u00EBsis\u00EB\\testimi\\testimi\\bibliotekams\\authentication\\authenticatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA6E43B6-2566-4AC1-AB69-E44B9A65DF1F}|BibliotekaMS.csproj|solutionrelative:authentication\\authenticatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA6E43B6-2566-4AC1-AB69-E44B9A65DF1F}|BibliotekaMS.csproj|c:\\users\\win-ks.com\\onedrive\\desktop\\projekti-testimi i softuerit dhe sigurimi i cil\u00EBsis\u00EB\\testimi\\testimi\\bibliotekams\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA6E43B6-2566-4AC1-AB69-E44B9A65DF1F}|BibliotekaMS.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\win-ks.com\\Downloads\\LAB1\\LAB1\\Biblioteka\\BibliotekaMS\\Migrations\\20250401151115_Libraryyy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\win-ks.com\\Downloads\\LAB1\\LAB1\\Biblioteka\\BibliotekaMS\\Migrations\\20250401150747_Libraryyy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\win-ks.com\\Downloads\\LAB1\\LAB1\\Biblioteka\\BibliotekaMS\\Migrations\\20250401150344_Initial DB.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Wp\\Desktop\\Lab-1\\Biblioteka\\BibliotekaMS\\Controllers\\LigjerataController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA6E43B6-2566-4AC1-AB69-E44B9A65DF1F}|BibliotekaMS.csproj|c:\\users\\win-ks.com\\onedrive\\desktop\\projekti-testimi i softuerit dhe sigurimi i cil\u00EBsis\u00EB\\testimi\\testimi\\bibliotekams\\models\\kategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA6E43B6-2566-4AC1-AB69-E44B9A65DF1F}|BibliotekaMS.csproj|solutionrelative:models\\kategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA6E43B6-2566-4AC1-AB69-E44B9A65DF1F}|BibliotekaMS.csproj|c:\\users\\win-ks.com\\onedrive\\desktop\\projekti-testimi i softuerit dhe sigurimi i cil\u00EBsis\u00EB\\testimi\\testimi\\bibliotekams\\models\\autori.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA6E43B6-2566-4AC1-AB69-E44B9A65DF1F}|BibliotekaMS.csproj|solutionrelative:models\\autori.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA6E43B6-2566-4AC1-AB69-E44B9A65DF1F}|BibliotekaMS.csproj|c:\\users\\win-ks.com\\onedrive\\desktop\\projekti-testimi i softuerit dhe sigurimi i cil\u00EBsis\u00EB\\testimi\\testimi\\bibliotekams\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DA6E43B6-2566-4AC1-AB69-E44B9A65DF1F}|BibliotekaMS.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA6E43B6-2566-4AC1-AB69-E44B9A65DF1F}|BibliotekaMS.csproj|c:\\users\\win-ks.com\\onedrive\\desktop\\projekti-testimi i softuerit dhe sigurimi i cil\u00EBsis\u00EB\\testimi\\testimi\\bibliotekams\\bibliotekams.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DA6E43B6-2566-4AC1-AB69-E44B9A65DF1F}|BibliotekaMS.csproj|solutionrelative:bibliotekams.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA6E43B6-2566-4AC1-AB69-E44B9A65DF1F}|BibliotekaMS.csproj|c:\\users\\win-ks.com\\onedrive\\desktop\\projekti-testimi i softuerit dhe sigurimi i cil\u00EBsis\u00EB\\testimi\\testimi\\bibliotekams\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DA6E43B6-2566-4AC1-AB69-E44B9A65DF1F}|BibliotekaMS.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Wp\\Desktop\\Lab-1\\Biblioteka\\BibliotekaMS\\Controllers\\LigjeruesiController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Wp\\Desktop\\Lab-1\\Biblioteka\\BibliotekaMS\\Dto\\LigjerataDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Wp\\Desktop\\Lab-1\\Biblioteka\\BibliotekaMS\\Dto\\LigjeruesiDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Wp\\Desktop\\Lab-1\\Biblioteka\\BibliotekaMS\\Models\\Ligjerata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Wp\\Desktop\\Lab-1\\Biblioteka\\BibliotekaMS\\Models\\Ligjeruesi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA6E43B6-2566-4AC1-AB69-E44B9A65DF1F}|BibliotekaMS.csproj|c:\\users\\win-ks.com\\onedrive\\desktop\\projekti-testimi i softuerit dhe sigurimi i cil\u00EBsis\u00EB\\testimi\\testimi\\bibliotekams\\migrations\\20250401151932_libraryyyt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA6E43B6-2566-4AC1-AB69-E44B9A65DF1F}|BibliotekaMS.csproj|solutionrelative:migrations\\20250401151932_libraryyyt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Libri.cs",
+              "DocumentMoniker": "C:\\Users\\win-ks.com\\OneDrive\\Desktop\\Projekti-Testimi i Softuerit dhe Sigurimi i Cil\u00EBsis\u00EB\\Testimi\\Testimi\\BibliotekaMS\\Models\\Libri.cs",
+              "RelativeDocumentMoniker": "Models\\Libri.cs",
+              "ToolTip": "C:\\Users\\win-ks.com\\OneDrive\\Desktop\\Projekti-Testimi i Softuerit dhe Sigurimi i Cil\u00EBsis\u00EB\\Testimi\\Testimi\\BibliotekaMS\\Models\\Libri.cs",
+              "RelativeToolTip": "Models\\Libri.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T08:04:18.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RezervimiController.cs",
+              "DocumentMoniker": "C:\\Users\\win-ks.com\\OneDrive\\Desktop\\Projekti-Testimi i Softuerit dhe Sigurimi i Cil\u00EBsis\u00EB\\Testimi\\Testimi\\BibliotekaMS\\Controllers\\RezervimiController.cs",
+              "RelativeDocumentMoniker": "Controllers\\RezervimiController.cs",
+              "ToolTip": "C:\\Users\\win-ks.com\\OneDrive\\Desktop\\Projekti-Testimi i Softuerit dhe Sigurimi i Cil\u00EBsis\u00EB\\Testimi\\Testimi\\BibliotekaMS\\Controllers\\RezervimiController.cs",
+              "RelativeToolTip": "Controllers\\RezervimiController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAiwCMAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T19:17:25.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LigjerataController.cs",
+              "DocumentMoniker": "C:\\Users\\Wp\\Desktop\\Lab-1\\Biblioteka\\BibliotekaMS\\Controllers\\LigjerataController.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Wp\\Desktop\\Lab-1\\Biblioteka\\BibliotekaMS\\Controllers\\LigjerataController.cs",
+              "ToolTip": "C:\\Users\\Wp\\Desktop\\Lab-1\\Biblioteka\\BibliotekaMS\\Controllers\\LigjerataController.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Wp\\Desktop\\Lab-1\\Biblioteka\\BibliotekaMS\\Controllers\\LigjerataController.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T08:40:28.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\win-ks.com\\OneDrive\\Desktop\\Projekti-Testimi i Softuerit dhe Sigurimi i Cil\u00EBsis\u00EB\\Testimi\\Testimi\\BibliotekaMS\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\win-ks.com\\OneDrive\\Desktop\\Projekti-Testimi i Softuerit dhe Sigurimi i Cil\u00EBsis\u00EB\\Testimi\\Testimi\\BibliotekaMS\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T21:14:15.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\win-ks.com\\OneDrive\\Desktop\\Projekti-Testimi i Softuerit dhe Sigurimi i Cil\u00EBsis\u00EB\\Testimi\\Testimi\\BibliotekaMS\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\win-ks.com\\OneDrive\\Desktop\\Projekti-Testimi i Softuerit dhe Sigurimi i Cil\u00EBsis\u00EB\\Testimi\\Testimi\\BibliotekaMS\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-05T21:54:03.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MappingProfiles.cs",
+              "DocumentMoniker": "C:\\Users\\win-ks.com\\OneDrive\\Desktop\\Projekti-Testimi i Softuerit dhe Sigurimi i Cil\u00EBsis\u00EB\\Testimi\\Testimi\\BibliotekaMS\\Helper\\MappingProfiles.cs",
+              "RelativeDocumentMoniker": "Helper\\MappingProfiles.cs",
+              "ToolTip": "C:\\Users\\win-ks.com\\OneDrive\\Desktop\\Projekti-Testimi i Softuerit dhe Sigurimi i Cil\u00EBsis\u00EB\\Testimi\\Testimi\\BibliotekaMS\\Helper\\MappingProfiles.cs",
+              "RelativeToolTip": "Helper\\MappingProfiles.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwCMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T08:08:56.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LibriController.cs",
+              "DocumentMoniker": "C:\\Users\\win-ks.com\\OneDrive\\Desktop\\Projekti-Testimi i Softuerit dhe Sigurimi i Cil\u00EBsis\u00EB\\Testimi\\Testimi\\BibliotekaMS\\Controllers\\LibriController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LibriController.cs",
+              "ToolTip": "C:\\Users\\win-ks.com\\OneDrive\\Desktop\\Projekti-Testimi i Softuerit dhe Sigurimi i Cil\u00EBsis\u00EB\\Testimi\\Testimi\\BibliotekaMS\\Controllers\\LibriController.cs",
+              "RelativeToolTip": "Controllers\\LibriController.cs",
+              "ViewState": "AgIAAAMBAAAAAAAAAAAowBABAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T19:09:27.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Huazimi.cs",
+              "DocumentMoniker": "C:\\Users\\win-ks.com\\OneDrive\\Desktop\\Projekti-Testimi i Softuerit dhe Sigurimi i Cil\u00EBsis\u00EB\\Testimi\\Testimi\\BibliotekaMS\\Models\\Huazimi.cs",
+              "RelativeDocumentMoniker": "Models\\Huazimi.cs",
+              "ToolTip": "C:\\Users\\win-ks.com\\OneDrive\\Desktop\\Projekti-Testimi i Softuerit dhe Sigurimi i Cil\u00EBsis\u00EB\\Testimi\\Testimi\\BibliotekaMS\\Models\\Huazimi.cs",
+              "RelativeToolTip": "Models\\Huazimi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T08:04:14.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HuazimiController.cs",
+              "DocumentMoniker": "C:\\Users\\win-ks.com\\OneDrive\\Desktop\\Projekti-Testimi i Softuerit dhe Sigurimi i Cil\u00EBsis\u00EB\\Testimi\\Testimi\\BibliotekaMS\\Controllers\\HuazimiController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HuazimiController.cs",
+              "ToolTip": "C:\\Users\\win-ks.com\\OneDrive\\Desktop\\Projekti-Testimi i Softuerit dhe Sigurimi i Cil\u00EBsis\u00EB\\Testimi\\Testimi\\BibliotekaMS\\Controllers\\HuazimiController.cs",
+              "RelativeToolTip": "Controllers\\HuazimiController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T19:04:05.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AuthenticateController.cs",
+              "DocumentMoniker": "C:\\Users\\win-ks.com\\OneDrive\\Desktop\\Projekti-Testimi i Softuerit dhe Sigurimi i Cil\u00EBsis\u00EB\\Testimi\\Testimi\\BibliotekaMS\\Authentication\\AuthenticateController.cs",
+              "RelativeDocumentMoniker": "Authentication\\AuthenticateController.cs",
+              "ToolTip": "C:\\Users\\win-ks.com\\OneDrive\\Desktop\\Projekti-Testimi i Softuerit dhe Sigurimi i Cil\u00EBsis\u00EB\\Testimi\\Testimi\\BibliotekaMS\\Authentication\\AuthenticateController.cs",
+              "RelativeToolTip": "Authentication\\AuthenticateController.cs",
+              "ViewState": "AgIAAOoAAAAAAAAAAAAmwPwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T19:09:49.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20250401150344_Initial DB.cs",
+              "DocumentMoniker": "C:\\Users\\win-ks.com\\Downloads\\LAB1\\LAB1\\Biblioteka\\BibliotekaMS\\Migrations\\20250401150344_Initial DB.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Downloads\\LAB1\\LAB1\\Biblioteka\\BibliotekaMS\\Migrations\\20250401150344_Initial DB.cs",
+              "ToolTip": "C:\\Users\\win-ks.com\\Downloads\\LAB1\\LAB1\\Biblioteka\\BibliotekaMS\\Migrations\\20250401150344_Initial DB.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Downloads\\LAB1\\LAB1\\Biblioteka\\BibliotekaMS\\Migrations\\20250401150344_Initial DB.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T15:03:44.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20250401150747_Libraryyy.cs",
+              "DocumentMoniker": "C:\\Users\\win-ks.com\\Downloads\\LAB1\\LAB1\\Biblioteka\\BibliotekaMS\\Migrations\\20250401150747_Libraryyy.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Downloads\\LAB1\\LAB1\\Biblioteka\\BibliotekaMS\\Migrations\\20250401150747_Libraryyy.cs",
+              "ToolTip": "C:\\Users\\win-ks.com\\Downloads\\LAB1\\LAB1\\Biblioteka\\BibliotekaMS\\Migrations\\20250401150747_Libraryyy.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Downloads\\LAB1\\LAB1\\Biblioteka\\BibliotekaMS\\Migrations\\20250401150747_Libraryyy.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T15:07:47.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20250401151115_Libraryyy.cs",
+              "DocumentMoniker": "C:\\Users\\win-ks.com\\Downloads\\LAB1\\LAB1\\Biblioteka\\BibliotekaMS\\Migrations\\20250401151115_Libraryyy.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Downloads\\LAB1\\LAB1\\Biblioteka\\BibliotekaMS\\Migrations\\20250401151115_Libraryyy.cs",
+              "ToolTip": "C:\\Users\\win-ks.com\\Downloads\\LAB1\\LAB1\\Biblioteka\\BibliotekaMS\\Migrations\\20250401151115_Libraryyy.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Downloads\\LAB1\\LAB1\\Biblioteka\\BibliotekaMS\\Migrations\\20250401151115_Libraryyy.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T15:11:15.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "20250401151932_Libraryyyt.cs",
+              "DocumentMoniker": "C:\\Users\\win-ks.com\\OneDrive\\Desktop\\Projekti-Testimi i Softuerit dhe Sigurimi i Cil\u00EBsis\u00EB\\Testimi\\Testimi\\BibliotekaMS\\Migrations\\20250401151932_Libraryyyt.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250401151932_Libraryyyt.cs",
+              "ToolTip": "C:\\Users\\win-ks.com\\OneDrive\\Desktop\\Projekti-Testimi i Softuerit dhe Sigurimi i Cil\u00EBsis\u00EB\\Testimi\\Testimi\\BibliotekaMS\\Migrations\\20250401151932_Libraryyyt.cs",
+              "RelativeToolTip": "Migrations\\20250401151932_Libraryyyt.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T15:19:32.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Ligjerata.cs",
+              "DocumentMoniker": "C:\\Users\\Wp\\Desktop\\Lab-1\\Biblioteka\\BibliotekaMS\\Models\\Ligjerata.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Wp\\Desktop\\Lab-1\\Biblioteka\\BibliotekaMS\\Models\\Ligjerata.cs",
+              "ToolTip": "C:\\Users\\Wp\\Desktop\\Lab-1\\Biblioteka\\BibliotekaMS\\Models\\Ligjerata.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Wp\\Desktop\\Lab-1\\Biblioteka\\BibliotekaMS\\Models\\Ligjerata.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T08:03:09.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\win-ks.com\\OneDrive\\Desktop\\Projekti-Testimi i Softuerit dhe Sigurimi i Cil\u00EBsis\u00EB\\Testimi\\Testimi\\BibliotekaMS\\Data\\DataContext.cs",
+              "RelativeDocumentMoniker": "Data\\DataContext.cs",
+              "ToolTip": "C:\\Users\\win-ks.com\\OneDrive\\Desktop\\Projekti-Testimi i Softuerit dhe Sigurimi i Cil\u00EBsis\u00EB\\Testimi\\Testimi\\BibliotekaMS\\Data\\DataContext.cs",
+              "RelativeToolTip": "Data\\DataContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T19:06:01.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "LigjeruesiDto.cs",
+              "DocumentMoniker": "C:\\Users\\Wp\\Desktop\\Lab-1\\Biblioteka\\BibliotekaMS\\Dto\\LigjeruesiDto.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Wp\\Desktop\\Lab-1\\Biblioteka\\BibliotekaMS\\Dto\\LigjeruesiDto.cs",
+              "ToolTip": "C:\\Users\\Wp\\Desktop\\Lab-1\\Biblioteka\\BibliotekaMS\\Dto\\LigjeruesiDto.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Wp\\Desktop\\Lab-1\\Biblioteka\\BibliotekaMS\\Dto\\LigjeruesiDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T08:06:49.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "LigjerataDto.cs",
+              "DocumentMoniker": "C:\\Users\\Wp\\Desktop\\Lab-1\\Biblioteka\\BibliotekaMS\\Dto\\LigjerataDto.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Wp\\Desktop\\Lab-1\\Biblioteka\\BibliotekaMS\\Dto\\LigjerataDto.cs",
+              "ToolTip": "C:\\Users\\Wp\\Desktop\\Lab-1\\Biblioteka\\BibliotekaMS\\Dto\\LigjerataDto.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Wp\\Desktop\\Lab-1\\Biblioteka\\BibliotekaMS\\Dto\\LigjerataDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T08:07:04.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Kategoria.cs",
+              "DocumentMoniker": "C:\\Users\\win-ks.com\\OneDrive\\Desktop\\Projekti-Testimi i Softuerit dhe Sigurimi i Cil\u00EBsis\u00EB\\Testimi\\Testimi\\BibliotekaMS\\Models\\Kategoria.cs",
+              "RelativeDocumentMoniker": "Models\\Kategoria.cs",
+              "ToolTip": "C:\\Users\\win-ks.com\\OneDrive\\Desktop\\Projekti-Testimi i Softuerit dhe Sigurimi i Cil\u00EBsis\u00EB\\Testimi\\Testimi\\BibliotekaMS\\Models\\Kategoria.cs",
+              "RelativeToolTip": "Models\\Kategoria.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T08:04:27.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "LigjeruesiController.cs",
+              "DocumentMoniker": "C:\\Users\\Wp\\Desktop\\Lab-1\\Biblioteka\\BibliotekaMS\\Controllers\\LigjeruesiController.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Wp\\Desktop\\Lab-1\\Biblioteka\\BibliotekaMS\\Controllers\\LigjeruesiController.cs",
+              "ToolTip": "C:\\Users\\Wp\\Desktop\\Lab-1\\Biblioteka\\BibliotekaMS\\Controllers\\LigjeruesiController.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Wp\\Desktop\\Lab-1\\Biblioteka\\BibliotekaMS\\Controllers\\LigjeruesiController.cs",
+              "ViewState": "AQIAAGIAAAAAAAAAAADwv2oAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T08:38:50.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Ligjeruesi.cs",
+              "DocumentMoniker": "C:\\Users\\Wp\\Desktop\\Lab-1\\Biblioteka\\BibliotekaMS\\Models\\Ligjeruesi.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Wp\\Desktop\\Lab-1\\Biblioteka\\BibliotekaMS\\Models\\Ligjeruesi.cs",
+              "ToolTip": "C:\\Users\\Wp\\Desktop\\Lab-1\\Biblioteka\\BibliotekaMS\\Models\\Ligjeruesi.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Wp\\Desktop\\Lab-1\\Biblioteka\\BibliotekaMS\\Models\\Ligjeruesi.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T08:01:20.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\win-ks.com\\OneDrive\\Desktop\\Projekti-Testimi i Softuerit dhe Sigurimi i Cil\u00EBsis\u00EB\\Testimi\\Testimi\\BibliotekaMS\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "Models\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\win-ks.com\\OneDrive\\Desktop\\Projekti-Testimi i Softuerit dhe Sigurimi i Cil\u00EBsis\u00EB\\Testimi\\Testimi\\BibliotekaMS\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "Models\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T08:04:24.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Autori.cs",
+              "DocumentMoniker": "C:\\Users\\win-ks.com\\OneDrive\\Desktop\\Projekti-Testimi i Softuerit dhe Sigurimi i Cil\u00EBsis\u00EB\\Testimi\\Testimi\\BibliotekaMS\\Models\\Autori.cs",
+              "RelativeDocumentMoniker": "Models\\Autori.cs",
+              "ToolTip": "C:\\Users\\win-ks.com\\OneDrive\\Desktop\\Projekti-Testimi i Softuerit dhe Sigurimi i Cil\u00EBsis\u00EB\\Testimi\\Testimi\\BibliotekaMS\\Models\\Autori.cs",
+              "RelativeToolTip": "Models\\Autori.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T08:01:12.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ReviewController.cs",
+              "DocumentMoniker": "C:\\Users\\win-ks.com\\OneDrive\\Desktop\\Projekti-Testimi i Softuerit dhe Sigurimi i Cil\u00EBsis\u00EB\\Testimi\\Testimi\\BibliotekaMS\\Controllers\\ReviewController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ReviewController.cs",
+              "ToolTip": "C:\\Users\\win-ks.com\\OneDrive\\Desktop\\Projekti-Testimi i Softuerit dhe Sigurimi i Cil\u00EBsis\u00EB\\Testimi\\Testimi\\BibliotekaMS\\Controllers\\ReviewController.cs",
+              "RelativeToolTip": "Controllers\\ReviewController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAswCMAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T19:14:38.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LibriDto.cs",
+              "DocumentMoniker": "C:\\Users\\win-ks.com\\OneDrive\\Desktop\\Projekti-Testimi i Softuerit dhe Sigurimi i Cil\u00EBsis\u00EB\\Testimi\\Testimi\\BibliotekaMS\\Dto\\LibriDto.cs",
+              "RelativeDocumentMoniker": "Dto\\LibriDto.cs",
+              "ToolTip": "C:\\Users\\win-ks.com\\OneDrive\\Desktop\\Projekti-Testimi i Softuerit dhe Sigurimi i Cil\u00EBsis\u00EB\\Testimi\\Testimi\\BibliotekaMS\\Dto\\LibriDto.cs",
+              "RelativeToolTip": "Dto\\LibriDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T19:08:45.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\win-ks.com\\OneDrive\\Desktop\\Projekti-Testimi i Softuerit dhe Sigurimi i Cil\u00EBsis\u00EB\\Testimi\\Testimi\\BibliotekaMS\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\win-ks.com\\OneDrive\\Desktop\\Projekti-Testimi i Softuerit dhe Sigurimi i Cil\u00EBsis\u00EB\\Testimi\\Testimi\\BibliotekaMS\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-05T21:54:28.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "BibliotekaMS.csproj",
+              "DocumentMoniker": "C:\\Users\\win-ks.com\\OneDrive\\Desktop\\Projekti-Testimi i Softuerit dhe Sigurimi i Cil\u00EBsis\u00EB\\Testimi\\Testimi\\BibliotekaMS\\BibliotekaMS.csproj",
+              "RelativeDocumentMoniker": "BibliotekaMS.csproj",
+              "ToolTip": "C:\\Users\\win-ks.com\\OneDrive\\Desktop\\Projekti-Testimi i Softuerit dhe Sigurimi i Cil\u00EBsis\u00EB\\Testimi\\Testimi\\BibliotekaMS\\BibliotekaMS.csproj",
+              "RelativeToolTip": "BibliotekaMS.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-05T21:41:05.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\win-ks.com\\OneDrive\\Desktop\\Projekti-Testimi i Softuerit dhe Sigurimi i Cil\u00EBsis\u00EB\\Testimi\\Testimi\\BibliotekaMS\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\win-ks.com\\OneDrive\\Desktop\\Projekti-Testimi i Softuerit dhe Sigurimi i Cil\u00EBsis\u00EB\\Testimi\\Testimi\\BibliotekaMS\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAABoAAABAMzMzMzMbwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-05T21:13:13.725Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

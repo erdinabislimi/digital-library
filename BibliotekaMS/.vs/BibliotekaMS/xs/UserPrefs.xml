@@ -1,0 +1,98 @@
+﻿<Properties StartupConfiguration="{DA6E43B6-2566-4AC1-AB69-E44B9A65DF1F}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.BibliotekaMS PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <Debugger.DebugSourceFolders />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Controllers/LibriController.cs">
+    <Files>
+      <File FileName="Authentication/AuthenticateController.cs" />
+      <File FileName="Helper/MappingProfiles.cs" />
+      <File FileName="Data/DataContext.cs" />
+      <File FileName="Program.cs" />
+      <File FileName="appsettings.Development.json" />
+      <File FileName="appsettings.json" />
+      <File FileName="Migrations/20241109161955_BibliotekaLAB1.Designer.cs" />
+      <File FileName="Controllers/AutoriController.cs" />
+      <File FileName="Models/Autori.cs" />
+      <File FileName="Models/AutoriILibrit.cs" />
+      <File FileName="Models/ApplicationUser.cs" />
+      <File FileName="Dto/AutoriDto.cs" />
+      <File FileName="Authentication/LoginModel.cs" />
+      <File FileName="Authentication/RegisterModel.cs" />
+      <File FileName="Authentication/Response.cs" />
+      <File FileName="Authentication/UserDto.cs" />
+      <File FileName="Authentication/UserRoles.cs" />
+      <File FileName="Models/LibriRequest.cs" />
+      <File FileName="Interfaces/IAutoriILibritRepository.cs" />
+      <File FileName="Migrations/20241109161955_BibliotekaLAB1.cs" />
+      <File FileName="Migrations/20241109170108_BibliotekaLab1Migrim.cs" />
+      <File FileName="Migrations/20241109161049_BibliotekaGerta.cs" />
+      <File FileName="Migrations/20241003083211_emriDatabases.cs" />
+      <File FileName="Migrations/20240905221232_init.cs" />
+      <File FileName="Controllers/HuazimiController.cs" />
+      <File FileName="Repository/LibriRepository.cs" />
+      <File FileName="BibliotekaMS.csproj" />
+      <File FileName="Properties/launchSettings.json" />
+      <File FileName="Dto/RezervimiDto.cs" />
+      <File FileName="Dto/ReviewDto.cs" />
+      <File FileName="Models/Kategoria.cs" />
+      <File FileName="Models/Rezervimi.cs" />
+      <File FileName="Models/KategoriaELibrit.cs" />
+      <File FileName="../../.DS_Store" />
+      <File FileName="Models/Libri.cs" />
+      <File FileName="Models/Review.cs" />
+      <File FileName="Migrations/20241124190921_BB.cs" />
+      <File FileName="Controllers/KategoriaController.cs" />
+      <File FileName="Models/Huazimi.cs" />
+      <File FileName="Dto/LibriDto.cs" />
+      <File FileName="Dto/HuazimiDto.cs" />
+      <File FileName="Controllers/NdertesaController.cs" />
+      <File FileName="Models/Ashensori.cs" />
+      <File FileName="Models/Ndertesa.cs" />
+      <File FileName="Dto/NdertesaDto.cs" />
+      <File FileName="Dto/AshensoriDto.cs" />
+      <File FileName="Controllers/ReviewController.cs" />
+      <File FileName="Controllers/AshensoriController.cs" />
+      <File FileName="Migrations/20241208233131_LabLabLab.cs" />
+      <File FileName="Models/Universiteti.cs" />
+      <File FileName="Dto/ProgramiDto.cs" />
+      <File FileName="Dto/UniversitetiDto.cs" />
+      <File FileName="Controllers/ProgramiController.cs" />
+      <File FileName="Controllers/UniversitetiController.cs" />
+      <File FileName="Models/Programi.cs" />
+      <File FileName="Controllers/LibriController.cs" Line="205" Column="1" />
+      <File FileName="Dto/KategoriaDto.cs" />
+      <File FileName="package.json" />
+      <File FileName="Repository/AutoriILibritRepository.cs" />
+      <File FileName="Repository/KategoriaRepository.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BibliotekaMS" expanded="True">
+            <Node name="BibliotekaMS" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Authentication" expanded="True" />
+              <Node name="Controllers" expanded="True">
+                <Node name="LibriController.cs" selected="True" />
+              </Node>
+              <Node name="Data" expanded="True" />
+              <Node name="Dto" expanded="True" />
+              <Node name="Helper" expanded="True" />
+              <Node name="Interfaces" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Repository" expanded="True" />
+              <Node name="appsettings.json" expanded="True" />
+              <Node name="package.json" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

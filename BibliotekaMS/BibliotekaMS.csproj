@@ -1,0 +1,67 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Identity\**" />
+    <Compile Remove="NewFolder1\**" />
+    <Compile Remove="NewFolder2\**" />
+    <Compile Remove="NewFolder3\**" />
+    <Compile Remove="Repository\NewFolder\**" />
+    <Content Remove="Identity\**" />
+    <Content Remove="NewFolder1\**" />
+    <Content Remove="NewFolder2\**" />
+    <Content Remove="NewFolder3\**" />
+    <Content Remove="Repository\NewFolder\**" />
+    <EmbeddedResource Remove="Identity\**" />
+    <EmbeddedResource Remove="NewFolder1\**" />
+    <EmbeddedResource Remove="NewFolder2\**" />
+    <EmbeddedResource Remove="NewFolder3\**" />
+    <EmbeddedResource Remove="Repository\NewFolder\**" />
+    <None Remove="Identity\**" />
+    <None Remove="NewFolder1\**" />
+    <None Remove="NewFolder2\**" />
+    <None Remove="NewFolder3\**" />
+    <None Remove="Repository\NewFolder\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Remove="Controllers\AdminController.cs" />
+    <Compile Remove="Controllers\DashboardController.cs" />
+    <Compile Remove="Controllers\UserAuthenticationController.cs" />
+    <Compile Remove="Interfaces\IUserAuthenticationRepository.cs" />
+    <Compile Remove="Models\Status.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="12.0.1" />
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="12.0.1" />
+    <PackageReference Include="DocumentFormat.OpenXml" Version="2.20.0" />
+    <PackageReference Include="DocumentFormat.OpenXml.DotNet.Core" Version="1.0.1" />
+    <PackageReference Include="log4net" Version="2.0.15" />
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="6.0.16" />
+    <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="6.0.16" />
+    <PackageReference Include="Microsoft.AspNetCore.Identity.UI" Version="6.0.16" />
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.Core" Version="2.2.5" />
+    <PackageReference Include="Microsoft.CodeAnalysis.FxCopAnalyzers" Version="3.3.2">
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+      <PrivateAssets>all</PrivateAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="7.0.5">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="7.0.5" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="7.0.5">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.2.3" />
+    <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="6.31.0" />
+  </ItemGroup>
+
+</Project>

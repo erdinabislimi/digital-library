@@ -1,0 +1,1369 @@
+C:/Users/kasap/OneDrive/Desktop/Biblioteka/BibliotekaMS/obj/Debug/net6.0/BibliotekaMS.csproj.AssemblyReference.cache
+C:/Users/kasap/OneDrive/Desktop/Biblioteka/BibliotekaMS/obj/Debug/net6.0/BibliotekaMS.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/kasap/OneDrive/Desktop/Biblioteka/BibliotekaMS/obj/Debug/net6.0/BibliotekaMS.AssemblyInfoInputs.cache
+C:/Users/kasap/OneDrive/Desktop/Biblioteka/BibliotekaMS/obj/Debug/net6.0/BibliotekaMS.AssemblyInfo.cs
+C:/Users/kasap/OneDrive/Desktop/Biblioteka/BibliotekaMS/obj/Debug/net6.0/BibliotekaMS.csproj.CoreCompileInputs.cache
+C:/Users/kasap/OneDrive/Desktop/Biblioteka/BibliotekaMS/obj/Debug/net6.0/BibliotekaMS.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/kasap/OneDrive/Desktop/Biblioteka/BibliotekaMS/obj/Debug/net6.0/BibliotekaMS.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/kasap/OneDrive/Desktop/Biblioteka/BibliotekaMS/bin/Debug/net6.0/appsettings.Development.json
+C:/Users/kasap/OneDrive/Desktop/Biblioteka/BibliotekaMS/bin/Debug/net6.0/appsettings.json
+C:/Users/kasap/OneDrive/Desktop/Biblioteka/BibliotekaMS/bin/Debug/net6.0/BibliotekaMS.exe
+C:/Users/kasap/OneDrive/Desktop/Biblioteka/BibliotekaMS/bin/Debug/net6.0/BibliotekaMS.deps.json
+C:/Users/kasap/OneDrive/Desktop/Biblioteka/BibliotekaMS/bin/Debug/net6.0/BibliotekaMS.runtimeconfig.json
+C:/Users/kasap/OneDrive/Desktop/Biblioteka/BibliotekaMS/bin/Debug/net6.0/BibliotekaMS.dll
+C:/Users/kasap/OneDrive/Desktop/Biblioteka/BibliotekaMS/bin/Debug/net6.0/BibliotekaMS.pdb
+C:/Users/kasap/OneDrive/Desktop/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Azure.Core.dll
+C:/Users/kasap/OneDrive/Desktop/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Azure.Identity.dll
+C:/Users/kasap/OneDrive/Desktop/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Humanizer.dll
+C:/Users/kasap/OneDrive/Desktop/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Microsoft.Bcl.AsyncInterfaces.dll
+C:/Users/kasap/OneDrive/Desktop/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+C:/Users/kasap/OneDrive/Desktop/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/kasap/OneDrive/Desktop/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/kasap/OneDrive/Desktop/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/kasap/OneDrive/Desktop/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/kasap/OneDrive/Desktop/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+C:/Users/kasap/OneDrive/Desktop/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Microsoft.Extensions.Caching.Abstractions.dll
+C:/Users/kasap/OneDrive/Desktop/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+C:/Users/kasap/OneDrive/Desktop/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Microsoft.Extensions.Configuration.Abstractions.dll
+C:/Users/kasap/OneDrive/Desktop/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+C:/Users/kasap/OneDrive/Desktop/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:/Users/kasap/OneDrive/Desktop/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Microsoft.Extensions.DependencyModel.dll
+C:/Users/kasap/OneDrive/Desktop/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Microsoft.Extensions.Logging.dll
+C:/Users/kasap/OneDrive/Desktop/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Microsoft.Extensions.Logging.Abstractions.dll
+C:/Users/kasap/OneDrive/Desktop/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Microsoft.Extensions.Options.dll
+C:/Users/kasap/OneDrive/Desktop/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Microsoft.Extensions.Primitives.dll
+C:/Users/kasap/OneDrive/Desktop/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+C:/Users/kasap/OneDrive/Desktop/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Microsoft.Identity.Client.Extensions.Msal.dll
+C:/Users/kasap/OneDrive/Desktop/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Microsoft.IdentityModel.Abstractions.dll
+C:/Users/kasap/OneDrive/Desktop/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Users/kasap/OneDrive/Desktop/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+C:/Users/kasap/OneDrive/Desktop/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+C:/Users/kasap/OneDrive/Desktop/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:/Users/kasap/OneDrive/Desktop/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+C:/Users/kasap/OneDrive/Desktop/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Microsoft.OpenApi.dll
+C:/Users/kasap/OneDrive/Desktop/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Microsoft.SqlServer.Server.dll
+C:/Users/kasap/OneDrive/Desktop/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/kasap/OneDrive/Desktop/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Mono.TextTemplating.dll
+C:/Users/kasap/OneDrive/Desktop/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/kasap/OneDrive/Desktop/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/kasap/OneDrive/Desktop/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/kasap/OneDrive/Desktop/Biblioteka/BibliotekaMS/bin/Debug/net6.0/System.CodeDom.dll
+C:/Users/kasap/OneDrive/Desktop/Biblioteka/BibliotekaMS/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+C:/Users/kasap/OneDrive/Desktop/Biblioteka/BibliotekaMS/bin/Debug/net6.0/System.Drawing.Common.dll
+C:/Users/kasap/OneDrive/Desktop/Biblioteka/BibliotekaMS/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+C:/Users/kasap/OneDrive/Desktop/Biblioteka/BibliotekaMS/bin/Debug/net6.0/System.Memory.Data.dll
+C:/Users/kasap/OneDrive/Desktop/Biblioteka/BibliotekaMS/bin/Debug/net6.0/System.Runtime.Caching.dll
+C:/Users/kasap/OneDrive/Desktop/Biblioteka/BibliotekaMS/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/kasap/OneDrive/Desktop/Biblioteka/BibliotekaMS/bin/Debug/net6.0/System.Security.Permissions.dll
+C:/Users/kasap/OneDrive/Desktop/Biblioteka/BibliotekaMS/bin/Debug/net6.0/System.Text.Encodings.Web.dll
+C:/Users/kasap/OneDrive/Desktop/Biblioteka/BibliotekaMS/bin/Debug/net6.0/System.Text.Json.dll
+C:/Users/kasap/OneDrive/Desktop/Biblioteka/BibliotekaMS/bin/Debug/net6.0/System.Windows.Extensions.dll
+C:/Users/kasap/OneDrive/Desktop/Biblioteka/BibliotekaMS/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Users/kasap/OneDrive/Desktop/Biblioteka/BibliotekaMS/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Users/kasap/OneDrive/Desktop/Biblioteka/BibliotekaMS/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/kasap/OneDrive/Desktop/Biblioteka/BibliotekaMS/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/kasap/OneDrive/Desktop/Biblioteka/BibliotekaMS/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/kasap/OneDrive/Desktop/Biblioteka/BibliotekaMS/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/kasap/OneDrive/Desktop/Biblioteka/BibliotekaMS/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/kasap/OneDrive/Desktop/Biblioteka/BibliotekaMS/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/kasap/OneDrive/Desktop/Biblioteka/BibliotekaMS/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/kasap/OneDrive/Desktop/Biblioteka/BibliotekaMS/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+C:/Users/kasap/OneDrive/Desktop/Biblioteka/BibliotekaMS/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/kasap/OneDrive/Desktop/Biblioteka/BibliotekaMS/bin/Debug/net6.0/runtimes/browser/lib/net6.0/System.Text.Encodings.Web.dll
+C:/Users/kasap/OneDrive/Desktop/Biblioteka/BibliotekaMS/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+C:/Users/kasap/OneDrive/Desktop/Biblioteka/BibliotekaMS/obj/Debug/net6.0/staticwebassets/msbuild.BibliotekaMS.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/kasap/OneDrive/Desktop/Biblioteka/BibliotekaMS/obj/Debug/net6.0/staticwebassets/msbuild.build.BibliotekaMS.props
+C:/Users/kasap/OneDrive/Desktop/Biblioteka/BibliotekaMS/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.BibliotekaMS.props
+C:/Users/kasap/OneDrive/Desktop/Biblioteka/BibliotekaMS/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.BibliotekaMS.props
+C:/Users/kasap/OneDrive/Desktop/Biblioteka/BibliotekaMS/obj/Debug/net6.0/staticwebassets.pack.json
+C:/Users/kasap/OneDrive/Desktop/Biblioteka/BibliotekaMS/obj/Debug/net6.0/staticwebassets.build.json
+C:/Users/kasap/OneDrive/Desktop/Biblioteka/BibliotekaMS/obj/Debug/net6.0/staticwebassets.development.json
+C:/Users/kasap/OneDrive/Desktop/Biblioteka/BibliotekaMS/obj/Debug/net6.0/scopedcss/bundle/BibliotekaMS.styles.css
+C:/Users/kasap/OneDrive/Desktop/Biblioteka/BibliotekaMS/obj/Debug/net6.0/BibliotekaMS.csproj.CopyComplete
+C:/Users/kasap/OneDrive/Desktop/Biblioteka/BibliotekaMS/obj/Debug/net6.0/BibliotekaMS.dll
+C:/Users/kasap/OneDrive/Desktop/Biblioteka/BibliotekaMS/obj/Debug/net6.0/refint/BibliotekaMS.dll
+C:/Users/kasap/OneDrive/Desktop/Biblioteka/BibliotekaMS/obj/Debug/net6.0/BibliotekaMS.pdb
+C:/Users/kasap/OneDrive/Desktop/Biblioteka/BibliotekaMS/obj/Debug/net6.0/BibliotekaMS.genruntimeconfig.cache
+C:/Users/kasap/OneDrive/Desktop/Biblioteka/BibliotekaMS/obj/Debug/net6.0/ref/BibliotekaMS.dll
+C:/Users/kasap/OneDrive/Desktop/Biblioteka/BibliotekaMS/bin/Debug/net6.0/AutoMapper.dll
+C:/Users/kasap/OneDrive/Desktop/Biblioteka/BibliotekaMS/bin/Debug/net6.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:/Users/kasap/Desktop/BibliotekaMS/BibliotekaMS/bin/Debug/net6.0/appsettings.Development.json
+C:/Users/kasap/Desktop/BibliotekaMS/BibliotekaMS/bin/Debug/net6.0/appsettings.json
+C:/Users/kasap/Desktop/BibliotekaMS/BibliotekaMS/bin/Debug/net6.0/BibliotekaMS.exe
+C:/Users/kasap/Desktop/BibliotekaMS/BibliotekaMS/bin/Debug/net6.0/BibliotekaMS.deps.json
+C:/Users/kasap/Desktop/BibliotekaMS/BibliotekaMS/bin/Debug/net6.0/BibliotekaMS.runtimeconfig.json
+C:/Users/kasap/Desktop/BibliotekaMS/BibliotekaMS/bin/Debug/net6.0/BibliotekaMS.dll
+C:/Users/kasap/Desktop/BibliotekaMS/BibliotekaMS/bin/Debug/net6.0/BibliotekaMS.pdb
+C:/Users/kasap/Desktop/BibliotekaMS/BibliotekaMS/bin/Debug/net6.0/AutoMapper.dll
+C:/Users/kasap/Desktop/BibliotekaMS/BibliotekaMS/bin/Debug/net6.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:/Users/kasap/Desktop/BibliotekaMS/BibliotekaMS/bin/Debug/net6.0/Azure.Core.dll
+C:/Users/kasap/Desktop/BibliotekaMS/BibliotekaMS/bin/Debug/net6.0/Azure.Identity.dll
+C:/Users/kasap/Desktop/BibliotekaMS/BibliotekaMS/bin/Debug/net6.0/Humanizer.dll
+C:/Users/kasap/Desktop/BibliotekaMS/BibliotekaMS/bin/Debug/net6.0/Microsoft.Bcl.AsyncInterfaces.dll
+C:/Users/kasap/Desktop/BibliotekaMS/BibliotekaMS/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+C:/Users/kasap/Desktop/BibliotekaMS/BibliotekaMS/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/kasap/Desktop/BibliotekaMS/BibliotekaMS/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/kasap/Desktop/BibliotekaMS/BibliotekaMS/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/kasap/Desktop/BibliotekaMS/BibliotekaMS/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/kasap/Desktop/BibliotekaMS/BibliotekaMS/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+C:/Users/kasap/Desktop/BibliotekaMS/BibliotekaMS/bin/Debug/net6.0/Microsoft.Extensions.Caching.Abstractions.dll
+C:/Users/kasap/Desktop/BibliotekaMS/BibliotekaMS/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+C:/Users/kasap/Desktop/BibliotekaMS/BibliotekaMS/bin/Debug/net6.0/Microsoft.Extensions.Configuration.Abstractions.dll
+C:/Users/kasap/Desktop/BibliotekaMS/BibliotekaMS/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+C:/Users/kasap/Desktop/BibliotekaMS/BibliotekaMS/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:/Users/kasap/Desktop/BibliotekaMS/BibliotekaMS/bin/Debug/net6.0/Microsoft.Extensions.DependencyModel.dll
+C:/Users/kasap/Desktop/BibliotekaMS/BibliotekaMS/bin/Debug/net6.0/Microsoft.Extensions.Logging.dll
+C:/Users/kasap/Desktop/BibliotekaMS/BibliotekaMS/bin/Debug/net6.0/Microsoft.Extensions.Logging.Abstractions.dll
+C:/Users/kasap/Desktop/BibliotekaMS/BibliotekaMS/bin/Debug/net6.0/Microsoft.Extensions.Options.dll
+C:/Users/kasap/Desktop/BibliotekaMS/BibliotekaMS/bin/Debug/net6.0/Microsoft.Extensions.Primitives.dll
+C:/Users/kasap/Desktop/BibliotekaMS/BibliotekaMS/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+C:/Users/kasap/Desktop/BibliotekaMS/BibliotekaMS/bin/Debug/net6.0/Microsoft.Identity.Client.Extensions.Msal.dll
+C:/Users/kasap/Desktop/BibliotekaMS/BibliotekaMS/bin/Debug/net6.0/Microsoft.IdentityModel.Abstractions.dll
+C:/Users/kasap/Desktop/BibliotekaMS/BibliotekaMS/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Users/kasap/Desktop/BibliotekaMS/BibliotekaMS/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+C:/Users/kasap/Desktop/BibliotekaMS/BibliotekaMS/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+C:/Users/kasap/Desktop/BibliotekaMS/BibliotekaMS/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:/Users/kasap/Desktop/BibliotekaMS/BibliotekaMS/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+C:/Users/kasap/Desktop/BibliotekaMS/BibliotekaMS/bin/Debug/net6.0/Microsoft.OpenApi.dll
+C:/Users/kasap/Desktop/BibliotekaMS/BibliotekaMS/bin/Debug/net6.0/Microsoft.SqlServer.Server.dll
+C:/Users/kasap/Desktop/BibliotekaMS/BibliotekaMS/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/kasap/Desktop/BibliotekaMS/BibliotekaMS/bin/Debug/net6.0/Mono.TextTemplating.dll
+C:/Users/kasap/Desktop/BibliotekaMS/BibliotekaMS/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/kasap/Desktop/BibliotekaMS/BibliotekaMS/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/kasap/Desktop/BibliotekaMS/BibliotekaMS/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/kasap/Desktop/BibliotekaMS/BibliotekaMS/bin/Debug/net6.0/System.CodeDom.dll
+C:/Users/kasap/Desktop/BibliotekaMS/BibliotekaMS/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+C:/Users/kasap/Desktop/BibliotekaMS/BibliotekaMS/bin/Debug/net6.0/System.Drawing.Common.dll
+C:/Users/kasap/Desktop/BibliotekaMS/BibliotekaMS/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+C:/Users/kasap/Desktop/BibliotekaMS/BibliotekaMS/bin/Debug/net6.0/System.Memory.Data.dll
+C:/Users/kasap/Desktop/BibliotekaMS/BibliotekaMS/bin/Debug/net6.0/System.Runtime.Caching.dll
+C:/Users/kasap/Desktop/BibliotekaMS/BibliotekaMS/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/kasap/Desktop/BibliotekaMS/BibliotekaMS/bin/Debug/net6.0/System.Security.Permissions.dll
+C:/Users/kasap/Desktop/BibliotekaMS/BibliotekaMS/bin/Debug/net6.0/System.Text.Encodings.Web.dll
+C:/Users/kasap/Desktop/BibliotekaMS/BibliotekaMS/bin/Debug/net6.0/System.Text.Json.dll
+C:/Users/kasap/Desktop/BibliotekaMS/BibliotekaMS/bin/Debug/net6.0/System.Windows.Extensions.dll
+C:/Users/kasap/Desktop/BibliotekaMS/BibliotekaMS/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Users/kasap/Desktop/BibliotekaMS/BibliotekaMS/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Users/kasap/Desktop/BibliotekaMS/BibliotekaMS/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/kasap/Desktop/BibliotekaMS/BibliotekaMS/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/kasap/Desktop/BibliotekaMS/BibliotekaMS/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/kasap/Desktop/BibliotekaMS/BibliotekaMS/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/kasap/Desktop/BibliotekaMS/BibliotekaMS/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/kasap/Desktop/BibliotekaMS/BibliotekaMS/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/kasap/Desktop/BibliotekaMS/BibliotekaMS/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/kasap/Desktop/BibliotekaMS/BibliotekaMS/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+C:/Users/kasap/Desktop/BibliotekaMS/BibliotekaMS/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/kasap/Desktop/BibliotekaMS/BibliotekaMS/bin/Debug/net6.0/runtimes/browser/lib/net6.0/System.Text.Encodings.Web.dll
+C:/Users/kasap/Desktop/BibliotekaMS/BibliotekaMS/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+C:/Users/kasap/Desktop/BibliotekaMS/BibliotekaMS/obj/Debug/net6.0/BibliotekaMS.csproj.AssemblyReference.cache
+C:/Users/kasap/Desktop/BibliotekaMS/BibliotekaMS/obj/Debug/net6.0/BibliotekaMS.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/kasap/Desktop/BibliotekaMS/BibliotekaMS/obj/Debug/net6.0/BibliotekaMS.AssemblyInfoInputs.cache
+C:/Users/kasap/Desktop/BibliotekaMS/BibliotekaMS/obj/Debug/net6.0/BibliotekaMS.AssemblyInfo.cs
+C:/Users/kasap/Desktop/BibliotekaMS/BibliotekaMS/obj/Debug/net6.0/BibliotekaMS.csproj.CoreCompileInputs.cache
+C:/Users/kasap/Desktop/BibliotekaMS/BibliotekaMS/obj/Debug/net6.0/BibliotekaMS.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/kasap/Desktop/BibliotekaMS/BibliotekaMS/obj/Debug/net6.0/BibliotekaMS.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/kasap/Desktop/BibliotekaMS/BibliotekaMS/obj/Debug/net6.0/staticwebassets/msbuild.BibliotekaMS.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/kasap/Desktop/BibliotekaMS/BibliotekaMS/obj/Debug/net6.0/staticwebassets/msbuild.build.BibliotekaMS.props
+C:/Users/kasap/Desktop/BibliotekaMS/BibliotekaMS/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.BibliotekaMS.props
+C:/Users/kasap/Desktop/BibliotekaMS/BibliotekaMS/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.BibliotekaMS.props
+C:/Users/kasap/Desktop/BibliotekaMS/BibliotekaMS/obj/Debug/net6.0/staticwebassets.pack.json
+C:/Users/kasap/Desktop/BibliotekaMS/BibliotekaMS/obj/Debug/net6.0/staticwebassets.build.json
+C:/Users/kasap/Desktop/BibliotekaMS/BibliotekaMS/obj/Debug/net6.0/staticwebassets.development.json
+C:/Users/kasap/Desktop/BibliotekaMS/BibliotekaMS/obj/Debug/net6.0/scopedcss/bundle/BibliotekaMS.styles.css
+C:/Users/kasap/Desktop/BibliotekaMS/BibliotekaMS/obj/Debug/net6.0/BibliotekaMS.csproj.CopyComplete
+C:/Users/kasap/Desktop/BibliotekaMS/BibliotekaMS/obj/Debug/net6.0/BibliotekaMS.dll
+C:/Users/kasap/Desktop/BibliotekaMS/BibliotekaMS/obj/Debug/net6.0/refint/BibliotekaMS.dll
+C:/Users/kasap/Desktop/BibliotekaMS/BibliotekaMS/obj/Debug/net6.0/BibliotekaMS.pdb
+C:/Users/kasap/Desktop/BibliotekaMS/BibliotekaMS/obj/Debug/net6.0/BibliotekaMS.genruntimeconfig.cache
+C:/Users/kasap/Desktop/BibliotekaMS/BibliotekaMS/obj/Debug/net6.0/ref/BibliotekaMS.dll
+C:/Users/Vlera Muhaxheri/Source/Repos/kleazz/Biblioteka/BibliotekaMS/bin/Debug/net6.0/appsettings.Development.json
+C:/Users/Vlera Muhaxheri/Source/Repos/kleazz/Biblioteka/BibliotekaMS/bin/Debug/net6.0/appsettings.json
+C:/Users/Vlera Muhaxheri/Source/Repos/kleazz/Biblioteka/BibliotekaMS/bin/Debug/net6.0/BibliotekaMS.exe
+C:/Users/Vlera Muhaxheri/Source/Repos/kleazz/Biblioteka/BibliotekaMS/bin/Debug/net6.0/BibliotekaMS.deps.json
+C:/Users/Vlera Muhaxheri/Source/Repos/kleazz/Biblioteka/BibliotekaMS/bin/Debug/net6.0/BibliotekaMS.runtimeconfig.json
+C:/Users/Vlera Muhaxheri/Source/Repos/kleazz/Biblioteka/BibliotekaMS/bin/Debug/net6.0/BibliotekaMS.dll
+C:/Users/Vlera Muhaxheri/Source/Repos/kleazz/Biblioteka/BibliotekaMS/bin/Debug/net6.0/BibliotekaMS.pdb
+C:/Users/Vlera Muhaxheri/Source/Repos/kleazz/Biblioteka/BibliotekaMS/bin/Debug/net6.0/AutoMapper.dll
+C:/Users/Vlera Muhaxheri/Source/Repos/kleazz/Biblioteka/BibliotekaMS/bin/Debug/net6.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:/Users/Vlera Muhaxheri/Source/Repos/kleazz/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Azure.Core.dll
+C:/Users/Vlera Muhaxheri/Source/Repos/kleazz/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Azure.Identity.dll
+C:/Users/Vlera Muhaxheri/Source/Repos/kleazz/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Humanizer.dll
+C:/Users/Vlera Muhaxheri/Source/Repos/kleazz/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Microsoft.Bcl.AsyncInterfaces.dll
+C:/Users/Vlera Muhaxheri/Source/Repos/kleazz/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+C:/Users/Vlera Muhaxheri/Source/Repos/kleazz/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/Vlera Muhaxheri/Source/Repos/kleazz/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/Vlera Muhaxheri/Source/Repos/kleazz/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/Vlera Muhaxheri/Source/Repos/kleazz/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/Vlera Muhaxheri/Source/Repos/kleazz/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+C:/Users/Vlera Muhaxheri/Source/Repos/kleazz/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Microsoft.Extensions.Caching.Abstractions.dll
+C:/Users/Vlera Muhaxheri/Source/Repos/kleazz/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+C:/Users/Vlera Muhaxheri/Source/Repos/kleazz/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Microsoft.Extensions.Configuration.Abstractions.dll
+C:/Users/Vlera Muhaxheri/Source/Repos/kleazz/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+C:/Users/Vlera Muhaxheri/Source/Repos/kleazz/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:/Users/Vlera Muhaxheri/Source/Repos/kleazz/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Microsoft.Extensions.DependencyModel.dll
+C:/Users/Vlera Muhaxheri/Source/Repos/kleazz/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Microsoft.Extensions.Logging.dll
+C:/Users/Vlera Muhaxheri/Source/Repos/kleazz/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Microsoft.Extensions.Logging.Abstractions.dll
+C:/Users/Vlera Muhaxheri/Source/Repos/kleazz/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Microsoft.Extensions.Options.dll
+C:/Users/Vlera Muhaxheri/Source/Repos/kleazz/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Microsoft.Extensions.Primitives.dll
+C:/Users/Vlera Muhaxheri/Source/Repos/kleazz/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+C:/Users/Vlera Muhaxheri/Source/Repos/kleazz/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Microsoft.Identity.Client.Extensions.Msal.dll
+C:/Users/Vlera Muhaxheri/Source/Repos/kleazz/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Microsoft.IdentityModel.Abstractions.dll
+C:/Users/Vlera Muhaxheri/Source/Repos/kleazz/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Users/Vlera Muhaxheri/Source/Repos/kleazz/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+C:/Users/Vlera Muhaxheri/Source/Repos/kleazz/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+C:/Users/Vlera Muhaxheri/Source/Repos/kleazz/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:/Users/Vlera Muhaxheri/Source/Repos/kleazz/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+C:/Users/Vlera Muhaxheri/Source/Repos/kleazz/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Microsoft.OpenApi.dll
+C:/Users/Vlera Muhaxheri/Source/Repos/kleazz/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Microsoft.SqlServer.Server.dll
+C:/Users/Vlera Muhaxheri/Source/Repos/kleazz/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/Vlera Muhaxheri/Source/Repos/kleazz/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Mono.TextTemplating.dll
+C:/Users/Vlera Muhaxheri/Source/Repos/kleazz/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/Vlera Muhaxheri/Source/Repos/kleazz/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/Vlera Muhaxheri/Source/Repos/kleazz/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/Vlera Muhaxheri/Source/Repos/kleazz/Biblioteka/BibliotekaMS/bin/Debug/net6.0/System.CodeDom.dll
+C:/Users/Vlera Muhaxheri/Source/Repos/kleazz/Biblioteka/BibliotekaMS/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+C:/Users/Vlera Muhaxheri/Source/Repos/kleazz/Biblioteka/BibliotekaMS/bin/Debug/net6.0/System.Drawing.Common.dll
+C:/Users/Vlera Muhaxheri/Source/Repos/kleazz/Biblioteka/BibliotekaMS/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+C:/Users/Vlera Muhaxheri/Source/Repos/kleazz/Biblioteka/BibliotekaMS/bin/Debug/net6.0/System.Memory.Data.dll
+C:/Users/Vlera Muhaxheri/Source/Repos/kleazz/Biblioteka/BibliotekaMS/bin/Debug/net6.0/System.Runtime.Caching.dll
+C:/Users/Vlera Muhaxheri/Source/Repos/kleazz/Biblioteka/BibliotekaMS/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/Vlera Muhaxheri/Source/Repos/kleazz/Biblioteka/BibliotekaMS/bin/Debug/net6.0/System.Security.Permissions.dll
+C:/Users/Vlera Muhaxheri/Source/Repos/kleazz/Biblioteka/BibliotekaMS/bin/Debug/net6.0/System.Text.Encodings.Web.dll
+C:/Users/Vlera Muhaxheri/Source/Repos/kleazz/Biblioteka/BibliotekaMS/bin/Debug/net6.0/System.Text.Json.dll
+C:/Users/Vlera Muhaxheri/Source/Repos/kleazz/Biblioteka/BibliotekaMS/bin/Debug/net6.0/System.Windows.Extensions.dll
+C:/Users/Vlera Muhaxheri/Source/Repos/kleazz/Biblioteka/BibliotekaMS/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Users/Vlera Muhaxheri/Source/Repos/kleazz/Biblioteka/BibliotekaMS/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Users/Vlera Muhaxheri/Source/Repos/kleazz/Biblioteka/BibliotekaMS/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/Vlera Muhaxheri/Source/Repos/kleazz/Biblioteka/BibliotekaMS/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/Vlera Muhaxheri/Source/Repos/kleazz/Biblioteka/BibliotekaMS/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/Vlera Muhaxheri/Source/Repos/kleazz/Biblioteka/BibliotekaMS/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/Vlera Muhaxheri/Source/Repos/kleazz/Biblioteka/BibliotekaMS/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/Vlera Muhaxheri/Source/Repos/kleazz/Biblioteka/BibliotekaMS/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/Vlera Muhaxheri/Source/Repos/kleazz/Biblioteka/BibliotekaMS/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/Vlera Muhaxheri/Source/Repos/kleazz/Biblioteka/BibliotekaMS/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+C:/Users/Vlera Muhaxheri/Source/Repos/kleazz/Biblioteka/BibliotekaMS/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/Vlera Muhaxheri/Source/Repos/kleazz/Biblioteka/BibliotekaMS/bin/Debug/net6.0/runtimes/browser/lib/net6.0/System.Text.Encodings.Web.dll
+C:/Users/Vlera Muhaxheri/Source/Repos/kleazz/Biblioteka/BibliotekaMS/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+C:/Users/Vlera Muhaxheri/Source/Repos/kleazz/Biblioteka/BibliotekaMS/obj/Debug/net6.0/BibliotekaMS.csproj.AssemblyReference.cache
+C:/Users/Vlera Muhaxheri/Source/Repos/kleazz/Biblioteka/BibliotekaMS/obj/Debug/net6.0/BibliotekaMS.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Vlera Muhaxheri/Source/Repos/kleazz/Biblioteka/BibliotekaMS/obj/Debug/net6.0/BibliotekaMS.AssemblyInfoInputs.cache
+C:/Users/Vlera Muhaxheri/Source/Repos/kleazz/Biblioteka/BibliotekaMS/obj/Debug/net6.0/BibliotekaMS.AssemblyInfo.cs
+C:/Users/Vlera Muhaxheri/Source/Repos/kleazz/Biblioteka/BibliotekaMS/obj/Debug/net6.0/BibliotekaMS.csproj.CoreCompileInputs.cache
+C:/Users/Vlera Muhaxheri/Source/Repos/kleazz/Biblioteka/BibliotekaMS/obj/Debug/net6.0/BibliotekaMS.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/Vlera Muhaxheri/Source/Repos/kleazz/Biblioteka/BibliotekaMS/obj/Debug/net6.0/BibliotekaMS.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/Vlera Muhaxheri/Source/Repos/kleazz/Biblioteka/BibliotekaMS/obj/Debug/net6.0/staticwebassets/msbuild.BibliotekaMS.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/Vlera Muhaxheri/Source/Repos/kleazz/Biblioteka/BibliotekaMS/obj/Debug/net6.0/staticwebassets/msbuild.build.BibliotekaMS.props
+C:/Users/Vlera Muhaxheri/Source/Repos/kleazz/Biblioteka/BibliotekaMS/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.BibliotekaMS.props
+C:/Users/Vlera Muhaxheri/Source/Repos/kleazz/Biblioteka/BibliotekaMS/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.BibliotekaMS.props
+C:/Users/Vlera Muhaxheri/Source/Repos/kleazz/Biblioteka/BibliotekaMS/obj/Debug/net6.0/staticwebassets.pack.json
+C:/Users/Vlera Muhaxheri/Source/Repos/kleazz/Biblioteka/BibliotekaMS/obj/Debug/net6.0/staticwebassets.build.json
+C:/Users/Vlera Muhaxheri/Source/Repos/kleazz/Biblioteka/BibliotekaMS/obj/Debug/net6.0/staticwebassets.development.json
+C:/Users/Vlera Muhaxheri/Source/Repos/kleazz/Biblioteka/BibliotekaMS/obj/Debug/net6.0/scopedcss/bundle/BibliotekaMS.styles.css
+C:/Users/Vlera Muhaxheri/Source/Repos/kleazz/Biblioteka/BibliotekaMS/obj/Debug/net6.0/BibliotekaMS.csproj.CopyComplete
+C:/Users/Vlera Muhaxheri/Source/Repos/kleazz/Biblioteka/BibliotekaMS/obj/Debug/net6.0/BibliotekaMS.dll
+C:/Users/Vlera Muhaxheri/Source/Repos/kleazz/Biblioteka/BibliotekaMS/obj/Debug/net6.0/refint/BibliotekaMS.dll
+C:/Users/Vlera Muhaxheri/Source/Repos/kleazz/Biblioteka/BibliotekaMS/obj/Debug/net6.0/BibliotekaMS.pdb
+C:/Users/Vlera Muhaxheri/Source/Repos/kleazz/Biblioteka/BibliotekaMS/obj/Debug/net6.0/BibliotekaMS.genruntimeconfig.cache
+C:/Users/Vlera Muhaxheri/Source/Repos/kleazz/Biblioteka/BibliotekaMS/obj/Debug/net6.0/ref/BibliotekaMS.dll
+C:/Users/Vlera Muhaxheri/Desktop/Lab1/kleazz/Biblioteka/BibliotekaMS/bin/Debug/net6.0/appsettings.Development.json
+C:/Users/Vlera Muhaxheri/Desktop/Lab1/kleazz/Biblioteka/BibliotekaMS/bin/Debug/net6.0/appsettings.json
+C:/Users/Vlera Muhaxheri/Desktop/Lab1/kleazz/Biblioteka/BibliotekaMS/bin/Debug/net6.0/BibliotekaMS.exe
+C:/Users/Vlera Muhaxheri/Desktop/Lab1/kleazz/Biblioteka/BibliotekaMS/bin/Debug/net6.0/BibliotekaMS.deps.json
+C:/Users/Vlera Muhaxheri/Desktop/Lab1/kleazz/Biblioteka/BibliotekaMS/bin/Debug/net6.0/BibliotekaMS.runtimeconfig.json
+C:/Users/Vlera Muhaxheri/Desktop/Lab1/kleazz/Biblioteka/BibliotekaMS/bin/Debug/net6.0/BibliotekaMS.dll
+C:/Users/Vlera Muhaxheri/Desktop/Lab1/kleazz/Biblioteka/BibliotekaMS/bin/Debug/net6.0/BibliotekaMS.pdb
+C:/Users/Vlera Muhaxheri/Desktop/Lab1/kleazz/Biblioteka/BibliotekaMS/bin/Debug/net6.0/AutoMapper.dll
+C:/Users/Vlera Muhaxheri/Desktop/Lab1/kleazz/Biblioteka/BibliotekaMS/bin/Debug/net6.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:/Users/Vlera Muhaxheri/Desktop/Lab1/kleazz/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Azure.Core.dll
+C:/Users/Vlera Muhaxheri/Desktop/Lab1/kleazz/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Azure.Identity.dll
+C:/Users/Vlera Muhaxheri/Desktop/Lab1/kleazz/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Humanizer.dll
+C:/Users/Vlera Muhaxheri/Desktop/Lab1/kleazz/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Microsoft.Bcl.AsyncInterfaces.dll
+C:/Users/Vlera Muhaxheri/Desktop/Lab1/kleazz/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+C:/Users/Vlera Muhaxheri/Desktop/Lab1/kleazz/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/Vlera Muhaxheri/Desktop/Lab1/kleazz/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/Vlera Muhaxheri/Desktop/Lab1/kleazz/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/Vlera Muhaxheri/Desktop/Lab1/kleazz/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/Vlera Muhaxheri/Desktop/Lab1/kleazz/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+C:/Users/Vlera Muhaxheri/Desktop/Lab1/kleazz/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Microsoft.Extensions.Caching.Abstractions.dll
+C:/Users/Vlera Muhaxheri/Desktop/Lab1/kleazz/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+C:/Users/Vlera Muhaxheri/Desktop/Lab1/kleazz/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Microsoft.Extensions.Configuration.Abstractions.dll
+C:/Users/Vlera Muhaxheri/Desktop/Lab1/kleazz/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+C:/Users/Vlera Muhaxheri/Desktop/Lab1/kleazz/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:/Users/Vlera Muhaxheri/Desktop/Lab1/kleazz/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Microsoft.Extensions.DependencyModel.dll
+C:/Users/Vlera Muhaxheri/Desktop/Lab1/kleazz/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Microsoft.Extensions.Logging.dll
+C:/Users/Vlera Muhaxheri/Desktop/Lab1/kleazz/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Microsoft.Extensions.Logging.Abstractions.dll
+C:/Users/Vlera Muhaxheri/Desktop/Lab1/kleazz/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Microsoft.Extensions.Options.dll
+C:/Users/Vlera Muhaxheri/Desktop/Lab1/kleazz/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Microsoft.Extensions.Primitives.dll
+C:/Users/Vlera Muhaxheri/Desktop/Lab1/kleazz/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+C:/Users/Vlera Muhaxheri/Desktop/Lab1/kleazz/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Microsoft.Identity.Client.Extensions.Msal.dll
+C:/Users/Vlera Muhaxheri/Desktop/Lab1/kleazz/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Microsoft.IdentityModel.Abstractions.dll
+C:/Users/Vlera Muhaxheri/Desktop/Lab1/kleazz/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Users/Vlera Muhaxheri/Desktop/Lab1/kleazz/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+C:/Users/Vlera Muhaxheri/Desktop/Lab1/kleazz/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+C:/Users/Vlera Muhaxheri/Desktop/Lab1/kleazz/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:/Users/Vlera Muhaxheri/Desktop/Lab1/kleazz/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+C:/Users/Vlera Muhaxheri/Desktop/Lab1/kleazz/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Microsoft.OpenApi.dll
+C:/Users/Vlera Muhaxheri/Desktop/Lab1/kleazz/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Microsoft.SqlServer.Server.dll
+C:/Users/Vlera Muhaxheri/Desktop/Lab1/kleazz/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/Vlera Muhaxheri/Desktop/Lab1/kleazz/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Mono.TextTemplating.dll
+C:/Users/Vlera Muhaxheri/Desktop/Lab1/kleazz/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/Vlera Muhaxheri/Desktop/Lab1/kleazz/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/Vlera Muhaxheri/Desktop/Lab1/kleazz/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/Vlera Muhaxheri/Desktop/Lab1/kleazz/Biblioteka/BibliotekaMS/bin/Debug/net6.0/System.CodeDom.dll
+C:/Users/Vlera Muhaxheri/Desktop/Lab1/kleazz/Biblioteka/BibliotekaMS/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+C:/Users/Vlera Muhaxheri/Desktop/Lab1/kleazz/Biblioteka/BibliotekaMS/bin/Debug/net6.0/System.Drawing.Common.dll
+C:/Users/Vlera Muhaxheri/Desktop/Lab1/kleazz/Biblioteka/BibliotekaMS/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+C:/Users/Vlera Muhaxheri/Desktop/Lab1/kleazz/Biblioteka/BibliotekaMS/bin/Debug/net6.0/System.Memory.Data.dll
+C:/Users/Vlera Muhaxheri/Desktop/Lab1/kleazz/Biblioteka/BibliotekaMS/bin/Debug/net6.0/System.Runtime.Caching.dll
+C:/Users/Vlera Muhaxheri/Desktop/Lab1/kleazz/Biblioteka/BibliotekaMS/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/Vlera Muhaxheri/Desktop/Lab1/kleazz/Biblioteka/BibliotekaMS/bin/Debug/net6.0/System.Security.Permissions.dll
+C:/Users/Vlera Muhaxheri/Desktop/Lab1/kleazz/Biblioteka/BibliotekaMS/bin/Debug/net6.0/System.Text.Encodings.Web.dll
+C:/Users/Vlera Muhaxheri/Desktop/Lab1/kleazz/Biblioteka/BibliotekaMS/bin/Debug/net6.0/System.Text.Json.dll
+C:/Users/Vlera Muhaxheri/Desktop/Lab1/kleazz/Biblioteka/BibliotekaMS/bin/Debug/net6.0/System.Windows.Extensions.dll
+C:/Users/Vlera Muhaxheri/Desktop/Lab1/kleazz/Biblioteka/BibliotekaMS/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Users/Vlera Muhaxheri/Desktop/Lab1/kleazz/Biblioteka/BibliotekaMS/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Users/Vlera Muhaxheri/Desktop/Lab1/kleazz/Biblioteka/BibliotekaMS/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/Vlera Muhaxheri/Desktop/Lab1/kleazz/Biblioteka/BibliotekaMS/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/Vlera Muhaxheri/Desktop/Lab1/kleazz/Biblioteka/BibliotekaMS/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/Vlera Muhaxheri/Desktop/Lab1/kleazz/Biblioteka/BibliotekaMS/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/Vlera Muhaxheri/Desktop/Lab1/kleazz/Biblioteka/BibliotekaMS/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/Vlera Muhaxheri/Desktop/Lab1/kleazz/Biblioteka/BibliotekaMS/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/Vlera Muhaxheri/Desktop/Lab1/kleazz/Biblioteka/BibliotekaMS/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/Vlera Muhaxheri/Desktop/Lab1/kleazz/Biblioteka/BibliotekaMS/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+C:/Users/Vlera Muhaxheri/Desktop/Lab1/kleazz/Biblioteka/BibliotekaMS/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/Vlera Muhaxheri/Desktop/Lab1/kleazz/Biblioteka/BibliotekaMS/bin/Debug/net6.0/runtimes/browser/lib/net6.0/System.Text.Encodings.Web.dll
+C:/Users/Vlera Muhaxheri/Desktop/Lab1/kleazz/Biblioteka/BibliotekaMS/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+C:/Users/Vlera Muhaxheri/Desktop/Lab1/kleazz/Biblioteka/BibliotekaMS/obj/Debug/net6.0/BibliotekaMS.csproj.AssemblyReference.cache
+C:/Users/Vlera Muhaxheri/Desktop/Lab1/kleazz/Biblioteka/BibliotekaMS/obj/Debug/net6.0/BibliotekaMS.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Vlera Muhaxheri/Desktop/Lab1/kleazz/Biblioteka/BibliotekaMS/obj/Debug/net6.0/BibliotekaMS.AssemblyInfoInputs.cache
+C:/Users/Vlera Muhaxheri/Desktop/Lab1/kleazz/Biblioteka/BibliotekaMS/obj/Debug/net6.0/BibliotekaMS.AssemblyInfo.cs
+C:/Users/Vlera Muhaxheri/Desktop/Lab1/kleazz/Biblioteka/BibliotekaMS/obj/Debug/net6.0/BibliotekaMS.csproj.CoreCompileInputs.cache
+C:/Users/Vlera Muhaxheri/Desktop/Lab1/kleazz/Biblioteka/BibliotekaMS/obj/Debug/net6.0/BibliotekaMS.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/Vlera Muhaxheri/Desktop/Lab1/kleazz/Biblioteka/BibliotekaMS/obj/Debug/net6.0/BibliotekaMS.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/Vlera Muhaxheri/Desktop/Lab1/kleazz/Biblioteka/BibliotekaMS/obj/Debug/net6.0/staticwebassets/msbuild.BibliotekaMS.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/Vlera Muhaxheri/Desktop/Lab1/kleazz/Biblioteka/BibliotekaMS/obj/Debug/net6.0/staticwebassets/msbuild.build.BibliotekaMS.props
+C:/Users/Vlera Muhaxheri/Desktop/Lab1/kleazz/Biblioteka/BibliotekaMS/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.BibliotekaMS.props
+C:/Users/Vlera Muhaxheri/Desktop/Lab1/kleazz/Biblioteka/BibliotekaMS/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.BibliotekaMS.props
+C:/Users/Vlera Muhaxheri/Desktop/Lab1/kleazz/Biblioteka/BibliotekaMS/obj/Debug/net6.0/staticwebassets.pack.json
+C:/Users/Vlera Muhaxheri/Desktop/Lab1/kleazz/Biblioteka/BibliotekaMS/obj/Debug/net6.0/staticwebassets.build.json
+C:/Users/Vlera Muhaxheri/Desktop/Lab1/kleazz/Biblioteka/BibliotekaMS/obj/Debug/net6.0/staticwebassets.development.json
+C:/Users/Vlera Muhaxheri/Desktop/Lab1/kleazz/Biblioteka/BibliotekaMS/obj/Debug/net6.0/scopedcss/bundle/BibliotekaMS.styles.css
+C:/Users/Vlera Muhaxheri/Desktop/Lab1/kleazz/Biblioteka/BibliotekaMS/obj/Debug/net6.0/BibliotekaMS.csproj.CopyComplete
+C:/Users/Vlera Muhaxheri/Desktop/Lab1/kleazz/Biblioteka/BibliotekaMS/obj/Debug/net6.0/BibliotekaMS.dll
+C:/Users/Vlera Muhaxheri/Desktop/Lab1/kleazz/Biblioteka/BibliotekaMS/obj/Debug/net6.0/refint/BibliotekaMS.dll
+C:/Users/Vlera Muhaxheri/Desktop/Lab1/kleazz/Biblioteka/BibliotekaMS/obj/Debug/net6.0/BibliotekaMS.pdb
+C:/Users/Vlera Muhaxheri/Desktop/Lab1/kleazz/Biblioteka/BibliotekaMS/obj/Debug/net6.0/BibliotekaMS.genruntimeconfig.cache
+C:/Users/Vlera Muhaxheri/Desktop/Lab1/kleazz/Biblioteka/BibliotekaMS/obj/Debug/net6.0/ref/BibliotekaMS.dll
+C:/Users/Vlera Muhaxheri/Desktop/Lab1/kleazz/Biblioteka/BibliotekaMS/bin/Debug/net6.0/DocumentFormat.OpenXml.dll
+C:/Users/Vlera Muhaxheri/Desktop/Lab1/kleazz/Biblioteka/BibliotekaMS/bin/Debug/net6.0/log4net.dll
+C:/Users/Vlera Muhaxheri/Desktop/Lab1/kleazz/Biblioteka/BibliotekaMS/bin/Debug/net6.0/System.IO.Packaging.dll
+C:/Users/kasap/Desktop/ll/Biblioteka/BibliotekaMS/obj/Debug/net6.0/BibliotekaMS.csproj.AssemblyReference.cache
+C:/Users/kasap/Desktop/ll/Biblioteka/BibliotekaMS/obj/Debug/net6.0/BibliotekaMS.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/kasap/Desktop/ll/Biblioteka/BibliotekaMS/obj/Debug/net6.0/BibliotekaMS.AssemblyInfoInputs.cache
+C:/Users/kasap/Desktop/ll/Biblioteka/BibliotekaMS/obj/Debug/net6.0/BibliotekaMS.AssemblyInfo.cs
+C:/Users/kasap/Desktop/ll/Biblioteka/BibliotekaMS/obj/Debug/net6.0/BibliotekaMS.csproj.CoreCompileInputs.cache
+C:/Users/kasap/Desktop/ll/Biblioteka/BibliotekaMS/obj/Debug/net6.0/BibliotekaMS.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/kasap/Desktop/ll/Biblioteka/BibliotekaMS/obj/Debug/net6.0/BibliotekaMS.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/kasap/Desktop/ll/Biblioteka/BibliotekaMS/obj/Debug/net6.0/BibliotekaMS.dll
+C:/Users/kasap/Desktop/ll/Biblioteka/BibliotekaMS/obj/Debug/net6.0/refint/BibliotekaMS.dll
+C:/Users/kasap/Desktop/ll/Biblioteka/BibliotekaMS/obj/Debug/net6.0/BibliotekaMS.pdb
+C:/Users/kasap/Desktop/ll/Biblioteka/BibliotekaMS/bin/Debug/net6.0/appsettings.Development.json
+C:/Users/kasap/Desktop/ll/Biblioteka/BibliotekaMS/bin/Debug/net6.0/appsettings.json
+C:/Users/kasap/Desktop/ll/Biblioteka/BibliotekaMS/bin/Debug/net6.0/BibliotekaMS.exe
+C:/Users/kasap/Desktop/ll/Biblioteka/BibliotekaMS/bin/Debug/net6.0/BibliotekaMS.deps.json
+C:/Users/kasap/Desktop/ll/Biblioteka/BibliotekaMS/bin/Debug/net6.0/BibliotekaMS.runtimeconfig.json
+C:/Users/kasap/Desktop/ll/Biblioteka/BibliotekaMS/bin/Debug/net6.0/BibliotekaMS.dll
+C:/Users/kasap/Desktop/ll/Biblioteka/BibliotekaMS/bin/Debug/net6.0/BibliotekaMS.pdb
+C:/Users/kasap/Desktop/ll/Biblioteka/BibliotekaMS/bin/Debug/net6.0/AutoMapper.dll
+C:/Users/kasap/Desktop/ll/Biblioteka/BibliotekaMS/bin/Debug/net6.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:/Users/kasap/Desktop/ll/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Azure.Core.dll
+C:/Users/kasap/Desktop/ll/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Azure.Identity.dll
+C:/Users/kasap/Desktop/ll/Biblioteka/BibliotekaMS/bin/Debug/net6.0/DocumentFormat.OpenXml.dll
+C:/Users/kasap/Desktop/ll/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Humanizer.dll
+C:/Users/kasap/Desktop/ll/Biblioteka/BibliotekaMS/bin/Debug/net6.0/log4net.dll
+C:/Users/kasap/Desktop/ll/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Microsoft.Bcl.AsyncInterfaces.dll
+C:/Users/kasap/Desktop/ll/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+C:/Users/kasap/Desktop/ll/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/kasap/Desktop/ll/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/kasap/Desktop/ll/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/kasap/Desktop/ll/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/kasap/Desktop/ll/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+C:/Users/kasap/Desktop/ll/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Microsoft.Extensions.Caching.Abstractions.dll
+C:/Users/kasap/Desktop/ll/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+C:/Users/kasap/Desktop/ll/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Microsoft.Extensions.Configuration.Abstractions.dll
+C:/Users/kasap/Desktop/ll/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+C:/Users/kasap/Desktop/ll/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:/Users/kasap/Desktop/ll/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Microsoft.Extensions.DependencyModel.dll
+C:/Users/kasap/Desktop/ll/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Microsoft.Extensions.Logging.dll
+C:/Users/kasap/Desktop/ll/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Microsoft.Extensions.Logging.Abstractions.dll
+C:/Users/kasap/Desktop/ll/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Microsoft.Extensions.Options.dll
+C:/Users/kasap/Desktop/ll/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Microsoft.Extensions.Primitives.dll
+C:/Users/kasap/Desktop/ll/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+C:/Users/kasap/Desktop/ll/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Microsoft.Identity.Client.Extensions.Msal.dll
+C:/Users/kasap/Desktop/ll/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Microsoft.IdentityModel.Abstractions.dll
+C:/Users/kasap/Desktop/ll/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Users/kasap/Desktop/ll/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+C:/Users/kasap/Desktop/ll/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+C:/Users/kasap/Desktop/ll/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:/Users/kasap/Desktop/ll/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+C:/Users/kasap/Desktop/ll/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Microsoft.OpenApi.dll
+C:/Users/kasap/Desktop/ll/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Microsoft.SqlServer.Server.dll
+C:/Users/kasap/Desktop/ll/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/kasap/Desktop/ll/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Mono.TextTemplating.dll
+C:/Users/kasap/Desktop/ll/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/kasap/Desktop/ll/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/kasap/Desktop/ll/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/kasap/Desktop/ll/Biblioteka/BibliotekaMS/bin/Debug/net6.0/System.CodeDom.dll
+C:/Users/kasap/Desktop/ll/Biblioteka/BibliotekaMS/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+C:/Users/kasap/Desktop/ll/Biblioteka/BibliotekaMS/bin/Debug/net6.0/System.Drawing.Common.dll
+C:/Users/kasap/Desktop/ll/Biblioteka/BibliotekaMS/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+C:/Users/kasap/Desktop/ll/Biblioteka/BibliotekaMS/bin/Debug/net6.0/System.IO.Packaging.dll
+C:/Users/kasap/Desktop/ll/Biblioteka/BibliotekaMS/bin/Debug/net6.0/System.Memory.Data.dll
+C:/Users/kasap/Desktop/ll/Biblioteka/BibliotekaMS/bin/Debug/net6.0/System.Runtime.Caching.dll
+C:/Users/kasap/Desktop/ll/Biblioteka/BibliotekaMS/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/kasap/Desktop/ll/Biblioteka/BibliotekaMS/bin/Debug/net6.0/System.Security.Permissions.dll
+C:/Users/kasap/Desktop/ll/Biblioteka/BibliotekaMS/bin/Debug/net6.0/System.Text.Encodings.Web.dll
+C:/Users/kasap/Desktop/ll/Biblioteka/BibliotekaMS/bin/Debug/net6.0/System.Text.Json.dll
+C:/Users/kasap/Desktop/ll/Biblioteka/BibliotekaMS/bin/Debug/net6.0/System.Windows.Extensions.dll
+C:/Users/kasap/Desktop/ll/Biblioteka/BibliotekaMS/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Users/kasap/Desktop/ll/Biblioteka/BibliotekaMS/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Users/kasap/Desktop/ll/Biblioteka/BibliotekaMS/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/kasap/Desktop/ll/Biblioteka/BibliotekaMS/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/kasap/Desktop/ll/Biblioteka/BibliotekaMS/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/kasap/Desktop/ll/Biblioteka/BibliotekaMS/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/kasap/Desktop/ll/Biblioteka/BibliotekaMS/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/kasap/Desktop/ll/Biblioteka/BibliotekaMS/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/kasap/Desktop/ll/Biblioteka/BibliotekaMS/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/kasap/Desktop/ll/Biblioteka/BibliotekaMS/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+C:/Users/kasap/Desktop/ll/Biblioteka/BibliotekaMS/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/kasap/Desktop/ll/Biblioteka/BibliotekaMS/bin/Debug/net6.0/runtimes/browser/lib/net6.0/System.Text.Encodings.Web.dll
+C:/Users/kasap/Desktop/ll/Biblioteka/BibliotekaMS/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+C:/Users/kasap/Desktop/ll/Biblioteka/BibliotekaMS/obj/Debug/net6.0/staticwebassets/msbuild.BibliotekaMS.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/kasap/Desktop/ll/Biblioteka/BibliotekaMS/obj/Debug/net6.0/staticwebassets/msbuild.build.BibliotekaMS.props
+C:/Users/kasap/Desktop/ll/Biblioteka/BibliotekaMS/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.BibliotekaMS.props
+C:/Users/kasap/Desktop/ll/Biblioteka/BibliotekaMS/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.BibliotekaMS.props
+C:/Users/kasap/Desktop/ll/Biblioteka/BibliotekaMS/obj/Debug/net6.0/staticwebassets.pack.json
+C:/Users/kasap/Desktop/ll/Biblioteka/BibliotekaMS/obj/Debug/net6.0/staticwebassets.build.json
+C:/Users/kasap/Desktop/ll/Biblioteka/BibliotekaMS/obj/Debug/net6.0/staticwebassets.development.json
+C:/Users/kasap/Desktop/ll/Biblioteka/BibliotekaMS/obj/Debug/net6.0/scopedcss/bundle/BibliotekaMS.styles.css
+C:/Users/kasap/Desktop/ll/Biblioteka/BibliotekaMS/obj/Debug/net6.0/BibliotekaMS.csproj.CopyComplete
+C:/Users/kasap/Desktop/ll/Biblioteka/BibliotekaMS/obj/Debug/net6.0/BibliotekaMS.genruntimeconfig.cache
+C:/Users/kasap/Desktop/ll/Biblioteka/BibliotekaMS/obj/Debug/net6.0/ref/BibliotekaMS.dll
+C:/Users/kasap/Desktop/ll/BibliotekaMS/bin/Debug/net6.0/appsettings.Development.json
+C:/Users/kasap/Desktop/ll/BibliotekaMS/bin/Debug/net6.0/appsettings.json
+C:/Users/kasap/Desktop/ll/BibliotekaMS/bin/Debug/net6.0/BibliotekaMS.exe
+C:/Users/kasap/Desktop/ll/BibliotekaMS/bin/Debug/net6.0/BibliotekaMS.deps.json
+C:/Users/kasap/Desktop/ll/BibliotekaMS/bin/Debug/net6.0/BibliotekaMS.runtimeconfig.json
+C:/Users/kasap/Desktop/ll/BibliotekaMS/bin/Debug/net6.0/BibliotekaMS.dll
+C:/Users/kasap/Desktop/ll/BibliotekaMS/bin/Debug/net6.0/BibliotekaMS.pdb
+C:/Users/kasap/Desktop/ll/BibliotekaMS/bin/Debug/net6.0/AutoMapper.dll
+C:/Users/kasap/Desktop/ll/BibliotekaMS/bin/Debug/net6.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:/Users/kasap/Desktop/ll/BibliotekaMS/bin/Debug/net6.0/Azure.Core.dll
+C:/Users/kasap/Desktop/ll/BibliotekaMS/bin/Debug/net6.0/Azure.Identity.dll
+C:/Users/kasap/Desktop/ll/BibliotekaMS/bin/Debug/net6.0/DocumentFormat.OpenXml.dll
+C:/Users/kasap/Desktop/ll/BibliotekaMS/bin/Debug/net6.0/Humanizer.dll
+C:/Users/kasap/Desktop/ll/BibliotekaMS/bin/Debug/net6.0/log4net.dll
+C:/Users/kasap/Desktop/ll/BibliotekaMS/bin/Debug/net6.0/Microsoft.Bcl.AsyncInterfaces.dll
+C:/Users/kasap/Desktop/ll/BibliotekaMS/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+C:/Users/kasap/Desktop/ll/BibliotekaMS/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/kasap/Desktop/ll/BibliotekaMS/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/kasap/Desktop/ll/BibliotekaMS/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/kasap/Desktop/ll/BibliotekaMS/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/kasap/Desktop/ll/BibliotekaMS/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+C:/Users/kasap/Desktop/ll/BibliotekaMS/bin/Debug/net6.0/Microsoft.Extensions.Caching.Abstractions.dll
+C:/Users/kasap/Desktop/ll/BibliotekaMS/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+C:/Users/kasap/Desktop/ll/BibliotekaMS/bin/Debug/net6.0/Microsoft.Extensions.Configuration.Abstractions.dll
+C:/Users/kasap/Desktop/ll/BibliotekaMS/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+C:/Users/kasap/Desktop/ll/BibliotekaMS/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:/Users/kasap/Desktop/ll/BibliotekaMS/bin/Debug/net6.0/Microsoft.Extensions.DependencyModel.dll
+C:/Users/kasap/Desktop/ll/BibliotekaMS/bin/Debug/net6.0/Microsoft.Extensions.Logging.dll
+C:/Users/kasap/Desktop/ll/BibliotekaMS/bin/Debug/net6.0/Microsoft.Extensions.Logging.Abstractions.dll
+C:/Users/kasap/Desktop/ll/BibliotekaMS/bin/Debug/net6.0/Microsoft.Extensions.Options.dll
+C:/Users/kasap/Desktop/ll/BibliotekaMS/bin/Debug/net6.0/Microsoft.Extensions.Primitives.dll
+C:/Users/kasap/Desktop/ll/BibliotekaMS/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+C:/Users/kasap/Desktop/ll/BibliotekaMS/bin/Debug/net6.0/Microsoft.Identity.Client.Extensions.Msal.dll
+C:/Users/kasap/Desktop/ll/BibliotekaMS/bin/Debug/net6.0/Microsoft.IdentityModel.Abstractions.dll
+C:/Users/kasap/Desktop/ll/BibliotekaMS/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Users/kasap/Desktop/ll/BibliotekaMS/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+C:/Users/kasap/Desktop/ll/BibliotekaMS/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+C:/Users/kasap/Desktop/ll/BibliotekaMS/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:/Users/kasap/Desktop/ll/BibliotekaMS/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+C:/Users/kasap/Desktop/ll/BibliotekaMS/bin/Debug/net6.0/Microsoft.OpenApi.dll
+C:/Users/kasap/Desktop/ll/BibliotekaMS/bin/Debug/net6.0/Microsoft.SqlServer.Server.dll
+C:/Users/kasap/Desktop/ll/BibliotekaMS/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/kasap/Desktop/ll/BibliotekaMS/bin/Debug/net6.0/Mono.TextTemplating.dll
+C:/Users/kasap/Desktop/ll/BibliotekaMS/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/kasap/Desktop/ll/BibliotekaMS/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/kasap/Desktop/ll/BibliotekaMS/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/kasap/Desktop/ll/BibliotekaMS/bin/Debug/net6.0/System.CodeDom.dll
+C:/Users/kasap/Desktop/ll/BibliotekaMS/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+C:/Users/kasap/Desktop/ll/BibliotekaMS/bin/Debug/net6.0/System.Drawing.Common.dll
+C:/Users/kasap/Desktop/ll/BibliotekaMS/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+C:/Users/kasap/Desktop/ll/BibliotekaMS/bin/Debug/net6.0/System.IO.Packaging.dll
+C:/Users/kasap/Desktop/ll/BibliotekaMS/bin/Debug/net6.0/System.Memory.Data.dll
+C:/Users/kasap/Desktop/ll/BibliotekaMS/bin/Debug/net6.0/System.Runtime.Caching.dll
+C:/Users/kasap/Desktop/ll/BibliotekaMS/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/kasap/Desktop/ll/BibliotekaMS/bin/Debug/net6.0/System.Security.Permissions.dll
+C:/Users/kasap/Desktop/ll/BibliotekaMS/bin/Debug/net6.0/System.Text.Encodings.Web.dll
+C:/Users/kasap/Desktop/ll/BibliotekaMS/bin/Debug/net6.0/System.Text.Json.dll
+C:/Users/kasap/Desktop/ll/BibliotekaMS/bin/Debug/net6.0/System.Windows.Extensions.dll
+C:/Users/kasap/Desktop/ll/BibliotekaMS/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Users/kasap/Desktop/ll/BibliotekaMS/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Users/kasap/Desktop/ll/BibliotekaMS/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/kasap/Desktop/ll/BibliotekaMS/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/kasap/Desktop/ll/BibliotekaMS/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/kasap/Desktop/ll/BibliotekaMS/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/kasap/Desktop/ll/BibliotekaMS/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/kasap/Desktop/ll/BibliotekaMS/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/kasap/Desktop/ll/BibliotekaMS/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/kasap/Desktop/ll/BibliotekaMS/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+C:/Users/kasap/Desktop/ll/BibliotekaMS/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/kasap/Desktop/ll/BibliotekaMS/bin/Debug/net6.0/runtimes/browser/lib/net6.0/System.Text.Encodings.Web.dll
+C:/Users/kasap/Desktop/ll/BibliotekaMS/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+C:/Users/kasap/Desktop/ll/BibliotekaMS/obj/Debug/net6.0/BibliotekaMS.csproj.AssemblyReference.cache
+C:/Users/kasap/Desktop/ll/BibliotekaMS/obj/Debug/net6.0/BibliotekaMS.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/kasap/Desktop/ll/BibliotekaMS/obj/Debug/net6.0/BibliotekaMS.AssemblyInfoInputs.cache
+C:/Users/kasap/Desktop/ll/BibliotekaMS/obj/Debug/net6.0/BibliotekaMS.AssemblyInfo.cs
+C:/Users/kasap/Desktop/ll/BibliotekaMS/obj/Debug/net6.0/BibliotekaMS.csproj.CoreCompileInputs.cache
+C:/Users/kasap/Desktop/ll/BibliotekaMS/obj/Debug/net6.0/BibliotekaMS.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/kasap/Desktop/ll/BibliotekaMS/obj/Debug/net6.0/BibliotekaMS.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/kasap/Desktop/ll/BibliotekaMS/obj/Debug/net6.0/staticwebassets/msbuild.BibliotekaMS.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/kasap/Desktop/ll/BibliotekaMS/obj/Debug/net6.0/staticwebassets/msbuild.build.BibliotekaMS.props
+C:/Users/kasap/Desktop/ll/BibliotekaMS/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.BibliotekaMS.props
+C:/Users/kasap/Desktop/ll/BibliotekaMS/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.BibliotekaMS.props
+C:/Users/kasap/Desktop/ll/BibliotekaMS/obj/Debug/net6.0/staticwebassets.pack.json
+C:/Users/kasap/Desktop/ll/BibliotekaMS/obj/Debug/net6.0/staticwebassets.build.json
+C:/Users/kasap/Desktop/ll/BibliotekaMS/obj/Debug/net6.0/staticwebassets.development.json
+C:/Users/kasap/Desktop/ll/BibliotekaMS/obj/Debug/net6.0/scopedcss/bundle/BibliotekaMS.styles.css
+C:/Users/kasap/Desktop/ll/BibliotekaMS/obj/Debug/net6.0/BibliotekaMS.csproj.CopyComplete
+C:/Users/kasap/Desktop/ll/BibliotekaMS/obj/Debug/net6.0/BibliotekaMS.dll
+C:/Users/kasap/Desktop/ll/BibliotekaMS/obj/Debug/net6.0/refint/BibliotekaMS.dll
+C:/Users/kasap/Desktop/ll/BibliotekaMS/obj/Debug/net6.0/BibliotekaMS.pdb
+C:/Users/kasap/Desktop/ll/BibliotekaMS/obj/Debug/net6.0/BibliotekaMS.genruntimeconfig.cache
+C:/Users/kasap/Desktop/ll/BibliotekaMS/obj/Debug/net6.0/ref/BibliotekaMS.dll
+C:/Users/kasap/Desktop/LMS/BibliotekaMS/bin/Debug/net6.0/appsettings.Development.json
+C:/Users/kasap/Desktop/LMS/BibliotekaMS/bin/Debug/net6.0/appsettings.json
+C:/Users/kasap/Desktop/LMS/BibliotekaMS/bin/Debug/net6.0/BibliotekaMS.exe
+C:/Users/kasap/Desktop/LMS/BibliotekaMS/bin/Debug/net6.0/BibliotekaMS.deps.json
+C:/Users/kasap/Desktop/LMS/BibliotekaMS/bin/Debug/net6.0/BibliotekaMS.runtimeconfig.json
+C:/Users/kasap/Desktop/LMS/BibliotekaMS/bin/Debug/net6.0/BibliotekaMS.dll
+C:/Users/kasap/Desktop/LMS/BibliotekaMS/bin/Debug/net6.0/BibliotekaMS.pdb
+C:/Users/kasap/Desktop/LMS/BibliotekaMS/bin/Debug/net6.0/AutoMapper.dll
+C:/Users/kasap/Desktop/LMS/BibliotekaMS/bin/Debug/net6.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:/Users/kasap/Desktop/LMS/BibliotekaMS/bin/Debug/net6.0/Azure.Core.dll
+C:/Users/kasap/Desktop/LMS/BibliotekaMS/bin/Debug/net6.0/Azure.Identity.dll
+C:/Users/kasap/Desktop/LMS/BibliotekaMS/bin/Debug/net6.0/DocumentFormat.OpenXml.dll
+C:/Users/kasap/Desktop/LMS/BibliotekaMS/bin/Debug/net6.0/Humanizer.dll
+C:/Users/kasap/Desktop/LMS/BibliotekaMS/bin/Debug/net6.0/log4net.dll
+C:/Users/kasap/Desktop/LMS/BibliotekaMS/bin/Debug/net6.0/Microsoft.Bcl.AsyncInterfaces.dll
+C:/Users/kasap/Desktop/LMS/BibliotekaMS/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+C:/Users/kasap/Desktop/LMS/BibliotekaMS/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/kasap/Desktop/LMS/BibliotekaMS/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/kasap/Desktop/LMS/BibliotekaMS/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/kasap/Desktop/LMS/BibliotekaMS/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/kasap/Desktop/LMS/BibliotekaMS/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+C:/Users/kasap/Desktop/LMS/BibliotekaMS/bin/Debug/net6.0/Microsoft.Extensions.Caching.Abstractions.dll
+C:/Users/kasap/Desktop/LMS/BibliotekaMS/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+C:/Users/kasap/Desktop/LMS/BibliotekaMS/bin/Debug/net6.0/Microsoft.Extensions.Configuration.Abstractions.dll
+C:/Users/kasap/Desktop/LMS/BibliotekaMS/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+C:/Users/kasap/Desktop/LMS/BibliotekaMS/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:/Users/kasap/Desktop/LMS/BibliotekaMS/bin/Debug/net6.0/Microsoft.Extensions.DependencyModel.dll
+C:/Users/kasap/Desktop/LMS/BibliotekaMS/bin/Debug/net6.0/Microsoft.Extensions.Logging.dll
+C:/Users/kasap/Desktop/LMS/BibliotekaMS/bin/Debug/net6.0/Microsoft.Extensions.Logging.Abstractions.dll
+C:/Users/kasap/Desktop/LMS/BibliotekaMS/bin/Debug/net6.0/Microsoft.Extensions.Options.dll
+C:/Users/kasap/Desktop/LMS/BibliotekaMS/bin/Debug/net6.0/Microsoft.Extensions.Primitives.dll
+C:/Users/kasap/Desktop/LMS/BibliotekaMS/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+C:/Users/kasap/Desktop/LMS/BibliotekaMS/bin/Debug/net6.0/Microsoft.Identity.Client.Extensions.Msal.dll
+C:/Users/kasap/Desktop/LMS/BibliotekaMS/bin/Debug/net6.0/Microsoft.IdentityModel.Abstractions.dll
+C:/Users/kasap/Desktop/LMS/BibliotekaMS/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Users/kasap/Desktop/LMS/BibliotekaMS/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+C:/Users/kasap/Desktop/LMS/BibliotekaMS/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+C:/Users/kasap/Desktop/LMS/BibliotekaMS/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:/Users/kasap/Desktop/LMS/BibliotekaMS/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+C:/Users/kasap/Desktop/LMS/BibliotekaMS/bin/Debug/net6.0/Microsoft.OpenApi.dll
+C:/Users/kasap/Desktop/LMS/BibliotekaMS/bin/Debug/net6.0/Microsoft.SqlServer.Server.dll
+C:/Users/kasap/Desktop/LMS/BibliotekaMS/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/kasap/Desktop/LMS/BibliotekaMS/bin/Debug/net6.0/Mono.TextTemplating.dll
+C:/Users/kasap/Desktop/LMS/BibliotekaMS/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/kasap/Desktop/LMS/BibliotekaMS/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/kasap/Desktop/LMS/BibliotekaMS/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/kasap/Desktop/LMS/BibliotekaMS/bin/Debug/net6.0/System.CodeDom.dll
+C:/Users/kasap/Desktop/LMS/BibliotekaMS/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+C:/Users/kasap/Desktop/LMS/BibliotekaMS/bin/Debug/net6.0/System.Drawing.Common.dll
+C:/Users/kasap/Desktop/LMS/BibliotekaMS/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+C:/Users/kasap/Desktop/LMS/BibliotekaMS/bin/Debug/net6.0/System.IO.Packaging.dll
+C:/Users/kasap/Desktop/LMS/BibliotekaMS/bin/Debug/net6.0/System.Memory.Data.dll
+C:/Users/kasap/Desktop/LMS/BibliotekaMS/bin/Debug/net6.0/System.Runtime.Caching.dll
+C:/Users/kasap/Desktop/LMS/BibliotekaMS/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/kasap/Desktop/LMS/BibliotekaMS/bin/Debug/net6.0/System.Security.Permissions.dll
+C:/Users/kasap/Desktop/LMS/BibliotekaMS/bin/Debug/net6.0/System.Text.Encodings.Web.dll
+C:/Users/kasap/Desktop/LMS/BibliotekaMS/bin/Debug/net6.0/System.Text.Json.dll
+C:/Users/kasap/Desktop/LMS/BibliotekaMS/bin/Debug/net6.0/System.Windows.Extensions.dll
+C:/Users/kasap/Desktop/LMS/BibliotekaMS/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Users/kasap/Desktop/LMS/BibliotekaMS/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Users/kasap/Desktop/LMS/BibliotekaMS/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/kasap/Desktop/LMS/BibliotekaMS/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/kasap/Desktop/LMS/BibliotekaMS/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/kasap/Desktop/LMS/BibliotekaMS/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/kasap/Desktop/LMS/BibliotekaMS/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/kasap/Desktop/LMS/BibliotekaMS/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/kasap/Desktop/LMS/BibliotekaMS/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/kasap/Desktop/LMS/BibliotekaMS/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+C:/Users/kasap/Desktop/LMS/BibliotekaMS/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/kasap/Desktop/LMS/BibliotekaMS/bin/Debug/net6.0/runtimes/browser/lib/net6.0/System.Text.Encodings.Web.dll
+C:/Users/kasap/Desktop/LMS/BibliotekaMS/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+C:/Users/kasap/Desktop/LMS/BibliotekaMS/obj/Debug/net6.0/BibliotekaMS.csproj.AssemblyReference.cache
+C:/Users/kasap/Desktop/LMS/BibliotekaMS/obj/Debug/net6.0/BibliotekaMS.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/kasap/Desktop/LMS/BibliotekaMS/obj/Debug/net6.0/BibliotekaMS.AssemblyInfoInputs.cache
+C:/Users/kasap/Desktop/LMS/BibliotekaMS/obj/Debug/net6.0/BibliotekaMS.AssemblyInfo.cs
+C:/Users/kasap/Desktop/LMS/BibliotekaMS/obj/Debug/net6.0/BibliotekaMS.csproj.CoreCompileInputs.cache
+C:/Users/kasap/Desktop/LMS/BibliotekaMS/obj/Debug/net6.0/BibliotekaMS.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/kasap/Desktop/LMS/BibliotekaMS/obj/Debug/net6.0/BibliotekaMS.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/kasap/Desktop/LMS/BibliotekaMS/obj/Debug/net6.0/staticwebassets/msbuild.BibliotekaMS.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/kasap/Desktop/LMS/BibliotekaMS/obj/Debug/net6.0/staticwebassets/msbuild.build.BibliotekaMS.props
+C:/Users/kasap/Desktop/LMS/BibliotekaMS/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.BibliotekaMS.props
+C:/Users/kasap/Desktop/LMS/BibliotekaMS/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.BibliotekaMS.props
+C:/Users/kasap/Desktop/LMS/BibliotekaMS/obj/Debug/net6.0/staticwebassets.pack.json
+C:/Users/kasap/Desktop/LMS/BibliotekaMS/obj/Debug/net6.0/staticwebassets.build.json
+C:/Users/kasap/Desktop/LMS/BibliotekaMS/obj/Debug/net6.0/staticwebassets.development.json
+C:/Users/kasap/Desktop/LMS/BibliotekaMS/obj/Debug/net6.0/scopedcss/bundle/BibliotekaMS.styles.css
+C:/Users/kasap/Desktop/LMS/BibliotekaMS/obj/Debug/net6.0/BibliotekaMS.csproj.CopyComplete
+C:/Users/kasap/Desktop/LMS/BibliotekaMS/obj/Debug/net6.0/BibliotekaMS.dll
+C:/Users/kasap/Desktop/LMS/BibliotekaMS/obj/Debug/net6.0/refint/BibliotekaMS.dll
+C:/Users/kasap/Desktop/LMS/BibliotekaMS/obj/Debug/net6.0/BibliotekaMS.pdb
+C:/Users/kasap/Desktop/LMS/BibliotekaMS/obj/Debug/net6.0/BibliotekaMS.genruntimeconfig.cache
+C:/Users/kasap/Desktop/LMS/BibliotekaMS/obj/Debug/net6.0/ref/BibliotekaMS.dll
+C:/Users/kasap/Desktop/LMS/BibliotekaMS/bin/Debug/net6.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+C:/Users/kasap/Desktop/LMS/BibliotekaMS/bin/Debug/net6.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:/Users/kasap/Desktop/LMS/BibliotekaMS/bin/Debug/net6.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:/Users/kasap/Desktop/LMS/BibliotekaMS/bin/Debug/net6.0/Microsoft.Extensions.Identity.Core.dll
+C:/Users/kasap/Desktop/LMS/BibliotekaMS/bin/Debug/net6.0/Microsoft.Extensions.Identity.Stores.dll
+C:/Users/kasap/Desktop/LMS/BibliotekaMS/bin/Debug/net6.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:/Users/kasap/Desktop/LMS/BibliotekaMS/bin/Debug/net6.0/BibliotekaMS.staticwebassets.runtime.json
+C:/Users/kasap/Desktop/LMS/BibliotekaMS/bin/Debug/net6.0/Microsoft.AspNetCore.Identity.UI.dll
+C:/Users/kasap/Desktop/LMS/BibliotekaMS/bin/Debug/net6.0/Microsoft.Extensions.FileProviders.Embedded.dll
+C:/Users/Wp/Desktop/Lab-1/Biblioteka/BibliotekaMS/bin/Debug/net6.0/appsettings.Development.json
+C:/Users/Wp/Desktop/Lab-1/Biblioteka/BibliotekaMS/bin/Debug/net6.0/appsettings.json
+C:/Users/Wp/Desktop/Lab-1/Biblioteka/BibliotekaMS/bin/Debug/net6.0/BibliotekaMS.staticwebassets.runtime.json
+C:/Users/Wp/Desktop/Lab-1/Biblioteka/BibliotekaMS/bin/Debug/net6.0/BibliotekaMS.exe
+C:/Users/Wp/Desktop/Lab-1/Biblioteka/BibliotekaMS/bin/Debug/net6.0/BibliotekaMS.deps.json
+C:/Users/Wp/Desktop/Lab-1/Biblioteka/BibliotekaMS/bin/Debug/net6.0/BibliotekaMS.runtimeconfig.json
+C:/Users/Wp/Desktop/Lab-1/Biblioteka/BibliotekaMS/bin/Debug/net6.0/BibliotekaMS.dll
+C:/Users/Wp/Desktop/Lab-1/Biblioteka/BibliotekaMS/bin/Debug/net6.0/BibliotekaMS.pdb
+C:/Users/Wp/Desktop/Lab-1/Biblioteka/BibliotekaMS/bin/Debug/net6.0/AutoMapper.dll
+C:/Users/Wp/Desktop/Lab-1/Biblioteka/BibliotekaMS/bin/Debug/net6.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:/Users/Wp/Desktop/Lab-1/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Azure.Core.dll
+C:/Users/Wp/Desktop/Lab-1/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Azure.Identity.dll
+C:/Users/Wp/Desktop/Lab-1/Biblioteka/BibliotekaMS/bin/Debug/net6.0/DocumentFormat.OpenXml.dll
+C:/Users/Wp/Desktop/Lab-1/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Humanizer.dll
+C:/Users/Wp/Desktop/Lab-1/Biblioteka/BibliotekaMS/bin/Debug/net6.0/log4net.dll
+C:/Users/Wp/Desktop/Lab-1/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:/Users/Wp/Desktop/Lab-1/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+C:/Users/Wp/Desktop/Lab-1/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:/Users/Wp/Desktop/Lab-1/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:/Users/Wp/Desktop/Lab-1/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Microsoft.AspNetCore.Identity.UI.dll
+C:/Users/Wp/Desktop/Lab-1/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Microsoft.Bcl.AsyncInterfaces.dll
+C:/Users/Wp/Desktop/Lab-1/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+C:/Users/Wp/Desktop/Lab-1/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/Wp/Desktop/Lab-1/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/Wp/Desktop/Lab-1/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/Wp/Desktop/Lab-1/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/Wp/Desktop/Lab-1/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+C:/Users/Wp/Desktop/Lab-1/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Microsoft.Extensions.Caching.Abstractions.dll
+C:/Users/Wp/Desktop/Lab-1/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+C:/Users/Wp/Desktop/Lab-1/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Microsoft.Extensions.Configuration.Abstractions.dll
+C:/Users/Wp/Desktop/Lab-1/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+C:/Users/Wp/Desktop/Lab-1/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:/Users/Wp/Desktop/Lab-1/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Microsoft.Extensions.DependencyModel.dll
+C:/Users/Wp/Desktop/Lab-1/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Microsoft.Extensions.FileProviders.Embedded.dll
+C:/Users/Wp/Desktop/Lab-1/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Microsoft.Extensions.Identity.Core.dll
+C:/Users/Wp/Desktop/Lab-1/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Microsoft.Extensions.Identity.Stores.dll
+C:/Users/Wp/Desktop/Lab-1/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Microsoft.Extensions.Logging.dll
+C:/Users/Wp/Desktop/Lab-1/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Microsoft.Extensions.Logging.Abstractions.dll
+C:/Users/Wp/Desktop/Lab-1/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Microsoft.Extensions.Options.dll
+C:/Users/Wp/Desktop/Lab-1/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Microsoft.Extensions.Primitives.dll
+C:/Users/Wp/Desktop/Lab-1/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+C:/Users/Wp/Desktop/Lab-1/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Microsoft.Identity.Client.Extensions.Msal.dll
+C:/Users/Wp/Desktop/Lab-1/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Microsoft.IdentityModel.Abstractions.dll
+C:/Users/Wp/Desktop/Lab-1/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Users/Wp/Desktop/Lab-1/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+C:/Users/Wp/Desktop/Lab-1/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+C:/Users/Wp/Desktop/Lab-1/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:/Users/Wp/Desktop/Lab-1/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+C:/Users/Wp/Desktop/Lab-1/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Microsoft.OpenApi.dll
+C:/Users/Wp/Desktop/Lab-1/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Microsoft.SqlServer.Server.dll
+C:/Users/Wp/Desktop/Lab-1/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/Wp/Desktop/Lab-1/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Mono.TextTemplating.dll
+C:/Users/Wp/Desktop/Lab-1/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/Wp/Desktop/Lab-1/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/Wp/Desktop/Lab-1/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/Wp/Desktop/Lab-1/Biblioteka/BibliotekaMS/bin/Debug/net6.0/System.CodeDom.dll
+C:/Users/Wp/Desktop/Lab-1/Biblioteka/BibliotekaMS/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+C:/Users/Wp/Desktop/Lab-1/Biblioteka/BibliotekaMS/bin/Debug/net6.0/System.Drawing.Common.dll
+C:/Users/Wp/Desktop/Lab-1/Biblioteka/BibliotekaMS/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+C:/Users/Wp/Desktop/Lab-1/Biblioteka/BibliotekaMS/bin/Debug/net6.0/System.IO.Packaging.dll
+C:/Users/Wp/Desktop/Lab-1/Biblioteka/BibliotekaMS/bin/Debug/net6.0/System.Memory.Data.dll
+C:/Users/Wp/Desktop/Lab-1/Biblioteka/BibliotekaMS/bin/Debug/net6.0/System.Runtime.Caching.dll
+C:/Users/Wp/Desktop/Lab-1/Biblioteka/BibliotekaMS/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/Wp/Desktop/Lab-1/Biblioteka/BibliotekaMS/bin/Debug/net6.0/System.Security.Permissions.dll
+C:/Users/Wp/Desktop/Lab-1/Biblioteka/BibliotekaMS/bin/Debug/net6.0/System.Text.Encodings.Web.dll
+C:/Users/Wp/Desktop/Lab-1/Biblioteka/BibliotekaMS/bin/Debug/net6.0/System.Text.Json.dll
+C:/Users/Wp/Desktop/Lab-1/Biblioteka/BibliotekaMS/bin/Debug/net6.0/System.Windows.Extensions.dll
+C:/Users/Wp/Desktop/Lab-1/Biblioteka/BibliotekaMS/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Users/Wp/Desktop/Lab-1/Biblioteka/BibliotekaMS/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+C:/Users/Wp/Desktop/Lab-1/Biblioteka/BibliotekaMS/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/Wp/Desktop/Lab-1/Biblioteka/BibliotekaMS/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/Wp/Desktop/Lab-1/Biblioteka/BibliotekaMS/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/Wp/Desktop/Lab-1/Biblioteka/BibliotekaMS/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/Wp/Desktop/Lab-1/Biblioteka/BibliotekaMS/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/Wp/Desktop/Lab-1/Biblioteka/BibliotekaMS/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/Wp/Desktop/Lab-1/Biblioteka/BibliotekaMS/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+C:/Users/Wp/Desktop/Lab-1/Biblioteka/BibliotekaMS/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+C:/Users/Wp/Desktop/Lab-1/Biblioteka/BibliotekaMS/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/Wp/Desktop/Lab-1/Biblioteka/BibliotekaMS/bin/Debug/net6.0/runtimes/browser/lib/net6.0/System.Text.Encodings.Web.dll
+C:/Users/Wp/Desktop/Lab-1/Biblioteka/BibliotekaMS/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+C:/Users/Wp/Desktop/Lab-1/Biblioteka/BibliotekaMS/obj/Debug/net6.0/BibliotekaMS.csproj.AssemblyReference.cache
+C:/Users/Wp/Desktop/Lab-1/Biblioteka/BibliotekaMS/obj/Debug/net6.0/BibliotekaMS.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Wp/Desktop/Lab-1/Biblioteka/BibliotekaMS/obj/Debug/net6.0/BibliotekaMS.AssemblyInfoInputs.cache
+C:/Users/Wp/Desktop/Lab-1/Biblioteka/BibliotekaMS/obj/Debug/net6.0/BibliotekaMS.AssemblyInfo.cs
+C:/Users/Wp/Desktop/Lab-1/Biblioteka/BibliotekaMS/obj/Debug/net6.0/BibliotekaMS.csproj.CoreCompileInputs.cache
+C:/Users/Wp/Desktop/Lab-1/Biblioteka/BibliotekaMS/obj/Debug/net6.0/BibliotekaMS.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/Wp/Desktop/Lab-1/Biblioteka/BibliotekaMS/obj/Debug/net6.0/BibliotekaMS.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/Wp/Desktop/Lab-1/Biblioteka/BibliotekaMS/obj/Debug/net6.0/BibliotekaMS.sourcelink.json
+C:/Users/Wp/Desktop/Lab-1/Biblioteka/BibliotekaMS/obj/Debug/net6.0/staticwebassets.build.json
+C:/Users/Wp/Desktop/Lab-1/Biblioteka/BibliotekaMS/obj/Debug/net6.0/staticwebassets.development.json
+C:/Users/Wp/Desktop/Lab-1/Biblioteka/BibliotekaMS/obj/Debug/net6.0/staticwebassets/msbuild.BibliotekaMS.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/Wp/Desktop/Lab-1/Biblioteka/BibliotekaMS/obj/Debug/net6.0/staticwebassets/msbuild.build.BibliotekaMS.props
+C:/Users/Wp/Desktop/Lab-1/Biblioteka/BibliotekaMS/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.BibliotekaMS.props
+C:/Users/Wp/Desktop/Lab-1/Biblioteka/BibliotekaMS/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.BibliotekaMS.props
+C:/Users/Wp/Desktop/Lab-1/Biblioteka/BibliotekaMS/obj/Debug/net6.0/staticwebassets.pack.json
+C:/Users/Wp/Desktop/Lab-1/Biblioteka/BibliotekaMS/obj/Debug/net6.0/scopedcss/bundle/BibliotekaMS.styles.css
+C:/Users/Wp/Desktop/Lab-1/Biblioteka/BibliotekaMS/obj/Debug/net6.0/Bibliote.6EB1E01D.Up2Date
+C:/Users/Wp/Desktop/Lab-1/Biblioteka/BibliotekaMS/obj/Debug/net6.0/BibliotekaMS.dll
+C:/Users/Wp/Desktop/Lab-1/Biblioteka/BibliotekaMS/obj/Debug/net6.0/refint/BibliotekaMS.dll
+C:/Users/Wp/Desktop/Lab-1/Biblioteka/BibliotekaMS/obj/Debug/net6.0/BibliotekaMS.pdb
+C:/Users/Wp/Desktop/Lab-1/Biblioteka/BibliotekaMS/obj/Debug/net6.0/BibliotekaMS.genruntimeconfig.cache
+C:/Users/Wp/Desktop/Lab-1/Biblioteka/BibliotekaMS/obj/Debug/net6.0/ref/BibliotekaMS.dll
+/Users/Apple/Downloads/LAB1/Biblioteka/BibliotekaMS/bin/Debug/net6.0/appsettings.Development.json
+/Users/Apple/Downloads/LAB1/Biblioteka/BibliotekaMS/bin/Debug/net6.0/appsettings.json
+/Users/Apple/Downloads/LAB1/Biblioteka/BibliotekaMS/bin/Debug/net6.0/BibliotekaMS.staticwebassets.runtime.json
+/Users/Apple/Downloads/LAB1/Biblioteka/BibliotekaMS/bin/Debug/net6.0/BibliotekaMS
+/Users/Apple/Downloads/LAB1/Biblioteka/BibliotekaMS/bin/Debug/net6.0/BibliotekaMS.deps.json
+/Users/Apple/Downloads/LAB1/Biblioteka/BibliotekaMS/bin/Debug/net6.0/BibliotekaMS.runtimeconfig.json
+/Users/Apple/Downloads/LAB1/Biblioteka/BibliotekaMS/bin/Debug/net6.0/BibliotekaMS.dll
+/Users/Apple/Downloads/LAB1/Biblioteka/BibliotekaMS/bin/Debug/net6.0/BibliotekaMS.pdb
+/Users/Apple/Downloads/LAB1/Biblioteka/BibliotekaMS/bin/Debug/net6.0/AutoMapper.dll
+/Users/Apple/Downloads/LAB1/Biblioteka/BibliotekaMS/bin/Debug/net6.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+/Users/Apple/Downloads/LAB1/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Azure.Core.dll
+/Users/Apple/Downloads/LAB1/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Azure.Identity.dll
+/Users/Apple/Downloads/LAB1/Biblioteka/BibliotekaMS/bin/Debug/net6.0/DocumentFormat.OpenXml.dll
+/Users/Apple/Downloads/LAB1/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Humanizer.dll
+/Users/Apple/Downloads/LAB1/Biblioteka/BibliotekaMS/bin/Debug/net6.0/log4net.dll
+/Users/Apple/Downloads/LAB1/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/Apple/Downloads/LAB1/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+/Users/Apple/Downloads/LAB1/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/Users/Apple/Downloads/LAB1/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/Users/Apple/Downloads/LAB1/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Microsoft.AspNetCore.Identity.UI.dll
+/Users/Apple/Downloads/LAB1/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/Apple/Downloads/LAB1/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Microsoft.Data.SqlClient.dll
+/Users/Apple/Downloads/LAB1/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/Users/Apple/Downloads/LAB1/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/Apple/Downloads/LAB1/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/Apple/Downloads/LAB1/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/Apple/Downloads/LAB1/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/Apple/Downloads/LAB1/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/Apple/Downloads/LAB1/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/Apple/Downloads/LAB1/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/Apple/Downloads/LAB1/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/Apple/Downloads/LAB1/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/Apple/Downloads/LAB1/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Microsoft.Extensions.DependencyModel.dll
+/Users/Apple/Downloads/LAB1/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Microsoft.Extensions.FileProviders.Embedded.dll
+/Users/Apple/Downloads/LAB1/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Microsoft.Extensions.Identity.Core.dll
+/Users/Apple/Downloads/LAB1/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Microsoft.Extensions.Identity.Stores.dll
+/Users/Apple/Downloads/LAB1/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Microsoft.Extensions.Logging.dll
+/Users/Apple/Downloads/LAB1/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/Apple/Downloads/LAB1/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Microsoft.Extensions.Options.dll
+/Users/Apple/Downloads/LAB1/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Microsoft.Extensions.Primitives.dll
+/Users/Apple/Downloads/LAB1/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Microsoft.Identity.Client.dll
+/Users/Apple/Downloads/LAB1/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/Apple/Downloads/LAB1/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/Apple/Downloads/LAB1/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/Apple/Downloads/LAB1/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+/Users/Apple/Downloads/LAB1/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+/Users/Apple/Downloads/LAB1/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/Apple/Downloads/LAB1/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+/Users/Apple/Downloads/LAB1/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/Users/Apple/Downloads/LAB1/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Microsoft.SqlServer.Server.dll
+/Users/Apple/Downloads/LAB1/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/Apple/Downloads/LAB1/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Mono.TextTemplating.dll
+/Users/Apple/Downloads/LAB1/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/Apple/Downloads/LAB1/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/Apple/Downloads/LAB1/Biblioteka/BibliotekaMS/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/Apple/Downloads/LAB1/Biblioteka/BibliotekaMS/bin/Debug/net6.0/System.CodeDom.dll
+/Users/Apple/Downloads/LAB1/Biblioteka/BibliotekaMS/bin/Debug/net6.0/System.Configuration.ConfigurationManager.dll
+/Users/Apple/Downloads/LAB1/Biblioteka/BibliotekaMS/bin/Debug/net6.0/System.Drawing.Common.dll
+/Users/Apple/Downloads/LAB1/Biblioteka/BibliotekaMS/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/Apple/Downloads/LAB1/Biblioteka/BibliotekaMS/bin/Debug/net6.0/System.IO.Packaging.dll
+/Users/Apple/Downloads/LAB1/Biblioteka/BibliotekaMS/bin/Debug/net6.0/System.Memory.Data.dll
+/Users/Apple/Downloads/LAB1/Biblioteka/BibliotekaMS/bin/Debug/net6.0/System.Runtime.Caching.dll
+/Users/Apple/Downloads/LAB1/Biblioteka/BibliotekaMS/bin/Debug/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/Apple/Downloads/LAB1/Biblioteka/BibliotekaMS/bin/Debug/net6.0/System.Security.Permissions.dll
+/Users/Apple/Downloads/LAB1/Biblioteka/BibliotekaMS/bin/Debug/net6.0/System.Text.Encodings.Web.dll
+/Users/Apple/Downloads/LAB1/Biblioteka/BibliotekaMS/bin/Debug/net6.0/System.Text.Json.dll
+/Users/Apple/Downloads/LAB1/Biblioteka/BibliotekaMS/bin/Debug/net6.0/System.Windows.Extensions.dll
+/Users/Apple/Downloads/LAB1/Biblioteka/BibliotekaMS/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/Apple/Downloads/LAB1/Biblioteka/BibliotekaMS/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.1/Microsoft.Data.SqlClient.dll
+/Users/Apple/Downloads/LAB1/Biblioteka/BibliotekaMS/bin/Debug/net6.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/Apple/Downloads/LAB1/Biblioteka/BibliotekaMS/bin/Debug/net6.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/Apple/Downloads/LAB1/Biblioteka/BibliotekaMS/bin/Debug/net6.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/Apple/Downloads/LAB1/Biblioteka/BibliotekaMS/bin/Debug/net6.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/Apple/Downloads/LAB1/Biblioteka/BibliotekaMS/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/Microsoft.Win32.SystemEvents.dll
+/Users/Apple/Downloads/LAB1/Biblioteka/BibliotekaMS/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/Apple/Downloads/LAB1/Biblioteka/BibliotekaMS/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Drawing.Common.dll
+/Users/Apple/Downloads/LAB1/Biblioteka/BibliotekaMS/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
+/Users/Apple/Downloads/LAB1/Biblioteka/BibliotekaMS/bin/Debug/net6.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/Users/Apple/Downloads/LAB1/Biblioteka/BibliotekaMS/bin/Debug/net6.0/runtimes/browser/lib/net6.0/System.Text.Encodings.Web.dll
+/Users/Apple/Downloads/LAB1/Biblioteka/BibliotekaMS/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
+/Users/Apple/Downloads/LAB1/Biblioteka/BibliotekaMS/obj/Debug/net6.0/BibliotekaMS.csproj.AssemblyReference.cache
+/Users/Apple/Downloads/LAB1/Biblioteka/BibliotekaMS/obj/Debug/net6.0/BibliotekaMS.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Apple/Downloads/LAB1/Biblioteka/BibliotekaMS/obj/Debug/net6.0/BibliotekaMS.AssemblyInfoInputs.cache
+/Users/Apple/Downloads/LAB1/Biblioteka/BibliotekaMS/obj/Debug/net6.0/BibliotekaMS.AssemblyInfo.cs
+/Users/Apple/Downloads/LAB1/Biblioteka/BibliotekaMS/obj/Debug/net6.0/BibliotekaMS.csproj.CoreCompileInputs.cache
+/Users/Apple/Downloads/LAB1/Biblioteka/BibliotekaMS/obj/Debug/net6.0/BibliotekaMS.MvcApplicationPartsAssemblyInfo.cs
+/Users/Apple/Downloads/LAB1/Biblioteka/BibliotekaMS/obj/Debug/net6.0/BibliotekaMS.MvcApplicationPartsAssemblyInfo.cache
+/Users/Apple/Downloads/LAB1/Biblioteka/BibliotekaMS/obj/Debug/net6.0/staticwebassets/msbuild.BibliotekaMS.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/Apple/Downloads/LAB1/Biblioteka/BibliotekaMS/obj/Debug/net6.0/staticwebassets/msbuild.build.BibliotekaMS.props
+/Users/Apple/Downloads/LAB1/Biblioteka/BibliotekaMS/obj/Debug/net6.0/staticwebassets/msbuild.buildMultiTargeting.BibliotekaMS.props
+/Users/Apple/Downloads/LAB1/Biblioteka/BibliotekaMS/obj/Debug/net6.0/staticwebassets/msbuild.buildTransitive.BibliotekaMS.props
+/Users/Apple/Downloads/LAB1/Biblioteka/BibliotekaMS/obj/Debug/net6.0/staticwebassets.pack.json
+/Users/Apple/Downloads/LAB1/Biblioteka/BibliotekaMS/obj/Debug/net6.0/staticwebassets.build.json
+/Users/Apple/Downloads/LAB1/Biblioteka/BibliotekaMS/obj/Debug/net6.0/staticwebassets.development.json
+/Users/Apple/Downloads/LAB1/Biblioteka/BibliotekaMS/obj/Debug/net6.0/scopedcss/bundle/BibliotekaMS.styles.css
+/Users/Apple/Downloads/LAB1/Biblioteka/BibliotekaMS/obj/Debug/net6.0/BibliotekaMS.dll
+/Users/Apple/Downloads/LAB1/Biblioteka/BibliotekaMS/obj/Debug/net6.0/refint/BibliotekaMS.dll
+/Users/Apple/Downloads/LAB1/Biblioteka/BibliotekaMS/obj/Debug/net6.0/BibliotekaMS.pdb
+/Users/Apple/Downloads/LAB1/Biblioteka/BibliotekaMS/obj/Debug/net6.0/BibliotekaMS.genruntimeconfig.cache
+/Users/Apple/Downloads/LAB1/Biblioteka/BibliotekaMS/obj/Debug/net6.0/ref/BibliotekaMS.dll
+/Users/Apple/Downloads/LAB1/Biblioteka/BibliotekaMS/bin/Debug/net6.0/package-lock.json
+/Users/Apple/Downloads/LAB1/Biblioteka/BibliotekaMS/bin/Debug/net6.0/package.json
+/Users/Apple/Downloads/LAB1/Biblioteka/BibliotekaMS/obj/Debug/net6.0/BibliotekaMS.csproj.CopyComplete
+C:\Users\win-ks.com\Downloads\LAB1\LAB1\Biblioteka\BibliotekaMS\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\win-ks.com\Downloads\LAB1\LAB1\Biblioteka\BibliotekaMS\bin\Debug\net6.0\package-lock.json
+C:\Users\win-ks.com\Downloads\LAB1\LAB1\Biblioteka\BibliotekaMS\bin\Debug\net6.0\package.json
+C:\Users\win-ks.com\Downloads\LAB1\LAB1\Biblioteka\BibliotekaMS\bin\Debug\net6.0\appsettings.json
+C:\Users\win-ks.com\Downloads\LAB1\LAB1\Biblioteka\BibliotekaMS\bin\Debug\net6.0\BibliotekaMS.staticwebassets.runtime.json
+C:\Users\win-ks.com\Downloads\LAB1\LAB1\Biblioteka\BibliotekaMS\bin\Debug\net6.0\BibliotekaMS.exe
+C:\Users\win-ks.com\Downloads\LAB1\LAB1\Biblioteka\BibliotekaMS\bin\Debug\net6.0\BibliotekaMS.deps.json
+C:\Users\win-ks.com\Downloads\LAB1\LAB1\Biblioteka\BibliotekaMS\bin\Debug\net6.0\BibliotekaMS.runtimeconfig.json
+C:\Users\win-ks.com\Downloads\LAB1\LAB1\Biblioteka\BibliotekaMS\bin\Debug\net6.0\BibliotekaMS.dll
+C:\Users\win-ks.com\Downloads\LAB1\LAB1\Biblioteka\BibliotekaMS\bin\Debug\net6.0\BibliotekaMS.pdb
+C:\Users\win-ks.com\Downloads\LAB1\LAB1\Biblioteka\BibliotekaMS\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\win-ks.com\Downloads\LAB1\LAB1\Biblioteka\BibliotekaMS\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\win-ks.com\Downloads\LAB1\LAB1\Biblioteka\BibliotekaMS\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\win-ks.com\Downloads\LAB1\LAB1\Biblioteka\BibliotekaMS\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\win-ks.com\Downloads\LAB1\LAB1\Biblioteka\BibliotekaMS\bin\Debug\net6.0\DocumentFormat.OpenXml.dll
+C:\Users\win-ks.com\Downloads\LAB1\LAB1\Biblioteka\BibliotekaMS\bin\Debug\net6.0\Humanizer.dll
+C:\Users\win-ks.com\Downloads\LAB1\LAB1\Biblioteka\BibliotekaMS\bin\Debug\net6.0\log4net.dll
+C:\Users\win-ks.com\Downloads\LAB1\LAB1\Biblioteka\BibliotekaMS\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\win-ks.com\Downloads\LAB1\LAB1\Biblioteka\BibliotekaMS\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\win-ks.com\Downloads\LAB1\LAB1\Biblioteka\BibliotekaMS\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\win-ks.com\Downloads\LAB1\LAB1\Biblioteka\BibliotekaMS\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\win-ks.com\Downloads\LAB1\LAB1\Biblioteka\BibliotekaMS\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\win-ks.com\Downloads\LAB1\LAB1\Biblioteka\BibliotekaMS\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\win-ks.com\Downloads\LAB1\LAB1\Biblioteka\BibliotekaMS\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\win-ks.com\Downloads\LAB1\LAB1\Biblioteka\BibliotekaMS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\win-ks.com\Downloads\LAB1\LAB1\Biblioteka\BibliotekaMS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\win-ks.com\Downloads\LAB1\LAB1\Biblioteka\BibliotekaMS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\win-ks.com\Downloads\LAB1\LAB1\Biblioteka\BibliotekaMS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\win-ks.com\Downloads\LAB1\LAB1\Biblioteka\BibliotekaMS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\win-ks.com\Downloads\LAB1\LAB1\Biblioteka\BibliotekaMS\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\win-ks.com\Downloads\LAB1\LAB1\Biblioteka\BibliotekaMS\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\win-ks.com\Downloads\LAB1\LAB1\Biblioteka\BibliotekaMS\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\win-ks.com\Downloads\LAB1\LAB1\Biblioteka\BibliotekaMS\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\win-ks.com\Downloads\LAB1\LAB1\Biblioteka\BibliotekaMS\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\win-ks.com\Downloads\LAB1\LAB1\Biblioteka\BibliotekaMS\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\win-ks.com\Downloads\LAB1\LAB1\Biblioteka\BibliotekaMS\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\win-ks.com\Downloads\LAB1\LAB1\Biblioteka\BibliotekaMS\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\win-ks.com\Downloads\LAB1\LAB1\Biblioteka\BibliotekaMS\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\win-ks.com\Downloads\LAB1\LAB1\Biblioteka\BibliotekaMS\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\win-ks.com\Downloads\LAB1\LAB1\Biblioteka\BibliotekaMS\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\win-ks.com\Downloads\LAB1\LAB1\Biblioteka\BibliotekaMS\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\win-ks.com\Downloads\LAB1\LAB1\Biblioteka\BibliotekaMS\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\win-ks.com\Downloads\LAB1\LAB1\Biblioteka\BibliotekaMS\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\win-ks.com\Downloads\LAB1\LAB1\Biblioteka\BibliotekaMS\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\win-ks.com\Downloads\LAB1\LAB1\Biblioteka\BibliotekaMS\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\win-ks.com\Downloads\LAB1\LAB1\Biblioteka\BibliotekaMS\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\win-ks.com\Downloads\LAB1\LAB1\Biblioteka\BibliotekaMS\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\win-ks.com\Downloads\LAB1\LAB1\Biblioteka\BibliotekaMS\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\win-ks.com\Downloads\LAB1\LAB1\Biblioteka\BibliotekaMS\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\win-ks.com\Downloads\LAB1\LAB1\Biblioteka\BibliotekaMS\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\win-ks.com\Downloads\LAB1\LAB1\Biblioteka\BibliotekaMS\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\win-ks.com\Downloads\LAB1\LAB1\Biblioteka\BibliotekaMS\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\win-ks.com\Downloads\LAB1\LAB1\Biblioteka\BibliotekaMS\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\win-ks.com\Downloads\LAB1\LAB1\Biblioteka\BibliotekaMS\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\win-ks.com\Downloads\LAB1\LAB1\Biblioteka\BibliotekaMS\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\win-ks.com\Downloads\LAB1\LAB1\Biblioteka\BibliotekaMS\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\win-ks.com\Downloads\LAB1\LAB1\Biblioteka\BibliotekaMS\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\win-ks.com\Downloads\LAB1\LAB1\Biblioteka\BibliotekaMS\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\win-ks.com\Downloads\LAB1\LAB1\Biblioteka\BibliotekaMS\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\win-ks.com\Downloads\LAB1\LAB1\Biblioteka\BibliotekaMS\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\win-ks.com\Downloads\LAB1\LAB1\Biblioteka\BibliotekaMS\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\win-ks.com\Downloads\LAB1\LAB1\Biblioteka\BibliotekaMS\bin\Debug\net6.0\System.IO.Packaging.dll
+C:\Users\win-ks.com\Downloads\LAB1\LAB1\Biblioteka\BibliotekaMS\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\win-ks.com\Downloads\LAB1\LAB1\Biblioteka\BibliotekaMS\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\win-ks.com\Downloads\LAB1\LAB1\Biblioteka\BibliotekaMS\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\win-ks.com\Downloads\LAB1\LAB1\Biblioteka\BibliotekaMS\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\win-ks.com\Downloads\LAB1\LAB1\Biblioteka\BibliotekaMS\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\win-ks.com\Downloads\LAB1\LAB1\Biblioteka\BibliotekaMS\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\win-ks.com\Downloads\LAB1\LAB1\Biblioteka\BibliotekaMS\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\win-ks.com\Downloads\LAB1\LAB1\Biblioteka\BibliotekaMS\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\win-ks.com\Downloads\LAB1\LAB1\Biblioteka\BibliotekaMS\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\win-ks.com\Downloads\LAB1\LAB1\Biblioteka\BibliotekaMS\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\win-ks.com\Downloads\LAB1\LAB1\Biblioteka\BibliotekaMS\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\win-ks.com\Downloads\LAB1\LAB1\Biblioteka\BibliotekaMS\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\win-ks.com\Downloads\LAB1\LAB1\Biblioteka\BibliotekaMS\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\win-ks.com\Downloads\LAB1\LAB1\Biblioteka\BibliotekaMS\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\win-ks.com\Downloads\LAB1\LAB1\Biblioteka\BibliotekaMS\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\win-ks.com\Downloads\LAB1\LAB1\Biblioteka\BibliotekaMS\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\win-ks.com\Downloads\LAB1\LAB1\Biblioteka\BibliotekaMS\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\win-ks.com\Downloads\LAB1\LAB1\Biblioteka\BibliotekaMS\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\win-ks.com\Downloads\LAB1\LAB1\Biblioteka\BibliotekaMS\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\win-ks.com\Downloads\LAB1\LAB1\Biblioteka\BibliotekaMS\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\win-ks.com\Downloads\LAB1\LAB1\Biblioteka\BibliotekaMS\obj\Debug\net6.0\BibliotekaMS.csproj.AssemblyReference.cache
+C:\Users\win-ks.com\Downloads\LAB1\LAB1\Biblioteka\BibliotekaMS\obj\Debug\net6.0\BibliotekaMS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\win-ks.com\Downloads\LAB1\LAB1\Biblioteka\BibliotekaMS\obj\Debug\net6.0\BibliotekaMS.AssemblyInfoInputs.cache
+C:\Users\win-ks.com\Downloads\LAB1\LAB1\Biblioteka\BibliotekaMS\obj\Debug\net6.0\BibliotekaMS.AssemblyInfo.cs
+C:\Users\win-ks.com\Downloads\LAB1\LAB1\Biblioteka\BibliotekaMS\obj\Debug\net6.0\BibliotekaMS.csproj.CoreCompileInputs.cache
+C:\Users\win-ks.com\Downloads\LAB1\LAB1\Biblioteka\BibliotekaMS\obj\Debug\net6.0\BibliotekaMS.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\win-ks.com\Downloads\LAB1\LAB1\Biblioteka\BibliotekaMS\obj\Debug\net6.0\BibliotekaMS.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\win-ks.com\Downloads\LAB1\LAB1\Biblioteka\BibliotekaMS\obj\Debug\net6.0\BibliotekaMS.sourcelink.json
+C:\Users\win-ks.com\Downloads\LAB1\LAB1\Biblioteka\BibliotekaMS\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\win-ks.com\Downloads\LAB1\LAB1\Biblioteka\BibliotekaMS\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\win-ks.com\Downloads\LAB1\LAB1\Biblioteka\BibliotekaMS\obj\Debug\net6.0\staticwebassets\msbuild.BibliotekaMS.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\win-ks.com\Downloads\LAB1\LAB1\Biblioteka\BibliotekaMS\obj\Debug\net6.0\staticwebassets\msbuild.build.BibliotekaMS.props
+C:\Users\win-ks.com\Downloads\LAB1\LAB1\Biblioteka\BibliotekaMS\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.BibliotekaMS.props
+C:\Users\win-ks.com\Downloads\LAB1\LAB1\Biblioteka\BibliotekaMS\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.BibliotekaMS.props
+C:\Users\win-ks.com\Downloads\LAB1\LAB1\Biblioteka\BibliotekaMS\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\win-ks.com\Downloads\LAB1\LAB1\Biblioteka\BibliotekaMS\obj\Debug\net6.0\scopedcss\bundle\BibliotekaMS.styles.css
+C:\Users\win-ks.com\Downloads\LAB1\LAB1\Biblioteka\BibliotekaMS\obj\Debug\net6.0\Bibliote.6EB1E01D.Up2Date
+C:\Users\win-ks.com\Downloads\LAB1\LAB1\Biblioteka\BibliotekaMS\obj\Debug\net6.0\BibliotekaMS.dll
+C:\Users\win-ks.com\Downloads\LAB1\LAB1\Biblioteka\BibliotekaMS\obj\Debug\net6.0\refint\BibliotekaMS.dll
+C:\Users\win-ks.com\Downloads\LAB1\LAB1\Biblioteka\BibliotekaMS\obj\Debug\net6.0\BibliotekaMS.pdb
+C:\Users\win-ks.com\Downloads\LAB1\LAB1\Biblioteka\BibliotekaMS\obj\Debug\net6.0\BibliotekaMS.genruntimeconfig.cache
+C:\Users\win-ks.com\Downloads\LAB1\LAB1\Biblioteka\BibliotekaMS\obj\Debug\net6.0\ref\BibliotekaMS.dll
+C:\Users\win-ks.com\OneDrive\Desktop\LAB1\LAB1\Biblioteka\BibliotekaMS\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\win-ks.com\OneDrive\Desktop\LAB1\LAB1\Biblioteka\BibliotekaMS\bin\Debug\net6.0\appsettings.json
+C:\Users\win-ks.com\OneDrive\Desktop\LAB1\LAB1\Biblioteka\BibliotekaMS\bin\Debug\net6.0\package-lock.json
+C:\Users\win-ks.com\OneDrive\Desktop\LAB1\LAB1\Biblioteka\BibliotekaMS\bin\Debug\net6.0\package.json
+C:\Users\win-ks.com\OneDrive\Desktop\LAB1\LAB1\Biblioteka\BibliotekaMS\bin\Debug\net6.0\BibliotekaMS.staticwebassets.runtime.json
+C:\Users\win-ks.com\OneDrive\Desktop\LAB1\LAB1\Biblioteka\BibliotekaMS\bin\Debug\net6.0\BibliotekaMS.exe
+C:\Users\win-ks.com\OneDrive\Desktop\LAB1\LAB1\Biblioteka\BibliotekaMS\bin\Debug\net6.0\BibliotekaMS.deps.json
+C:\Users\win-ks.com\OneDrive\Desktop\LAB1\LAB1\Biblioteka\BibliotekaMS\bin\Debug\net6.0\BibliotekaMS.runtimeconfig.json
+C:\Users\win-ks.com\OneDrive\Desktop\LAB1\LAB1\Biblioteka\BibliotekaMS\bin\Debug\net6.0\BibliotekaMS.dll
+C:\Users\win-ks.com\OneDrive\Desktop\LAB1\LAB1\Biblioteka\BibliotekaMS\bin\Debug\net6.0\BibliotekaMS.pdb
+C:\Users\win-ks.com\OneDrive\Desktop\LAB1\LAB1\Biblioteka\BibliotekaMS\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\win-ks.com\OneDrive\Desktop\LAB1\LAB1\Biblioteka\BibliotekaMS\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\win-ks.com\OneDrive\Desktop\LAB1\LAB1\Biblioteka\BibliotekaMS\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\win-ks.com\OneDrive\Desktop\LAB1\LAB1\Biblioteka\BibliotekaMS\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\win-ks.com\OneDrive\Desktop\LAB1\LAB1\Biblioteka\BibliotekaMS\bin\Debug\net6.0\DocumentFormat.OpenXml.dll
+C:\Users\win-ks.com\OneDrive\Desktop\LAB1\LAB1\Biblioteka\BibliotekaMS\bin\Debug\net6.0\Humanizer.dll
+C:\Users\win-ks.com\OneDrive\Desktop\LAB1\LAB1\Biblioteka\BibliotekaMS\bin\Debug\net6.0\log4net.dll
+C:\Users\win-ks.com\OneDrive\Desktop\LAB1\LAB1\Biblioteka\BibliotekaMS\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\win-ks.com\OneDrive\Desktop\LAB1\LAB1\Biblioteka\BibliotekaMS\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\win-ks.com\OneDrive\Desktop\LAB1\LAB1\Biblioteka\BibliotekaMS\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\win-ks.com\OneDrive\Desktop\LAB1\LAB1\Biblioteka\BibliotekaMS\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\win-ks.com\OneDrive\Desktop\LAB1\LAB1\Biblioteka\BibliotekaMS\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\win-ks.com\OneDrive\Desktop\LAB1\LAB1\Biblioteka\BibliotekaMS\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\win-ks.com\OneDrive\Desktop\LAB1\LAB1\Biblioteka\BibliotekaMS\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\win-ks.com\OneDrive\Desktop\LAB1\LAB1\Biblioteka\BibliotekaMS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\win-ks.com\OneDrive\Desktop\LAB1\LAB1\Biblioteka\BibliotekaMS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\win-ks.com\OneDrive\Desktop\LAB1\LAB1\Biblioteka\BibliotekaMS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\win-ks.com\OneDrive\Desktop\LAB1\LAB1\Biblioteka\BibliotekaMS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\win-ks.com\OneDrive\Desktop\LAB1\LAB1\Biblioteka\BibliotekaMS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\win-ks.com\OneDrive\Desktop\LAB1\LAB1\Biblioteka\BibliotekaMS\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\win-ks.com\OneDrive\Desktop\LAB1\LAB1\Biblioteka\BibliotekaMS\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\win-ks.com\OneDrive\Desktop\LAB1\LAB1\Biblioteka\BibliotekaMS\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\win-ks.com\OneDrive\Desktop\LAB1\LAB1\Biblioteka\BibliotekaMS\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\win-ks.com\OneDrive\Desktop\LAB1\LAB1\Biblioteka\BibliotekaMS\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\win-ks.com\OneDrive\Desktop\LAB1\LAB1\Biblioteka\BibliotekaMS\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\win-ks.com\OneDrive\Desktop\LAB1\LAB1\Biblioteka\BibliotekaMS\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\win-ks.com\OneDrive\Desktop\LAB1\LAB1\Biblioteka\BibliotekaMS\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\win-ks.com\OneDrive\Desktop\LAB1\LAB1\Biblioteka\BibliotekaMS\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\win-ks.com\OneDrive\Desktop\LAB1\LAB1\Biblioteka\BibliotekaMS\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\win-ks.com\OneDrive\Desktop\LAB1\LAB1\Biblioteka\BibliotekaMS\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\win-ks.com\OneDrive\Desktop\LAB1\LAB1\Biblioteka\BibliotekaMS\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\win-ks.com\OneDrive\Desktop\LAB1\LAB1\Biblioteka\BibliotekaMS\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\win-ks.com\OneDrive\Desktop\LAB1\LAB1\Biblioteka\BibliotekaMS\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\win-ks.com\OneDrive\Desktop\LAB1\LAB1\Biblioteka\BibliotekaMS\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\win-ks.com\OneDrive\Desktop\LAB1\LAB1\Biblioteka\BibliotekaMS\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\win-ks.com\OneDrive\Desktop\LAB1\LAB1\Biblioteka\BibliotekaMS\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\win-ks.com\OneDrive\Desktop\LAB1\LAB1\Biblioteka\BibliotekaMS\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\win-ks.com\OneDrive\Desktop\LAB1\LAB1\Biblioteka\BibliotekaMS\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\win-ks.com\OneDrive\Desktop\LAB1\LAB1\Biblioteka\BibliotekaMS\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\win-ks.com\OneDrive\Desktop\LAB1\LAB1\Biblioteka\BibliotekaMS\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\win-ks.com\OneDrive\Desktop\LAB1\LAB1\Biblioteka\BibliotekaMS\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\win-ks.com\OneDrive\Desktop\LAB1\LAB1\Biblioteka\BibliotekaMS\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\win-ks.com\OneDrive\Desktop\LAB1\LAB1\Biblioteka\BibliotekaMS\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\win-ks.com\OneDrive\Desktop\LAB1\LAB1\Biblioteka\BibliotekaMS\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\win-ks.com\OneDrive\Desktop\LAB1\LAB1\Biblioteka\BibliotekaMS\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\win-ks.com\OneDrive\Desktop\LAB1\LAB1\Biblioteka\BibliotekaMS\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\win-ks.com\OneDrive\Desktop\LAB1\LAB1\Biblioteka\BibliotekaMS\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\win-ks.com\OneDrive\Desktop\LAB1\LAB1\Biblioteka\BibliotekaMS\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\win-ks.com\OneDrive\Desktop\LAB1\LAB1\Biblioteka\BibliotekaMS\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\win-ks.com\OneDrive\Desktop\LAB1\LAB1\Biblioteka\BibliotekaMS\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\win-ks.com\OneDrive\Desktop\LAB1\LAB1\Biblioteka\BibliotekaMS\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\win-ks.com\OneDrive\Desktop\LAB1\LAB1\Biblioteka\BibliotekaMS\bin\Debug\net6.0\System.IO.Packaging.dll
+C:\Users\win-ks.com\OneDrive\Desktop\LAB1\LAB1\Biblioteka\BibliotekaMS\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\win-ks.com\OneDrive\Desktop\LAB1\LAB1\Biblioteka\BibliotekaMS\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\win-ks.com\OneDrive\Desktop\LAB1\LAB1\Biblioteka\BibliotekaMS\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\win-ks.com\OneDrive\Desktop\LAB1\LAB1\Biblioteka\BibliotekaMS\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\win-ks.com\OneDrive\Desktop\LAB1\LAB1\Biblioteka\BibliotekaMS\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\win-ks.com\OneDrive\Desktop\LAB1\LAB1\Biblioteka\BibliotekaMS\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\win-ks.com\OneDrive\Desktop\LAB1\LAB1\Biblioteka\BibliotekaMS\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\win-ks.com\OneDrive\Desktop\LAB1\LAB1\Biblioteka\BibliotekaMS\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\win-ks.com\OneDrive\Desktop\LAB1\LAB1\Biblioteka\BibliotekaMS\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\win-ks.com\OneDrive\Desktop\LAB1\LAB1\Biblioteka\BibliotekaMS\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\win-ks.com\OneDrive\Desktop\LAB1\LAB1\Biblioteka\BibliotekaMS\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\win-ks.com\OneDrive\Desktop\LAB1\LAB1\Biblioteka\BibliotekaMS\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\win-ks.com\OneDrive\Desktop\LAB1\LAB1\Biblioteka\BibliotekaMS\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\win-ks.com\OneDrive\Desktop\LAB1\LAB1\Biblioteka\BibliotekaMS\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\win-ks.com\OneDrive\Desktop\LAB1\LAB1\Biblioteka\BibliotekaMS\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\win-ks.com\OneDrive\Desktop\LAB1\LAB1\Biblioteka\BibliotekaMS\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\win-ks.com\OneDrive\Desktop\LAB1\LAB1\Biblioteka\BibliotekaMS\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\win-ks.com\OneDrive\Desktop\LAB1\LAB1\Biblioteka\BibliotekaMS\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\win-ks.com\OneDrive\Desktop\LAB1\LAB1\Biblioteka\BibliotekaMS\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\win-ks.com\OneDrive\Desktop\LAB1\LAB1\Biblioteka\BibliotekaMS\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\win-ks.com\OneDrive\Desktop\LAB1\LAB1\Biblioteka\BibliotekaMS\obj\Debug\net6.0\BibliotekaMS.csproj.AssemblyReference.cache
+C:\Users\win-ks.com\OneDrive\Desktop\LAB1\LAB1\Biblioteka\BibliotekaMS\obj\Debug\net6.0\BibliotekaMS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\win-ks.com\OneDrive\Desktop\LAB1\LAB1\Biblioteka\BibliotekaMS\obj\Debug\net6.0\BibliotekaMS.AssemblyInfoInputs.cache
+C:\Users\win-ks.com\OneDrive\Desktop\LAB1\LAB1\Biblioteka\BibliotekaMS\obj\Debug\net6.0\BibliotekaMS.AssemblyInfo.cs
+C:\Users\win-ks.com\OneDrive\Desktop\LAB1\LAB1\Biblioteka\BibliotekaMS\obj\Debug\net6.0\BibliotekaMS.csproj.CoreCompileInputs.cache
+C:\Users\win-ks.com\OneDrive\Desktop\LAB1\LAB1\Biblioteka\BibliotekaMS\obj\Debug\net6.0\BibliotekaMS.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\win-ks.com\OneDrive\Desktop\LAB1\LAB1\Biblioteka\BibliotekaMS\obj\Debug\net6.0\BibliotekaMS.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\win-ks.com\OneDrive\Desktop\LAB1\LAB1\Biblioteka\BibliotekaMS\obj\Debug\net6.0\BibliotekaMS.sourcelink.json
+C:\Users\win-ks.com\OneDrive\Desktop\LAB1\LAB1\Biblioteka\BibliotekaMS\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\win-ks.com\OneDrive\Desktop\LAB1\LAB1\Biblioteka\BibliotekaMS\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\win-ks.com\OneDrive\Desktop\LAB1\LAB1\Biblioteka\BibliotekaMS\obj\Debug\net6.0\staticwebassets\msbuild.BibliotekaMS.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\win-ks.com\OneDrive\Desktop\LAB1\LAB1\Biblioteka\BibliotekaMS\obj\Debug\net6.0\staticwebassets\msbuild.build.BibliotekaMS.props
+C:\Users\win-ks.com\OneDrive\Desktop\LAB1\LAB1\Biblioteka\BibliotekaMS\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.BibliotekaMS.props
+C:\Users\win-ks.com\OneDrive\Desktop\LAB1\LAB1\Biblioteka\BibliotekaMS\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.BibliotekaMS.props
+C:\Users\win-ks.com\OneDrive\Desktop\LAB1\LAB1\Biblioteka\BibliotekaMS\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\win-ks.com\OneDrive\Desktop\LAB1\LAB1\Biblioteka\BibliotekaMS\obj\Debug\net6.0\scopedcss\bundle\BibliotekaMS.styles.css
+C:\Users\win-ks.com\OneDrive\Desktop\LAB1\LAB1\Biblioteka\BibliotekaMS\obj\Debug\net6.0\Bibliote.6EB1E01D.Up2Date
+C:\Users\win-ks.com\OneDrive\Desktop\LAB1\LAB1\Biblioteka\BibliotekaMS\obj\Debug\net6.0\BibliotekaMS.dll
+C:\Users\win-ks.com\OneDrive\Desktop\LAB1\LAB1\Biblioteka\BibliotekaMS\obj\Debug\net6.0\refint\BibliotekaMS.dll
+C:\Users\win-ks.com\OneDrive\Desktop\LAB1\LAB1\Biblioteka\BibliotekaMS\obj\Debug\net6.0\BibliotekaMS.pdb
+C:\Users\win-ks.com\OneDrive\Desktop\LAB1\LAB1\Biblioteka\BibliotekaMS\obj\Debug\net6.0\BibliotekaMS.genruntimeconfig.cache
+C:\Users\win-ks.com\OneDrive\Desktop\LAB1\LAB1\Biblioteka\BibliotekaMS\obj\Debug\net6.0\ref\BibliotekaMS.dll
+C:\Users\win-ks.com\OneDrive\Desktop\New folder\Testimi\BibliotekaMS\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\win-ks.com\OneDrive\Desktop\New folder\Testimi\BibliotekaMS\bin\Debug\net6.0\appsettings.json
+C:\Users\win-ks.com\OneDrive\Desktop\New folder\Testimi\BibliotekaMS\bin\Debug\net6.0\package-lock.json
+C:\Users\win-ks.com\OneDrive\Desktop\New folder\Testimi\BibliotekaMS\bin\Debug\net6.0\package.json
+C:\Users\win-ks.com\OneDrive\Desktop\New folder\Testimi\BibliotekaMS\bin\Debug\net6.0\BibliotekaMS.staticwebassets.runtime.json
+C:\Users\win-ks.com\OneDrive\Desktop\New folder\Testimi\BibliotekaMS\bin\Debug\net6.0\BibliotekaMS.exe
+C:\Users\win-ks.com\OneDrive\Desktop\New folder\Testimi\BibliotekaMS\bin\Debug\net6.0\BibliotekaMS.deps.json
+C:\Users\win-ks.com\OneDrive\Desktop\New folder\Testimi\BibliotekaMS\bin\Debug\net6.0\BibliotekaMS.runtimeconfig.json
+C:\Users\win-ks.com\OneDrive\Desktop\New folder\Testimi\BibliotekaMS\bin\Debug\net6.0\BibliotekaMS.dll
+C:\Users\win-ks.com\OneDrive\Desktop\New folder\Testimi\BibliotekaMS\bin\Debug\net6.0\BibliotekaMS.pdb
+C:\Users\win-ks.com\OneDrive\Desktop\New folder\Testimi\BibliotekaMS\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\win-ks.com\OneDrive\Desktop\New folder\Testimi\BibliotekaMS\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\win-ks.com\OneDrive\Desktop\New folder\Testimi\BibliotekaMS\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\win-ks.com\OneDrive\Desktop\New folder\Testimi\BibliotekaMS\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\win-ks.com\OneDrive\Desktop\New folder\Testimi\BibliotekaMS\bin\Debug\net6.0\DocumentFormat.OpenXml.dll
+C:\Users\win-ks.com\OneDrive\Desktop\New folder\Testimi\BibliotekaMS\bin\Debug\net6.0\Humanizer.dll
+C:\Users\win-ks.com\OneDrive\Desktop\New folder\Testimi\BibliotekaMS\bin\Debug\net6.0\log4net.dll
+C:\Users\win-ks.com\OneDrive\Desktop\New folder\Testimi\BibliotekaMS\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\win-ks.com\OneDrive\Desktop\New folder\Testimi\BibliotekaMS\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\win-ks.com\OneDrive\Desktop\New folder\Testimi\BibliotekaMS\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\win-ks.com\OneDrive\Desktop\New folder\Testimi\BibliotekaMS\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\win-ks.com\OneDrive\Desktop\New folder\Testimi\BibliotekaMS\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\win-ks.com\OneDrive\Desktop\New folder\Testimi\BibliotekaMS\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\win-ks.com\OneDrive\Desktop\New folder\Testimi\BibliotekaMS\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\win-ks.com\OneDrive\Desktop\New folder\Testimi\BibliotekaMS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\win-ks.com\OneDrive\Desktop\New folder\Testimi\BibliotekaMS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\win-ks.com\OneDrive\Desktop\New folder\Testimi\BibliotekaMS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\win-ks.com\OneDrive\Desktop\New folder\Testimi\BibliotekaMS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\win-ks.com\OneDrive\Desktop\New folder\Testimi\BibliotekaMS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\win-ks.com\OneDrive\Desktop\New folder\Testimi\BibliotekaMS\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\win-ks.com\OneDrive\Desktop\New folder\Testimi\BibliotekaMS\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\win-ks.com\OneDrive\Desktop\New folder\Testimi\BibliotekaMS\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\win-ks.com\OneDrive\Desktop\New folder\Testimi\BibliotekaMS\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\win-ks.com\OneDrive\Desktop\New folder\Testimi\BibliotekaMS\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\win-ks.com\OneDrive\Desktop\New folder\Testimi\BibliotekaMS\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\win-ks.com\OneDrive\Desktop\New folder\Testimi\BibliotekaMS\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\win-ks.com\OneDrive\Desktop\New folder\Testimi\BibliotekaMS\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\win-ks.com\OneDrive\Desktop\New folder\Testimi\BibliotekaMS\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\win-ks.com\OneDrive\Desktop\New folder\Testimi\BibliotekaMS\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\win-ks.com\OneDrive\Desktop\New folder\Testimi\BibliotekaMS\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\win-ks.com\OneDrive\Desktop\New folder\Testimi\BibliotekaMS\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\win-ks.com\OneDrive\Desktop\New folder\Testimi\BibliotekaMS\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\win-ks.com\OneDrive\Desktop\New folder\Testimi\BibliotekaMS\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\win-ks.com\OneDrive\Desktop\New folder\Testimi\BibliotekaMS\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\win-ks.com\OneDrive\Desktop\New folder\Testimi\BibliotekaMS\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\win-ks.com\OneDrive\Desktop\New folder\Testimi\BibliotekaMS\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\win-ks.com\OneDrive\Desktop\New folder\Testimi\BibliotekaMS\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\win-ks.com\OneDrive\Desktop\New folder\Testimi\BibliotekaMS\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\win-ks.com\OneDrive\Desktop\New folder\Testimi\BibliotekaMS\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\win-ks.com\OneDrive\Desktop\New folder\Testimi\BibliotekaMS\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\win-ks.com\OneDrive\Desktop\New folder\Testimi\BibliotekaMS\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\win-ks.com\OneDrive\Desktop\New folder\Testimi\BibliotekaMS\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\win-ks.com\OneDrive\Desktop\New folder\Testimi\BibliotekaMS\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\win-ks.com\OneDrive\Desktop\New folder\Testimi\BibliotekaMS\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\win-ks.com\OneDrive\Desktop\New folder\Testimi\BibliotekaMS\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\win-ks.com\OneDrive\Desktop\New folder\Testimi\BibliotekaMS\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\win-ks.com\OneDrive\Desktop\New folder\Testimi\BibliotekaMS\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\win-ks.com\OneDrive\Desktop\New folder\Testimi\BibliotekaMS\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\win-ks.com\OneDrive\Desktop\New folder\Testimi\BibliotekaMS\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\win-ks.com\OneDrive\Desktop\New folder\Testimi\BibliotekaMS\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\win-ks.com\OneDrive\Desktop\New folder\Testimi\BibliotekaMS\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\win-ks.com\OneDrive\Desktop\New folder\Testimi\BibliotekaMS\bin\Debug\net6.0\System.IO.Packaging.dll
+C:\Users\win-ks.com\OneDrive\Desktop\New folder\Testimi\BibliotekaMS\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\win-ks.com\OneDrive\Desktop\New folder\Testimi\BibliotekaMS\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\win-ks.com\OneDrive\Desktop\New folder\Testimi\BibliotekaMS\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\win-ks.com\OneDrive\Desktop\New folder\Testimi\BibliotekaMS\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\win-ks.com\OneDrive\Desktop\New folder\Testimi\BibliotekaMS\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\win-ks.com\OneDrive\Desktop\New folder\Testimi\BibliotekaMS\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\win-ks.com\OneDrive\Desktop\New folder\Testimi\BibliotekaMS\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\win-ks.com\OneDrive\Desktop\New folder\Testimi\BibliotekaMS\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\win-ks.com\OneDrive\Desktop\New folder\Testimi\BibliotekaMS\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\win-ks.com\OneDrive\Desktop\New folder\Testimi\BibliotekaMS\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\win-ks.com\OneDrive\Desktop\New folder\Testimi\BibliotekaMS\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\win-ks.com\OneDrive\Desktop\New folder\Testimi\BibliotekaMS\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\win-ks.com\OneDrive\Desktop\New folder\Testimi\BibliotekaMS\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\win-ks.com\OneDrive\Desktop\New folder\Testimi\BibliotekaMS\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\win-ks.com\OneDrive\Desktop\New folder\Testimi\BibliotekaMS\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\win-ks.com\OneDrive\Desktop\New folder\Testimi\BibliotekaMS\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\win-ks.com\OneDrive\Desktop\New folder\Testimi\BibliotekaMS\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\win-ks.com\OneDrive\Desktop\New folder\Testimi\BibliotekaMS\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\win-ks.com\OneDrive\Desktop\New folder\Testimi\BibliotekaMS\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\win-ks.com\OneDrive\Desktop\New folder\Testimi\BibliotekaMS\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\win-ks.com\OneDrive\Desktop\New folder\Testimi\BibliotekaMS\obj\Debug\net6.0\BibliotekaMS.csproj.AssemblyReference.cache
+C:\Users\win-ks.com\OneDrive\Desktop\New folder\Testimi\BibliotekaMS\obj\Debug\net6.0\BibliotekaMS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\win-ks.com\OneDrive\Desktop\New folder\Testimi\BibliotekaMS\obj\Debug\net6.0\BibliotekaMS.AssemblyInfoInputs.cache
+C:\Users\win-ks.com\OneDrive\Desktop\New folder\Testimi\BibliotekaMS\obj\Debug\net6.0\BibliotekaMS.AssemblyInfo.cs
+C:\Users\win-ks.com\OneDrive\Desktop\New folder\Testimi\BibliotekaMS\obj\Debug\net6.0\BibliotekaMS.csproj.CoreCompileInputs.cache
+C:\Users\win-ks.com\OneDrive\Desktop\New folder\Testimi\BibliotekaMS\obj\Debug\net6.0\BibliotekaMS.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\win-ks.com\OneDrive\Desktop\New folder\Testimi\BibliotekaMS\obj\Debug\net6.0\BibliotekaMS.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\win-ks.com\OneDrive\Desktop\New folder\Testimi\BibliotekaMS\obj\Debug\net6.0\BibliotekaMS.sourcelink.json
+C:\Users\win-ks.com\OneDrive\Desktop\New folder\Testimi\BibliotekaMS\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\win-ks.com\OneDrive\Desktop\New folder\Testimi\BibliotekaMS\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\win-ks.com\OneDrive\Desktop\New folder\Testimi\BibliotekaMS\obj\Debug\net6.0\staticwebassets\msbuild.BibliotekaMS.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\win-ks.com\OneDrive\Desktop\New folder\Testimi\BibliotekaMS\obj\Debug\net6.0\staticwebassets\msbuild.build.BibliotekaMS.props
+C:\Users\win-ks.com\OneDrive\Desktop\New folder\Testimi\BibliotekaMS\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.BibliotekaMS.props
+C:\Users\win-ks.com\OneDrive\Desktop\New folder\Testimi\BibliotekaMS\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.BibliotekaMS.props
+C:\Users\win-ks.com\OneDrive\Desktop\New folder\Testimi\BibliotekaMS\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\win-ks.com\OneDrive\Desktop\New folder\Testimi\BibliotekaMS\obj\Debug\net6.0\scopedcss\bundle\BibliotekaMS.styles.css
+C:\Users\win-ks.com\OneDrive\Desktop\New folder\Testimi\BibliotekaMS\obj\Debug\net6.0\Bibliote.6EB1E01D.Up2Date
+C:\Users\win-ks.com\OneDrive\Desktop\New folder\Testimi\BibliotekaMS\obj\Debug\net6.0\BibliotekaMS.dll
+C:\Users\win-ks.com\OneDrive\Desktop\New folder\Testimi\BibliotekaMS\obj\Debug\net6.0\refint\BibliotekaMS.dll
+C:\Users\win-ks.com\OneDrive\Desktop\New folder\Testimi\BibliotekaMS\obj\Debug\net6.0\BibliotekaMS.pdb
+C:\Users\win-ks.com\OneDrive\Desktop\New folder\Testimi\BibliotekaMS\obj\Debug\net6.0\BibliotekaMS.genruntimeconfig.cache
+C:\Users\win-ks.com\OneDrive\Desktop\New folder\Testimi\BibliotekaMS\obj\Debug\net6.0\ref\BibliotekaMS.dll
+C:\Users\win-ks.com\OneDrive\Desktop\Testimi\Testimi\BibliotekaMS\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\win-ks.com\OneDrive\Desktop\Testimi\Testimi\BibliotekaMS\bin\Debug\net6.0\appsettings.json
+C:\Users\win-ks.com\OneDrive\Desktop\Testimi\Testimi\BibliotekaMS\bin\Debug\net6.0\package-lock.json
+C:\Users\win-ks.com\OneDrive\Desktop\Testimi\Testimi\BibliotekaMS\bin\Debug\net6.0\package.json
+C:\Users\win-ks.com\OneDrive\Desktop\Testimi\Testimi\BibliotekaMS\bin\Debug\net6.0\BibliotekaMS.staticwebassets.runtime.json
+C:\Users\win-ks.com\OneDrive\Desktop\Testimi\Testimi\BibliotekaMS\bin\Debug\net6.0\BibliotekaMS.exe
+C:\Users\win-ks.com\OneDrive\Desktop\Testimi\Testimi\BibliotekaMS\bin\Debug\net6.0\BibliotekaMS.deps.json
+C:\Users\win-ks.com\OneDrive\Desktop\Testimi\Testimi\BibliotekaMS\bin\Debug\net6.0\BibliotekaMS.runtimeconfig.json
+C:\Users\win-ks.com\OneDrive\Desktop\Testimi\Testimi\BibliotekaMS\bin\Debug\net6.0\BibliotekaMS.dll
+C:\Users\win-ks.com\OneDrive\Desktop\Testimi\Testimi\BibliotekaMS\bin\Debug\net6.0\BibliotekaMS.pdb
+C:\Users\win-ks.com\OneDrive\Desktop\Testimi\Testimi\BibliotekaMS\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\win-ks.com\OneDrive\Desktop\Testimi\Testimi\BibliotekaMS\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\win-ks.com\OneDrive\Desktop\Testimi\Testimi\BibliotekaMS\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\win-ks.com\OneDrive\Desktop\Testimi\Testimi\BibliotekaMS\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\win-ks.com\OneDrive\Desktop\Testimi\Testimi\BibliotekaMS\bin\Debug\net6.0\DocumentFormat.OpenXml.dll
+C:\Users\win-ks.com\OneDrive\Desktop\Testimi\Testimi\BibliotekaMS\bin\Debug\net6.0\Humanizer.dll
+C:\Users\win-ks.com\OneDrive\Desktop\Testimi\Testimi\BibliotekaMS\bin\Debug\net6.0\log4net.dll
+C:\Users\win-ks.com\OneDrive\Desktop\Testimi\Testimi\BibliotekaMS\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\win-ks.com\OneDrive\Desktop\Testimi\Testimi\BibliotekaMS\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\win-ks.com\OneDrive\Desktop\Testimi\Testimi\BibliotekaMS\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\win-ks.com\OneDrive\Desktop\Testimi\Testimi\BibliotekaMS\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\win-ks.com\OneDrive\Desktop\Testimi\Testimi\BibliotekaMS\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\win-ks.com\OneDrive\Desktop\Testimi\Testimi\BibliotekaMS\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\win-ks.com\OneDrive\Desktop\Testimi\Testimi\BibliotekaMS\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\win-ks.com\OneDrive\Desktop\Testimi\Testimi\BibliotekaMS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\win-ks.com\OneDrive\Desktop\Testimi\Testimi\BibliotekaMS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\win-ks.com\OneDrive\Desktop\Testimi\Testimi\BibliotekaMS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\win-ks.com\OneDrive\Desktop\Testimi\Testimi\BibliotekaMS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\win-ks.com\OneDrive\Desktop\Testimi\Testimi\BibliotekaMS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\win-ks.com\OneDrive\Desktop\Testimi\Testimi\BibliotekaMS\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\win-ks.com\OneDrive\Desktop\Testimi\Testimi\BibliotekaMS\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\win-ks.com\OneDrive\Desktop\Testimi\Testimi\BibliotekaMS\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\win-ks.com\OneDrive\Desktop\Testimi\Testimi\BibliotekaMS\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\win-ks.com\OneDrive\Desktop\Testimi\Testimi\BibliotekaMS\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\win-ks.com\OneDrive\Desktop\Testimi\Testimi\BibliotekaMS\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\win-ks.com\OneDrive\Desktop\Testimi\Testimi\BibliotekaMS\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\win-ks.com\OneDrive\Desktop\Testimi\Testimi\BibliotekaMS\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\win-ks.com\OneDrive\Desktop\Testimi\Testimi\BibliotekaMS\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\win-ks.com\OneDrive\Desktop\Testimi\Testimi\BibliotekaMS\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\win-ks.com\OneDrive\Desktop\Testimi\Testimi\BibliotekaMS\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\win-ks.com\OneDrive\Desktop\Testimi\Testimi\BibliotekaMS\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\win-ks.com\OneDrive\Desktop\Testimi\Testimi\BibliotekaMS\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\win-ks.com\OneDrive\Desktop\Testimi\Testimi\BibliotekaMS\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\win-ks.com\OneDrive\Desktop\Testimi\Testimi\BibliotekaMS\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\win-ks.com\OneDrive\Desktop\Testimi\Testimi\BibliotekaMS\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\win-ks.com\OneDrive\Desktop\Testimi\Testimi\BibliotekaMS\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\win-ks.com\OneDrive\Desktop\Testimi\Testimi\BibliotekaMS\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\win-ks.com\OneDrive\Desktop\Testimi\Testimi\BibliotekaMS\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\win-ks.com\OneDrive\Desktop\Testimi\Testimi\BibliotekaMS\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\win-ks.com\OneDrive\Desktop\Testimi\Testimi\BibliotekaMS\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\win-ks.com\OneDrive\Desktop\Testimi\Testimi\BibliotekaMS\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\win-ks.com\OneDrive\Desktop\Testimi\Testimi\BibliotekaMS\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\win-ks.com\OneDrive\Desktop\Testimi\Testimi\BibliotekaMS\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\win-ks.com\OneDrive\Desktop\Testimi\Testimi\BibliotekaMS\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\win-ks.com\OneDrive\Desktop\Testimi\Testimi\BibliotekaMS\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\win-ks.com\OneDrive\Desktop\Testimi\Testimi\BibliotekaMS\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\win-ks.com\OneDrive\Desktop\Testimi\Testimi\BibliotekaMS\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\win-ks.com\OneDrive\Desktop\Testimi\Testimi\BibliotekaMS\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\win-ks.com\OneDrive\Desktop\Testimi\Testimi\BibliotekaMS\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\win-ks.com\OneDrive\Desktop\Testimi\Testimi\BibliotekaMS\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\win-ks.com\OneDrive\Desktop\Testimi\Testimi\BibliotekaMS\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\win-ks.com\OneDrive\Desktop\Testimi\Testimi\BibliotekaMS\bin\Debug\net6.0\System.IO.Packaging.dll
+C:\Users\win-ks.com\OneDrive\Desktop\Testimi\Testimi\BibliotekaMS\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\win-ks.com\OneDrive\Desktop\Testimi\Testimi\BibliotekaMS\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\win-ks.com\OneDrive\Desktop\Testimi\Testimi\BibliotekaMS\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\win-ks.com\OneDrive\Desktop\Testimi\Testimi\BibliotekaMS\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\win-ks.com\OneDrive\Desktop\Testimi\Testimi\BibliotekaMS\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\win-ks.com\OneDrive\Desktop\Testimi\Testimi\BibliotekaMS\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\win-ks.com\OneDrive\Desktop\Testimi\Testimi\BibliotekaMS\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\win-ks.com\OneDrive\Desktop\Testimi\Testimi\BibliotekaMS\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\win-ks.com\OneDrive\Desktop\Testimi\Testimi\BibliotekaMS\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\win-ks.com\OneDrive\Desktop\Testimi\Testimi\BibliotekaMS\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\win-ks.com\OneDrive\Desktop\Testimi\Testimi\BibliotekaMS\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\win-ks.com\OneDrive\Desktop\Testimi\Testimi\BibliotekaMS\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\win-ks.com\OneDrive\Desktop\Testimi\Testimi\BibliotekaMS\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\win-ks.com\OneDrive\Desktop\Testimi\Testimi\BibliotekaMS\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\win-ks.com\OneDrive\Desktop\Testimi\Testimi\BibliotekaMS\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\win-ks.com\OneDrive\Desktop\Testimi\Testimi\BibliotekaMS\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\win-ks.com\OneDrive\Desktop\Testimi\Testimi\BibliotekaMS\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\win-ks.com\OneDrive\Desktop\Testimi\Testimi\BibliotekaMS\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\win-ks.com\OneDrive\Desktop\Testimi\Testimi\BibliotekaMS\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\win-ks.com\OneDrive\Desktop\Testimi\Testimi\BibliotekaMS\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\win-ks.com\OneDrive\Desktop\Testimi\Testimi\BibliotekaMS\obj\Debug\net6.0\BibliotekaMS.csproj.AssemblyReference.cache
+C:\Users\win-ks.com\OneDrive\Desktop\Testimi\Testimi\BibliotekaMS\obj\Debug\net6.0\BibliotekaMS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\win-ks.com\OneDrive\Desktop\Testimi\Testimi\BibliotekaMS\obj\Debug\net6.0\BibliotekaMS.AssemblyInfoInputs.cache
+C:\Users\win-ks.com\OneDrive\Desktop\Testimi\Testimi\BibliotekaMS\obj\Debug\net6.0\BibliotekaMS.AssemblyInfo.cs
+C:\Users\win-ks.com\OneDrive\Desktop\Testimi\Testimi\BibliotekaMS\obj\Debug\net6.0\BibliotekaMS.csproj.CoreCompileInputs.cache
+C:\Users\win-ks.com\OneDrive\Desktop\Testimi\Testimi\BibliotekaMS\obj\Debug\net6.0\BibliotekaMS.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\win-ks.com\OneDrive\Desktop\Testimi\Testimi\BibliotekaMS\obj\Debug\net6.0\BibliotekaMS.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\win-ks.com\OneDrive\Desktop\Testimi\Testimi\BibliotekaMS\obj\Debug\net6.0\BibliotekaMS.sourcelink.json
+C:\Users\win-ks.com\OneDrive\Desktop\Testimi\Testimi\BibliotekaMS\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\win-ks.com\OneDrive\Desktop\Testimi\Testimi\BibliotekaMS\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\win-ks.com\OneDrive\Desktop\Testimi\Testimi\BibliotekaMS\obj\Debug\net6.0\staticwebassets\msbuild.BibliotekaMS.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\win-ks.com\OneDrive\Desktop\Testimi\Testimi\BibliotekaMS\obj\Debug\net6.0\staticwebassets\msbuild.build.BibliotekaMS.props
+C:\Users\win-ks.com\OneDrive\Desktop\Testimi\Testimi\BibliotekaMS\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.BibliotekaMS.props
+C:\Users\win-ks.com\OneDrive\Desktop\Testimi\Testimi\BibliotekaMS\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.BibliotekaMS.props
+C:\Users\win-ks.com\OneDrive\Desktop\Testimi\Testimi\BibliotekaMS\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\win-ks.com\OneDrive\Desktop\Testimi\Testimi\BibliotekaMS\obj\Debug\net6.0\scopedcss\bundle\BibliotekaMS.styles.css
+C:\Users\win-ks.com\OneDrive\Desktop\Testimi\Testimi\BibliotekaMS\obj\Debug\net6.0\Bibliote.6EB1E01D.Up2Date
+C:\Users\win-ks.com\OneDrive\Desktop\Testimi\Testimi\BibliotekaMS\obj\Debug\net6.0\BibliotekaMS.dll
+C:\Users\win-ks.com\OneDrive\Desktop\Testimi\Testimi\BibliotekaMS\obj\Debug\net6.0\refint\BibliotekaMS.dll
+C:\Users\win-ks.com\OneDrive\Desktop\Testimi\Testimi\BibliotekaMS\obj\Debug\net6.0\BibliotekaMS.pdb
+C:\Users\win-ks.com\OneDrive\Desktop\Testimi\Testimi\BibliotekaMS\obj\Debug\net6.0\BibliotekaMS.genruntimeconfig.cache
+C:\Users\win-ks.com\OneDrive\Desktop\Testimi\Testimi\BibliotekaMS\obj\Debug\net6.0\ref\BibliotekaMS.dll
+C:\Users\win-ks.com\OneDrive\Desktop\Projekti-Testimi i Softuerit dhe Sigurimi i Cilësisë\Testimi\Testimi\BibliotekaMS\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\win-ks.com\OneDrive\Desktop\Projekti-Testimi i Softuerit dhe Sigurimi i Cilësisë\Testimi\Testimi\BibliotekaMS\bin\Debug\net6.0\package-lock.json
+C:\Users\win-ks.com\OneDrive\Desktop\Projekti-Testimi i Softuerit dhe Sigurimi i Cilësisë\Testimi\Testimi\BibliotekaMS\bin\Debug\net6.0\package.json
+C:\Users\win-ks.com\OneDrive\Desktop\Projekti-Testimi i Softuerit dhe Sigurimi i Cilësisë\Testimi\Testimi\BibliotekaMS\bin\Debug\net6.0\appsettings.json
+C:\Users\win-ks.com\OneDrive\Desktop\Projekti-Testimi i Softuerit dhe Sigurimi i Cilësisë\Testimi\Testimi\BibliotekaMS\bin\Debug\net6.0\BibliotekaMS.staticwebassets.runtime.json
+C:\Users\win-ks.com\OneDrive\Desktop\Projekti-Testimi i Softuerit dhe Sigurimi i Cilësisë\Testimi\Testimi\BibliotekaMS\bin\Debug\net6.0\BibliotekaMS.exe
+C:\Users\win-ks.com\OneDrive\Desktop\Projekti-Testimi i Softuerit dhe Sigurimi i Cilësisë\Testimi\Testimi\BibliotekaMS\bin\Debug\net6.0\BibliotekaMS.deps.json
+C:\Users\win-ks.com\OneDrive\Desktop\Projekti-Testimi i Softuerit dhe Sigurimi i Cilësisë\Testimi\Testimi\BibliotekaMS\bin\Debug\net6.0\BibliotekaMS.runtimeconfig.json
+C:\Users\win-ks.com\OneDrive\Desktop\Projekti-Testimi i Softuerit dhe Sigurimi i Cilësisë\Testimi\Testimi\BibliotekaMS\bin\Debug\net6.0\BibliotekaMS.dll
+C:\Users\win-ks.com\OneDrive\Desktop\Projekti-Testimi i Softuerit dhe Sigurimi i Cilësisë\Testimi\Testimi\BibliotekaMS\bin\Debug\net6.0\BibliotekaMS.pdb
+C:\Users\win-ks.com\OneDrive\Desktop\Projekti-Testimi i Softuerit dhe Sigurimi i Cilësisë\Testimi\Testimi\BibliotekaMS\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\win-ks.com\OneDrive\Desktop\Projekti-Testimi i Softuerit dhe Sigurimi i Cilësisë\Testimi\Testimi\BibliotekaMS\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\win-ks.com\OneDrive\Desktop\Projekti-Testimi i Softuerit dhe Sigurimi i Cilësisë\Testimi\Testimi\BibliotekaMS\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\win-ks.com\OneDrive\Desktop\Projekti-Testimi i Softuerit dhe Sigurimi i Cilësisë\Testimi\Testimi\BibliotekaMS\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\win-ks.com\OneDrive\Desktop\Projekti-Testimi i Softuerit dhe Sigurimi i Cilësisë\Testimi\Testimi\BibliotekaMS\bin\Debug\net6.0\DocumentFormat.OpenXml.dll
+C:\Users\win-ks.com\OneDrive\Desktop\Projekti-Testimi i Softuerit dhe Sigurimi i Cilësisë\Testimi\Testimi\BibliotekaMS\bin\Debug\net6.0\Humanizer.dll
+C:\Users\win-ks.com\OneDrive\Desktop\Projekti-Testimi i Softuerit dhe Sigurimi i Cilësisë\Testimi\Testimi\BibliotekaMS\bin\Debug\net6.0\log4net.dll
+C:\Users\win-ks.com\OneDrive\Desktop\Projekti-Testimi i Softuerit dhe Sigurimi i Cilësisë\Testimi\Testimi\BibliotekaMS\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\win-ks.com\OneDrive\Desktop\Projekti-Testimi i Softuerit dhe Sigurimi i Cilësisë\Testimi\Testimi\BibliotekaMS\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\win-ks.com\OneDrive\Desktop\Projekti-Testimi i Softuerit dhe Sigurimi i Cilësisë\Testimi\Testimi\BibliotekaMS\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\win-ks.com\OneDrive\Desktop\Projekti-Testimi i Softuerit dhe Sigurimi i Cilësisë\Testimi\Testimi\BibliotekaMS\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\win-ks.com\OneDrive\Desktop\Projekti-Testimi i Softuerit dhe Sigurimi i Cilësisë\Testimi\Testimi\BibliotekaMS\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\win-ks.com\OneDrive\Desktop\Projekti-Testimi i Softuerit dhe Sigurimi i Cilësisë\Testimi\Testimi\BibliotekaMS\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\win-ks.com\OneDrive\Desktop\Projekti-Testimi i Softuerit dhe Sigurimi i Cilësisë\Testimi\Testimi\BibliotekaMS\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\win-ks.com\OneDrive\Desktop\Projekti-Testimi i Softuerit dhe Sigurimi i Cilësisë\Testimi\Testimi\BibliotekaMS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\win-ks.com\OneDrive\Desktop\Projekti-Testimi i Softuerit dhe Sigurimi i Cilësisë\Testimi\Testimi\BibliotekaMS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\win-ks.com\OneDrive\Desktop\Projekti-Testimi i Softuerit dhe Sigurimi i Cilësisë\Testimi\Testimi\BibliotekaMS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\win-ks.com\OneDrive\Desktop\Projekti-Testimi i Softuerit dhe Sigurimi i Cilësisë\Testimi\Testimi\BibliotekaMS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\win-ks.com\OneDrive\Desktop\Projekti-Testimi i Softuerit dhe Sigurimi i Cilësisë\Testimi\Testimi\BibliotekaMS\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\win-ks.com\OneDrive\Desktop\Projekti-Testimi i Softuerit dhe Sigurimi i Cilësisë\Testimi\Testimi\BibliotekaMS\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\win-ks.com\OneDrive\Desktop\Projekti-Testimi i Softuerit dhe Sigurimi i Cilësisë\Testimi\Testimi\BibliotekaMS\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\win-ks.com\OneDrive\Desktop\Projekti-Testimi i Softuerit dhe Sigurimi i Cilësisë\Testimi\Testimi\BibliotekaMS\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\win-ks.com\OneDrive\Desktop\Projekti-Testimi i Softuerit dhe Sigurimi i Cilësisë\Testimi\Testimi\BibliotekaMS\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\win-ks.com\OneDrive\Desktop\Projekti-Testimi i Softuerit dhe Sigurimi i Cilësisë\Testimi\Testimi\BibliotekaMS\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\win-ks.com\OneDrive\Desktop\Projekti-Testimi i Softuerit dhe Sigurimi i Cilësisë\Testimi\Testimi\BibliotekaMS\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\win-ks.com\OneDrive\Desktop\Projekti-Testimi i Softuerit dhe Sigurimi i Cilësisë\Testimi\Testimi\BibliotekaMS\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\win-ks.com\OneDrive\Desktop\Projekti-Testimi i Softuerit dhe Sigurimi i Cilësisë\Testimi\Testimi\BibliotekaMS\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\win-ks.com\OneDrive\Desktop\Projekti-Testimi i Softuerit dhe Sigurimi i Cilësisë\Testimi\Testimi\BibliotekaMS\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\win-ks.com\OneDrive\Desktop\Projekti-Testimi i Softuerit dhe Sigurimi i Cilësisë\Testimi\Testimi\BibliotekaMS\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\win-ks.com\OneDrive\Desktop\Projekti-Testimi i Softuerit dhe Sigurimi i Cilësisë\Testimi\Testimi\BibliotekaMS\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\win-ks.com\OneDrive\Desktop\Projekti-Testimi i Softuerit dhe Sigurimi i Cilësisë\Testimi\Testimi\BibliotekaMS\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\win-ks.com\OneDrive\Desktop\Projekti-Testimi i Softuerit dhe Sigurimi i Cilësisë\Testimi\Testimi\BibliotekaMS\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\win-ks.com\OneDrive\Desktop\Projekti-Testimi i Softuerit dhe Sigurimi i Cilësisë\Testimi\Testimi\BibliotekaMS\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\win-ks.com\OneDrive\Desktop\Projekti-Testimi i Softuerit dhe Sigurimi i Cilësisë\Testimi\Testimi\BibliotekaMS\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\win-ks.com\OneDrive\Desktop\Projekti-Testimi i Softuerit dhe Sigurimi i Cilësisë\Testimi\Testimi\BibliotekaMS\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\win-ks.com\OneDrive\Desktop\Projekti-Testimi i Softuerit dhe Sigurimi i Cilësisë\Testimi\Testimi\BibliotekaMS\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\win-ks.com\OneDrive\Desktop\Projekti-Testimi i Softuerit dhe Sigurimi i Cilësisë\Testimi\Testimi\BibliotekaMS\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\win-ks.com\OneDrive\Desktop\Projekti-Testimi i Softuerit dhe Sigurimi i Cilësisë\Testimi\Testimi\BibliotekaMS\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\win-ks.com\OneDrive\Desktop\Projekti-Testimi i Softuerit dhe Sigurimi i Cilësisë\Testimi\Testimi\BibliotekaMS\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\win-ks.com\OneDrive\Desktop\Projekti-Testimi i Softuerit dhe Sigurimi i Cilësisë\Testimi\Testimi\BibliotekaMS\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\win-ks.com\OneDrive\Desktop\Projekti-Testimi i Softuerit dhe Sigurimi i Cilësisë\Testimi\Testimi\BibliotekaMS\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\win-ks.com\OneDrive\Desktop\Projekti-Testimi i Softuerit dhe Sigurimi i Cilësisë\Testimi\Testimi\BibliotekaMS\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\win-ks.com\OneDrive\Desktop\Projekti-Testimi i Softuerit dhe Sigurimi i Cilësisë\Testimi\Testimi\BibliotekaMS\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\win-ks.com\OneDrive\Desktop\Projekti-Testimi i Softuerit dhe Sigurimi i Cilësisë\Testimi\Testimi\BibliotekaMS\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\win-ks.com\OneDrive\Desktop\Projekti-Testimi i Softuerit dhe Sigurimi i Cilësisë\Testimi\Testimi\BibliotekaMS\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\win-ks.com\OneDrive\Desktop\Projekti-Testimi i Softuerit dhe Sigurimi i Cilësisë\Testimi\Testimi\BibliotekaMS\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\win-ks.com\OneDrive\Desktop\Projekti-Testimi i Softuerit dhe Sigurimi i Cilësisë\Testimi\Testimi\BibliotekaMS\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\win-ks.com\OneDrive\Desktop\Projekti-Testimi i Softuerit dhe Sigurimi i Cilësisë\Testimi\Testimi\BibliotekaMS\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\win-ks.com\OneDrive\Desktop\Projekti-Testimi i Softuerit dhe Sigurimi i Cilësisë\Testimi\Testimi\BibliotekaMS\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\win-ks.com\OneDrive\Desktop\Projekti-Testimi i Softuerit dhe Sigurimi i Cilësisë\Testimi\Testimi\BibliotekaMS\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\win-ks.com\OneDrive\Desktop\Projekti-Testimi i Softuerit dhe Sigurimi i Cilësisë\Testimi\Testimi\BibliotekaMS\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\win-ks.com\OneDrive\Desktop\Projekti-Testimi i Softuerit dhe Sigurimi i Cilësisë\Testimi\Testimi\BibliotekaMS\bin\Debug\net6.0\System.IO.Packaging.dll
+C:\Users\win-ks.com\OneDrive\Desktop\Projekti-Testimi i Softuerit dhe Sigurimi i Cilësisë\Testimi\Testimi\BibliotekaMS\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\win-ks.com\OneDrive\Desktop\Projekti-Testimi i Softuerit dhe Sigurimi i Cilësisë\Testimi\Testimi\BibliotekaMS\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\win-ks.com\OneDrive\Desktop\Projekti-Testimi i Softuerit dhe Sigurimi i Cilësisë\Testimi\Testimi\BibliotekaMS\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\win-ks.com\OneDrive\Desktop\Projekti-Testimi i Softuerit dhe Sigurimi i Cilësisë\Testimi\Testimi\BibliotekaMS\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\win-ks.com\OneDrive\Desktop\Projekti-Testimi i Softuerit dhe Sigurimi i Cilësisë\Testimi\Testimi\BibliotekaMS\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\win-ks.com\OneDrive\Desktop\Projekti-Testimi i Softuerit dhe Sigurimi i Cilësisë\Testimi\Testimi\BibliotekaMS\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\win-ks.com\OneDrive\Desktop\Projekti-Testimi i Softuerit dhe Sigurimi i Cilësisë\Testimi\Testimi\BibliotekaMS\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\win-ks.com\OneDrive\Desktop\Projekti-Testimi i Softuerit dhe Sigurimi i Cilësisë\Testimi\Testimi\BibliotekaMS\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\win-ks.com\OneDrive\Desktop\Projekti-Testimi i Softuerit dhe Sigurimi i Cilësisë\Testimi\Testimi\BibliotekaMS\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\win-ks.com\OneDrive\Desktop\Projekti-Testimi i Softuerit dhe Sigurimi i Cilësisë\Testimi\Testimi\BibliotekaMS\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\win-ks.com\OneDrive\Desktop\Projekti-Testimi i Softuerit dhe Sigurimi i Cilësisë\Testimi\Testimi\BibliotekaMS\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\win-ks.com\OneDrive\Desktop\Projekti-Testimi i Softuerit dhe Sigurimi i Cilësisë\Testimi\Testimi\BibliotekaMS\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\win-ks.com\OneDrive\Desktop\Projekti-Testimi i Softuerit dhe Sigurimi i Cilësisë\Testimi\Testimi\BibliotekaMS\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\win-ks.com\OneDrive\Desktop\Projekti-Testimi i Softuerit dhe Sigurimi i Cilësisë\Testimi\Testimi\BibliotekaMS\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\win-ks.com\OneDrive\Desktop\Projekti-Testimi i Softuerit dhe Sigurimi i Cilësisë\Testimi\Testimi\BibliotekaMS\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\win-ks.com\OneDrive\Desktop\Projekti-Testimi i Softuerit dhe Sigurimi i Cilësisë\Testimi\Testimi\BibliotekaMS\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\win-ks.com\OneDrive\Desktop\Projekti-Testimi i Softuerit dhe Sigurimi i Cilësisë\Testimi\Testimi\BibliotekaMS\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\win-ks.com\OneDrive\Desktop\Projekti-Testimi i Softuerit dhe Sigurimi i Cilësisë\Testimi\Testimi\BibliotekaMS\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\win-ks.com\OneDrive\Desktop\Projekti-Testimi i Softuerit dhe Sigurimi i Cilësisë\Testimi\Testimi\BibliotekaMS\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\win-ks.com\OneDrive\Desktop\Projekti-Testimi i Softuerit dhe Sigurimi i Cilësisë\Testimi\Testimi\BibliotekaMS\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\win-ks.com\OneDrive\Desktop\Projekti-Testimi i Softuerit dhe Sigurimi i Cilësisë\Testimi\Testimi\BibliotekaMS\obj\Debug\net6.0\BibliotekaMS.csproj.AssemblyReference.cache
+C:\Users\win-ks.com\OneDrive\Desktop\Projekti-Testimi i Softuerit dhe Sigurimi i Cilësisë\Testimi\Testimi\BibliotekaMS\obj\Debug\net6.0\BibliotekaMS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\win-ks.com\OneDrive\Desktop\Projekti-Testimi i Softuerit dhe Sigurimi i Cilësisë\Testimi\Testimi\BibliotekaMS\obj\Debug\net6.0\BibliotekaMS.AssemblyInfoInputs.cache
+C:\Users\win-ks.com\OneDrive\Desktop\Projekti-Testimi i Softuerit dhe Sigurimi i Cilësisë\Testimi\Testimi\BibliotekaMS\obj\Debug\net6.0\BibliotekaMS.AssemblyInfo.cs
+C:\Users\win-ks.com\OneDrive\Desktop\Projekti-Testimi i Softuerit dhe Sigurimi i Cilësisë\Testimi\Testimi\BibliotekaMS\obj\Debug\net6.0\BibliotekaMS.csproj.CoreCompileInputs.cache
+C:\Users\win-ks.com\OneDrive\Desktop\Projekti-Testimi i Softuerit dhe Sigurimi i Cilësisë\Testimi\Testimi\BibliotekaMS\obj\Debug\net6.0\BibliotekaMS.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\win-ks.com\OneDrive\Desktop\Projekti-Testimi i Softuerit dhe Sigurimi i Cilësisë\Testimi\Testimi\BibliotekaMS\obj\Debug\net6.0\BibliotekaMS.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\win-ks.com\OneDrive\Desktop\Projekti-Testimi i Softuerit dhe Sigurimi i Cilësisë\Testimi\Testimi\BibliotekaMS\obj\Debug\net6.0\BibliotekaMS.sourcelink.json
+C:\Users\win-ks.com\OneDrive\Desktop\Projekti-Testimi i Softuerit dhe Sigurimi i Cilësisë\Testimi\Testimi\BibliotekaMS\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\win-ks.com\OneDrive\Desktop\Projekti-Testimi i Softuerit dhe Sigurimi i Cilësisë\Testimi\Testimi\BibliotekaMS\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\win-ks.com\OneDrive\Desktop\Projekti-Testimi i Softuerit dhe Sigurimi i Cilësisë\Testimi\Testimi\BibliotekaMS\obj\Debug\net6.0\staticwebassets\msbuild.BibliotekaMS.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\win-ks.com\OneDrive\Desktop\Projekti-Testimi i Softuerit dhe Sigurimi i Cilësisë\Testimi\Testimi\BibliotekaMS\obj\Debug\net6.0\staticwebassets\msbuild.build.BibliotekaMS.props
+C:\Users\win-ks.com\OneDrive\Desktop\Projekti-Testimi i Softuerit dhe Sigurimi i Cilësisë\Testimi\Testimi\BibliotekaMS\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.BibliotekaMS.props
+C:\Users\win-ks.com\OneDrive\Desktop\Projekti-Testimi i Softuerit dhe Sigurimi i Cilësisë\Testimi\Testimi\BibliotekaMS\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.BibliotekaMS.props
+C:\Users\win-ks.com\OneDrive\Desktop\Projekti-Testimi i Softuerit dhe Sigurimi i Cilësisë\Testimi\Testimi\BibliotekaMS\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\win-ks.com\OneDrive\Desktop\Projekti-Testimi i Softuerit dhe Sigurimi i Cilësisë\Testimi\Testimi\BibliotekaMS\obj\Debug\net6.0\scopedcss\bundle\BibliotekaMS.styles.css
+C:\Users\win-ks.com\OneDrive\Desktop\Projekti-Testimi i Softuerit dhe Sigurimi i Cilësisë\Testimi\Testimi\BibliotekaMS\obj\Debug\net6.0\Bibliote.6EB1E01D.Up2Date
+C:\Users\win-ks.com\OneDrive\Desktop\Projekti-Testimi i Softuerit dhe Sigurimi i Cilësisë\Testimi\Testimi\BibliotekaMS\obj\Debug\net6.0\BibliotekaMS.dll
+C:\Users\win-ks.com\OneDrive\Desktop\Projekti-Testimi i Softuerit dhe Sigurimi i Cilësisë\Testimi\Testimi\BibliotekaMS\obj\Debug\net6.0\refint\BibliotekaMS.dll
+C:\Users\win-ks.com\OneDrive\Desktop\Projekti-Testimi i Softuerit dhe Sigurimi i Cilësisë\Testimi\Testimi\BibliotekaMS\obj\Debug\net6.0\BibliotekaMS.pdb
+C:\Users\win-ks.com\OneDrive\Desktop\Projekti-Testimi i Softuerit dhe Sigurimi i Cilësisë\Testimi\Testimi\BibliotekaMS\obj\Debug\net6.0\BibliotekaMS.genruntimeconfig.cache
+C:\Users\win-ks.com\OneDrive\Desktop\Projekti-Testimi i Softuerit dhe Sigurimi i Cilësisë\Testimi\Testimi\BibliotekaMS\obj\Debug\net6.0\ref\BibliotekaMS.dll

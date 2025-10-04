@@ -1,0 +1,13 @@
+.chart-card-header {
+    background: linear-gradient(45deg, #981c5c, #981c5c);
+    color: #fff;
+    font-weight: 500;
+    border-top-left-radius: 0.5rem;
+    border-top-right-radius: 0.5rem;
+  }
+  
+  /* Optional: Give icons a white color inside the gradient header */
+  .chart-card-header svg {
+    color: #981c5c !important;
+  }
+  
