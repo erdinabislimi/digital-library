@@ -89,17 +89,6 @@ npm install
 npm start
 ```
 
-## Screenshots  
-- **Dashboard**
-  <img width="1882" height="925" alt="dashboard" src="https://github.com/user-attachments/assets/b4e64ba8-902b-4c60-8c8e-2c8222695bf2" />
-- **Books Management**
-  <img width="1896" height="925" alt="books" src="https://github.com/user-attachments/assets/245cf1ea-cf40-49d6-a78b-794f40fb8b34" />
-
-- **Homepage**
-  <img width="1914" height="929" alt="homepage" src="https://github.com/user-attachments/assets/d897bc12-3afd-4407-b044-7ecc82c72dcd" />
-
-- **Login**
-  <img width="1912" height="926" alt="login" src="https://github.com/user-attachments/assets/13e7da7c-8b0f-4846-a813-31fa5bb1a5f7" />
 
 ## License
 This project is open-source and available under the MIT License.
